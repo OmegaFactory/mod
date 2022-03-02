@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_engine_data : heavy_1000m.mercedes.actros.engine
+{
+	name: "heavy 1000 manual"
+	price: 19440
+	unlock: 14
+	info[]: "1000 @@hp@@ (735@@kw@@)"
+	info[]: "5@@dg@@550 @@nm@@"
+	info[]: "1@@dg@@400-2@@dg@@300 @@rpm@@"
+	icon: "engine_volvo_d16"
+
+	torque: 5550
+	volume: 5.0	
+
+	torque_curve[]: (100, 0)
+	torque_curve[]: (200, 0.53)
+	torque_curve[]: (400, 0.75)
+	torque_curve[]: (600, 0.8)
+	torque_curve[]: (800, 0.85)
+	torque_curve[]: (1000, 0.9)
+	torque_curve[]: (1200, 0.95)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1500, 1)
+	torque_curve[]: (1600, 1)
+	torque_curve[]: (1700, 1)
+	torque_curve[]: (1800, 1)
+	torque_curve[]: (2000, 1)
+	torque_curve[]: (2200, 1)
+	torque_curve[]: (2300, 1)
+	torque_curve[]: (2400, 0.95)
+	torque_curve[]: (2450, 0.9)
+	torque_curve[]: (2500, 0.8)
+	torque_curve[]: (2550, 0.5)
+	torque_curve[]: (2600, 0)
+
+	rpm_idle: 550
+	rpm_limit: 2500
+	rpm_range_low_gear: (1400, 2000)
+	rpm_range_high_gear: (1500, 2200)
+	rpm_range_power: (450, 350)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 1	
+	engine_brake_positions: 3
+	
+@include "jc_n14_sound.sui"
+
+}
+}

@@ -1,0 +1,45 @@
+SiiNunit
+{
+accessory_engine_data : heavy_1000m.volvo.fh16.engine
+{
+	name: "heavy 1000 manual"
+	price: 19440
+	unlock: 14
+	info[]: "1000 @@hp@@ (735@@kw@@)"
+	info[]: "5@@dg@@000 @@nm@@"
+	info[]: "1@@dg@@400-2@@dg@@000 @@rpm@@"
+	icon: "engine_volvo_d16"
+
+	torque: 5000
+	volume: 5.0	
+
+	torque_curve[]: (150, 0)
+	torque_curve[]: (310, 0.6)
+	torque_curve[]: (800, 0.8)
+	torque_curve[]: (1000, 1)
+	torque_curve[]: (1100, 1)
+	torque_curve[]: (1200, 1)
+	torque_curve[]: (1300, 1)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1500, 0.95)
+	torque_curve[]: (1600, 0.9)
+	torque_curve[]: (1700, 0.85)
+	torque_curve[]: (1800, 0.8)
+	torque_curve[]: (2000, 0.72)
+	torque_curve[]: (2300, 0.6)
+	torque_curve[]: (2600, 0)
+
+	rpm_idle: 550
+	rpm_limit: 2500
+	rpm_range_low_gear: (800, 1500)
+	rpm_range_high_gear: (1100, 2000)
+	rpm_range_power: (1000, 2000)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 1	
+	engine_brake_positions: 3
+	
+@include "jc_cat_3408_sound.sui"
+
+}
+}
