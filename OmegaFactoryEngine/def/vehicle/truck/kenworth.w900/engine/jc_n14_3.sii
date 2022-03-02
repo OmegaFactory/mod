@@ -34,7 +34,7 @@ accessory_engine_data : jcn14_3.kenworth.w900.engine
 	rpm_range_high_gear: (1400, 2100)
 	rpm_range_power: (1500, 2100)
 
-	volume: 10
+	volume: 8
 
 	engine_brake: 2
 	engine_brake_downshift: 0
