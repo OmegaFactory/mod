@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : stock.westernstar.49x.f_fender
+{
+	name: "@@standard@@"
+	price: 350
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/f_fender/stock"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/f_fender/stock.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s72.westernstar.49x.cabin"
+}
+}

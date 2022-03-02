@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : .t680
+{
+	model: "/vehicle/trailer/truck_transporter/cargo/ai_b.pmd"
+	lods[]: "/vehicle/trailer/truck_transporter/cargo/ai_b_lod01.pmd"
+	lods[]: "/vehicle/trailer/truck_transporter/cargo/ai_b_lod02.pmd"
+ 
+	variant: first
+	look: color4
+}
+}
+

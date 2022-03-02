@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color5.volvo.vnl.paint_job
+{
+	name: "P3480 Yellow Freight Orange"
+	price: 2900
+	unlock: 0
+	base_color: (0.42, 0.1024, 0.0105)
+	base_color_locked: true
+	stock: true
+}
+}

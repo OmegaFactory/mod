@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape06c.peterbilt.389.sideskirt
+{
+	name: "Chrome Exclusive Sideskirts"
+	price: 5530
+	unlock: 15
+	icon: "peterbilt_389/sideskirt06_c"
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/peterbilt_389/sideskirt06_c.pmd"
+
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+}
+}

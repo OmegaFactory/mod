@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : ch_cover_day.westernstar.49x.rear_cab
+{
+	name: "Chrome Covered Vent"
+	price: 630
+	unlock: 13
+	icon: "truck/westernstar_49x/accessory/rear_cab/cover_chrmc"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/rear_cab/cover_chrmc.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

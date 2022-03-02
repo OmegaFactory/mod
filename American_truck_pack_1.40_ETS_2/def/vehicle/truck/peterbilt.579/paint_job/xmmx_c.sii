@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : xmmx_c.peterbilt.579.paint_job
+{
+@include "xmmx_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/xmmx/pjm_at_0x2048_size_2048x2048.tobj"
+	suitable_for[]: "exclusive.peterbilt.579.cabin"
+}
+}

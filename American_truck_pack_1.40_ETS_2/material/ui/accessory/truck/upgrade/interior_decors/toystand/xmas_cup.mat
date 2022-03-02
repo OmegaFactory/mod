@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "xmas_cup.tobj"
+	texture_name : "texture"
+}

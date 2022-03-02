@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : std_dog.mack.anthem.mudflaps
+{
+	name: "@@standard@@"
+	price: 100
+	unlock: 0
+	icon: "mack_anthem/mdflp_strght_dog"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/mudflaps/mudflaps_0_2_1.pmd"
+	look: dog
+}
+}

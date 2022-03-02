@@ -1,0 +1,8 @@
+glass_pane_data : .intlonestar.r.pane.back_hi
+{
+	locator: back_hi
+	size: (0.6, 0.5)
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

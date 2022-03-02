@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : bottom.mack.anthem.exhaust
+{
+	name: "Bottom"
+	price: 3760
+	unlock: 0
+	icon: "mack_anthem/exhst_undrfrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/exhaust/exhaust_0_1_1.pmd"
+}
+}

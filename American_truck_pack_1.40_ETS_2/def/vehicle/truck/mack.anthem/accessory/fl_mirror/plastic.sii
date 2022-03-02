@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : plastic.mack.anthem.fl_mirror
+{
+	name: "@@standard@@"
+	price: 280
+	unlock: 3
+	icon: "mack_anthem/f_mrror_plstc"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/fl_mirror/fl_mirror_0_1_3.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/fl_mirror/fl_mirror_0_1_3_int.pmd"
+}
+}

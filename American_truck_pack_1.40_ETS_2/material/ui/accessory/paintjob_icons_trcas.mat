@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "paintjob_icons_trcas.tobj"
+	texture_name : "texture"
+}

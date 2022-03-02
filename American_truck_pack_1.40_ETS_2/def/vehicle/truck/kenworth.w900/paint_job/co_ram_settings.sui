@@ -1,0 +1,29 @@
+	name: "Big Rocky"
+	price: 26000
+	unlock: 0
+	airbrush: true
+	base_color: (0.000607, 0.278878, 0.708376)
+	base_color_locked: false
+	color_variant[]: (0.490998, 0.194618, 0.000000)
+	color_variant[]: (0.070367, 0.006995, 0.003035)
+	color_variant[]: (0.434132, 0.177901, 0.034340)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.258183, 0.000000, 0.009724)
+	color_variant[]: (0.046671, 0.000305, 0.000305)
+	color_variant[]: (0.783538, 0.000000, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.064803, 0.064803, 0.064803)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.020292, 0.024162, 0.078195)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.000000, 0.376262, 0.799103)
+	flake_color_locked: false
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.000000, 0.016811, 0.030718)
+	flip_color_locked: false
+	flip_strength: 0.930000
+	flipflake: true
+	icon: "bigrocky"

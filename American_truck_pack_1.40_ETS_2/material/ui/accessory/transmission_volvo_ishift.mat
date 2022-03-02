@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "transmission_volvo_ishift.tobj"
+	texture_name : "texture"
+}

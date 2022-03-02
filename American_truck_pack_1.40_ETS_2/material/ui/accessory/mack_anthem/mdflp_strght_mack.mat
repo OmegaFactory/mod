@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "mdflp_strght_mack.tobj"
+	texture_name : "texture"
+}

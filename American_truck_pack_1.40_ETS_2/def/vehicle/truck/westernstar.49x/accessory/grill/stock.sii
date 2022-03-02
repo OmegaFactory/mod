@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : stock.westernstar.49x.grill
+{
+	name: "@@standard@@"
+	price: 2500
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/grill/stock"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/grill/stock.pmd"
+}
+}

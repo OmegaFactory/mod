@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/mack_anthem/interior/seat_fabric_perforated_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/mack_anthem/interior/seat_fabric_perforated_n.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.265685 , 0.273088 , 0.277055 }
+	reflection : 0
+	shininess : 18
+	specular : { 0.54126 , 0.54126 , 0.54126 }
+}

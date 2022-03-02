@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : exclusive.kenworth.w900.steering_w
+{
+	name: "Kenworth Classic"
+	price: 360
+	unlock: 10
+	icon: "kenworth_w900/steering_w_excl"
+	interior_model: "/vehicle/truck/upgrade/steering_w/kenworth_w900/exclusive.pmd"
+
+}
+}

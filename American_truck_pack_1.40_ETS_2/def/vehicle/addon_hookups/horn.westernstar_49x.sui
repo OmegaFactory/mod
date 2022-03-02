@@ -1,0 +1,12 @@
+accessory_horn_hookup_data : horn1ws.addon_hookup
+{
+	name: "Roar WS"
+	icon: "horn01"
+	price: 380
+	unlock: 1
+
+	model: "/vehicle/truck/upgrade/horn/horn01_ws49x.pmd"
+	sound_path: "/sound/truck/air_horn/air_horn_09.soundref"
+
+	suitable_for[]: "horns"
+}

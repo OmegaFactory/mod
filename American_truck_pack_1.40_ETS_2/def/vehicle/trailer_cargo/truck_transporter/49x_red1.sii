@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : .49x
+{
+	model: "/vehicle/trailer/truck_transporter/cargo/dcb.pmd"
+	lods[]: "/vehicle/trailer/truck_transporter/cargo/dcb_lod1.pmd"
+	lods[]: "/vehicle/trailer/truck_transporter/cargo/dcb_lod2.pmd"
+ 
+	variant: first
+	look: red
+}
+}
+

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : day_2.mack.anthem.exhaust
+{
+	name: "Double"
+	price: 10540
+	unlock: 10
+	icon: "mack_anthem/exhst_dbl"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/exhaust/exhaust_3_2_1.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/exhaust/exhaust_3_2_1.pmd"
+
+	suitable_for[]: "day.mack.anthem.cabin"
+}
+}

@@ -1,0 +1,12 @@
+	name: "Palm Beach"
+	price: 27000
+	unlock: 17
+	base_color: (0.904628, 0.296121, 0.001214)
+	base_color_locked: false
+	icon: "mack_anthem/paint_lnd"
+	mask_b_color: (0.088656, 0.035606, 0.011612)
+	mask_b_locked: false
+	mask_g_color: (0.479298, 0.068478, 0.001214)
+	mask_g_locked: false
+	mask_r_color: (0.879622, 0.693872, 0.250158)
+	mask_r_locked: false

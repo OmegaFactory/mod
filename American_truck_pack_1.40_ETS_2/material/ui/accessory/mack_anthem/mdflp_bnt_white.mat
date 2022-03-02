@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "mdflp_bnt_white.tobj"
+	texture_name : "texture"
+}

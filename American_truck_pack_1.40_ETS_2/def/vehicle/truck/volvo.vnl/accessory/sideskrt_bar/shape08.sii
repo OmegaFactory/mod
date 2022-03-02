@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape08.volvo.vnl.sideskrt_bar
+{
+	name: "Chromed"
+	price: 1500
+	unlock: 8
+	icon: "volvo_vnl/s_bar02"
+	exterior_model: "/vehicle/truck/upgrade/sideskrt_bar/volvo_vnl/stripe02_long.pmd"
+	suitable_for[]: "shape03.volvo.vnl.sideskirt"
+
+
+}
+}

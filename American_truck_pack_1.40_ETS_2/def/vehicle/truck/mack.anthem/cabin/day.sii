@@ -1,0 +1,45 @@
+SiiNunit
+{
+accessory_cabin_data : day.mack.anthem.cabin
+{
+	name: "Day Cab"
+	price: 16600
+	unlock: 0
+	icon: "mack_anthem/cab_dcb"
+
+	model: "/vehicle/truck/mack_anthem/cabin/cabin_dcb.pmd"
+	collision: "/vehicle/truck/mack_anthem/cabin/cabin_dcb.pmc"
+	variant: default
+	look: default
+
+	wiper_model: "/vehicle/truck/mack_anthem/cabin/wiper.pmd"
+	wiper_anim: "/vehicle/truck/mack_anthem/cabin/wiper_anim.pma"
+	suspension: false
+
+	windows_model: "/vehicle/truck/mack_anthem/cabin/win_open.pmd"
+	left_window_anim: "/vehicle/truck/mack_anthem/cabin/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/mack_anthem/cabin/win_open_r.pma"
+
+	defaults[]: "/def/vehicle/truck/mack.anthem/chassis/6x2_short_72.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/interior/day_standard_grey.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/doorhndl/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/filters/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/hood/silver_dog.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/grill/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/mirror/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/hndrail/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/rear_cab/day_black.sii"
+//	defaults[]: "/def/vehicle/truck/mack.anthem/paint_job/color1.sii"
+
+	conflict_with[]: "6x4l_142.mack.anthem.chassis"
+	conflict_with[]: "6x4l_117.mack.anthem.chassis"
+	conflict_with[]: "6x2l_142.mack.anthem.chassis"
+	conflict_with[]: "6x2l_117.mack.anthem.chassis"
+	conflict_with[]: "6x4m_117.mack.anthem.chassis"
+	conflict_with[]: "6x4m_93.mack.anthem.chassis"
+	conflict_with[]: "6x2m_117.mack.anthem.chassis"
+	conflict_with[]: "6x2m_93.mack.anthem.chassis"
+
+@include "sound.sui"
+}
+}

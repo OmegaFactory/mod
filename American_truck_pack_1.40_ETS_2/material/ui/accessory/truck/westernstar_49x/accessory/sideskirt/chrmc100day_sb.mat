@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "chrmc100day_sb.tobj"
+	texture_name : "texture"
+}

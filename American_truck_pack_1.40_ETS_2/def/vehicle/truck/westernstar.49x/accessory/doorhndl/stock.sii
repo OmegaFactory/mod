@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : stock.westernstar.49x.doorhndl
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/doorhndl/stock_s"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/doorhndl/stock_s.pmd"
+}
+}

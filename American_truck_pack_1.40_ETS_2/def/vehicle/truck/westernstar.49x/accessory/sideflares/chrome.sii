@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : chrome.westernstar.49x.sideflares
+{
+	name: "@@chrom@@"
+	price: 400
+	unlock: 12
+	icon: "truck/westernstar_49x/accessory/sideflares/chrmc_1"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/sideflares/chrmc_1.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

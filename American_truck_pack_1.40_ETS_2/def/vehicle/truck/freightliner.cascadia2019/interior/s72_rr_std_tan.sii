@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_interior_data	: s72_rr_std_t.freightliner.cascadia2019.interior
+{
+	name: "Standard Tan"
+	price: 15180
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/std_tan"
+	model: "/vehicle/truck/freightliner_cascadia2019/interior/model/sl_72rr.pmd"
+	animated_model: "/vehicle/truck/freightliner_cascadia2019/interior/animation/animation.pmd"
+	collision: "/vehicle/truck/freightliner_cascadia2019/interior/model/sl_72rr.pmc"
+	look: Default
+	variant: std_tan
+
+	ext_model: "/vehicle/truck/freightliner_cascadia2019/interior/external/sl_72rr.pmd"
+	ext_look: std_tan
+	ext_variant: default
+
+	suitable_for[]: "s72_rr.freightliner.cascadia2019.cabin"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/steering_w/standard.sii"
+
+@include "animations.sui"
+
+@include "computers.sui"
+
+	glass_panes[]: .freightliner.cascadia2019.r.pane.front
+	glass_panes[]: .freightliner.cascadia2019.r.pane.close
+	glass_panes[]: .freightliner.cascadia2019.r.pane.far
+	glass_panes[]: .freightliner.cascadia2019.r.pane.back_s72
+
+@include "seat.sui"
+@include "sound.sui"
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_s72.sui"
+}

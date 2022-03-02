@@ -1,0 +1,5 @@
+material : "ui"
+{ 
+	texture: "rear_disc_05.tobj" 
+texture_name : "texture" 
+}

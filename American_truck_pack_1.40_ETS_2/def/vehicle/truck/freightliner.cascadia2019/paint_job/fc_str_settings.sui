@@ -1,0 +1,16 @@
+	name: "Golden Edge"
+	price: 25000
+	unlock: 15
+	base_color: (0.042311, 0.042311, 0.042311)
+	base_color_locked: false
+	color_variant[]: (0.002126, 0.019382, 0.116971)
+	color_variant[]: (0.000000, 0.107023, 0.332433)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.502863, 0.502863, 0.502863)
+	color_variant[]: (0.015996, 0.080220, 0.205093)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	icon: "freightliner_cascadia2019/fci_str"
+	mask_b_color: (0.258183, 0.152938, 0.033110)
+	mask_b_locked: false

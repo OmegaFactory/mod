@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape01.peterbilt.389.grill
+{
+	name: "@@standard@@"
+	price: 2500
+	unlock: 0
+	icon: "peterbilt_389/grill01"
+	exterior_model: "/vehicle/truck/upgrade/grill/peterbilt_389/grill01.pmd"
+	interior_model: "/vehicle/truck/upgrade/grill/peterbilt_389/grill01interior.pmd"
+}
+}

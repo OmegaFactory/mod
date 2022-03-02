@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : co_ram_b.mack.anthem.paint_job
+{
+@include "co_ram_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mack_anthem/co_ram/pjm_at_0x4096_size_2048x2048.tobj"
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

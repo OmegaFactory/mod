@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "blck_sf_white.tobj"
+	texture_name : "texture"
+}

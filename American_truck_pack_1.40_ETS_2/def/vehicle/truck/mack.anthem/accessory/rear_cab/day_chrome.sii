@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : day_chrome.mack.anthem.rear_cab
+{
+	name: "@@chrom@@"
+	price: 420
+	unlock: 9
+	icon: "mack_anthem/reardaycab_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/rear_cab/rear_cab_3_1_1.pmd"
+
+	suitable_for[]: "day.mack.anthem.cabin"
+}
+}

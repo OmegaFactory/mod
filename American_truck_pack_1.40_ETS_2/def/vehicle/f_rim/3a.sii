@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 3a.frim
+{
+	name: "Progress"
+	price: 910
+	unlock: 9
+	icon: "wf_3a"
+	model: "/vehicle/truck/upgrade/wheel/rim/front_3a.pmd"
+
+	tire_shift: -0.02
+}
+}

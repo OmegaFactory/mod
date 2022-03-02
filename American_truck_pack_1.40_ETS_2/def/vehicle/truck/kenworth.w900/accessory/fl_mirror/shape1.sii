@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape1.kenworth.w900.fl_mirror
+{
+	name: "@@classic@@"
+	price: 280
+	unlock: 3
+	icon: "kenworth_w900/front_mirror"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/kenworth_w900/mirror_01_front_left.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/kenworth_w900/mirror_01_front_left_int.pmd"
+}
+}

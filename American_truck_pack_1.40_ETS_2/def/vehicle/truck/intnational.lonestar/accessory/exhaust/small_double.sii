@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_addon_data : small_2.intnational.lonestar.exhaust
+{
+	name: "Exhaust Dual"
+	price: 6840
+	unlock: 8
+	icon: "international_lonestar/exh_a_c"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/exhaust/exhaust_a_c.pmd"
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/exhaust/exhaust_a_bc_int.pmd"
+
+	suitable_for[]: "6x2s_70.intnational.lonestar.chassis"
+	suitable_for[]: "6x4s_70.intnational.lonestar.chassis"
+	suitable_for[]: "6x2s_100.intnational.lonestar.chassis"
+	suitable_for[]: "6x4s_100.intnational.lonestar.chassis"
+	suitable_for[]: "8x4s_70.intnational.lonestar.chassis"
+	suitable_for[]: "8x4s_100.intnational.lonestar.chassis"
+}
+}

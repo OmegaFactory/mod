@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s70_oc.mack.anthem.sideflares
+{
+	name: "Orange Side Flare Chrome Bar"
+	price: 400
+	unlock: 12
+	icon: "mack_anthem/sflr_orangebar"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideflares/sflr_1_1_1.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

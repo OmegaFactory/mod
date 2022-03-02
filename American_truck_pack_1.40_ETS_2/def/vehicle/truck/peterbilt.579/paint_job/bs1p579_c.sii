@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : bs1p579_c.peterbilt.579.paint_job
+{
+@include "bs1p579_settings.sui"
+	suitable_for[]: "exclusive.peterbilt.579.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/bs1p579/cabin3.tobj"
+}
+}

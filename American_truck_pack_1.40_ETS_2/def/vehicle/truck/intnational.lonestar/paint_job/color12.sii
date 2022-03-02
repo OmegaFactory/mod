@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color12.intnational.lonestar.paint_job
+{
+	name: "Dark Blue"
+	price: 2900
+	unlock: 0
+ 	base_color: (0.004777, 0.025187, 0.111932)
+	base_color_locked: true
+	stock: true
+}
+}

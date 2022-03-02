@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "snshld_s70_noneblck.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,20 @@
+	name: "Blue Bytes"
+	price: 29000
+	unlock: 19
+	base_color: (0.015212, 0.015212, 0.015212)
+	base_color_locked: false
+	color_variant[]: (0.147039, 0.000000, 0.000000)
+	color_variant[]: (0.017642, 0.017642, 0.017642)
+	color_variant[]: (0.283149, 0.155926, 0.025187)
+	color_variant[]: (0.147039, 0.000000, 0.000000)
+	color_variant[]: (0.623960, 0.623960, 0.623960)
+	color_variant[]: (0.017642, 0.017642, 0.017642)
+	color_variant[]: (0.025187, 0.095316, 0.283149)
+	color_variant[]: (0.127438, 0.008023, 0.008023)
+	icon: "freightliner_cascadia2019/fci_spt"
+	mask_b_color: (0.016811, 0.088656, 0.254136)
+	mask_b_locked: false
+	mask_g_color: (0.001821, 0.300544, 0.737910)
+	mask_g_locked: false
+	mask_r_color: (0.223213, 0.337164, 0.434132)
+	mask_r_locked: false

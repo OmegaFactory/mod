@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : steel.double.rdisc
+{
+	name: "Steel"
+	price: 660
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/disc/rear_disc_steel.pmd"
+	icon: "disc/rear_disc_steel"
+
+	defaults[]: "/def/vehicle/r_tire/1.sii"
+}
+}

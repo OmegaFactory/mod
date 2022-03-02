@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : chr_st_k6_b.kenworth.t680.paint_job
+{
+@include "chr_st_k6_settings.sui"
+	suitable_for[]: "standard.kenworth.t680.cabin"
+}
+}

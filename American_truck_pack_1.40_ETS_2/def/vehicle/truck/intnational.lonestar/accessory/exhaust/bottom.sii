@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : bottom.intnational.lonestar.exhaust
+{
+	name: "Exhaust Bottom"
+	price: 3760
+	unlock: 0
+	icon: "international_lonestar/exh_a_a"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/exhaust/exhaust_a_a.pmd"
+}
+}

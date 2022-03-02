@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color6.kenworth.w900.paint_job
+{
+	name: "Metallic Blue"
+	price: 6900
+	unlock: 0
+
+	flipflake: true
+	flip_color: (0.010049, 0.178478, 0.32926)
+	flip_strength: 0.93
+	flake_color: (0.018677, 0.20538, 0.227027)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	stock: false
+	base_color: (0.016049, 0.068478, 0.22926)
+	base_color_locked: true
+}
+}

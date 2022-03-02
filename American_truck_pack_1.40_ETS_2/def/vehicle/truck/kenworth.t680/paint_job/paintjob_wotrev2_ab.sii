@@ -1,0 +1,24 @@
+SiiNunit
+{
+accessory_paint_job_data : wotrev2_ab.kenworth.t680.paint_job
+{
+	name: "Crystal Dream"
+	price: 25000
+	unlock: 0
+	icon: "kenworth_t680/paint_wotrev2"
+	mask_r_color : (0.0343, 0.0038, 0.0036)
+	mask_r_locked: false
+	mask_g_color : (0.6239, 0.5775, 0.5775)
+	mask_g_locked: false
+	mask_b_color : (0.1559, 0.0018, 0.003)
+	mask_b_locked: false
+	base_color :   (0.0666, 0, 0)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paint_wotrev2_ab.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "duty.kenworth.t680.cabin"
+	suitable_for[]: "standard.kenworth.t680.cabin"
+}
+}

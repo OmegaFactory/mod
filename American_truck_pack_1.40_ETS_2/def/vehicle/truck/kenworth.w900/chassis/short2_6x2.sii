@@ -1,0 +1,49 @@
+SiiNunit
+{
+accessory_chassis_data : short2_6x2.kenworth.w900.chassis
+{
+	name: "Short 6x2 200@@gal@@"
+	price: 21350
+	unlock: 5
+	info[]: "6x2"
+	info[]: "100/100 @@gal@@"
+	icon: "kenworth_w900/frame_s2"
+
+	model: "/vehicle/truck/kenworth_w900/truck.pmd"
+	collision: "/vehicle/truck/kenworth_w900/truck.pmc"
+	variant: chs_6x2_sh2
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/kenworth_w900/shadow_s.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/kenworth_w900/ui_shadow_short.pmd"
+
+	tank_size: 758
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: false
+	powered_axle[]: true
+
+	kerb_weight[]: 4645	# 10220lb
+	kerb_weight[]: 1406	# 3100lb
+	kerb_weight[]: 1805	# 3970lb
+
+	defaults[]: "/def/vehicle/truck/kenworth.w900/cabin/duty.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/mudflaps/shape01s.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/filters/shape01.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/trlr_cables/stock.sii"
+
+	conflict_with[]: "standard.kenworth.w900.cabin"
+	conflict_with[]: "exclusive.kenworth.w900.cabin"
+
+@include "sound.sui"
+}
+}

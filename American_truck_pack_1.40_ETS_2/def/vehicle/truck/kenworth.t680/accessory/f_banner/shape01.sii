@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.t680.f_banner
+{
+	name: "@@oversize_load@@"
+	price: 50
+	unlock: 0
+	icon: "sign_os/sign_os"
+	exterior_model: "/vehicle/truck/upgrade/f_banner/kenworth_t680/sign_os01.pmd"
+
+	suitable_for[]: "shape01.kenworth.t680.bumper"
+	suitable_for[]: "shape02.kenworth.t680.bumper"
+	suitable_for[]: "shape03.kenworth.t680.bumper"
+
+	conflict_with[]: "shape01.kenworth.t680.f_grill"
+	conflict_with[]: "shape02.kenworth.t680.f_grill"
+	conflict_with[]: "shape03.kenworth.t680.f_grill"
+	conflict_with[]: "shape04.kenworth.t680.f_grill"
+}
+}

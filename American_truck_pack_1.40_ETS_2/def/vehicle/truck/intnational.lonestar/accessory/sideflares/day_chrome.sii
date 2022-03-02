@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : day_chrom.intnational.lonestar.sideflares
+{
+	name: "Side Flares Bar Chrome"
+	price: 400
+	unlock: 12
+	icon: "international_lonestar/sidebar_cr"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/sideflares/sideflare_a_cr.pmd"
+
+	suitable_for[]: "day.intnational.lonestar.cabin"
+}
+}

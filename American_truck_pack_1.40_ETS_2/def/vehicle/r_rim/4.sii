@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 4.rrim
+{
+	name: "Seagul"
+	price: 1380
+	unlock: 6
+	icon: "wr_4"
+	model: "/vehicle/truck/upgrade/wheel/rim/rear_4.pmd"
+}
+}

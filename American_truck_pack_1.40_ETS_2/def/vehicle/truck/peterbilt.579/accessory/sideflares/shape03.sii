@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape03.peterbilt.579.sideflares
+{
+	name: "Round Side Flares"
+	price: 250
+	unlock: 7
+	icon: "peterbilt_579/sideflares_02"
+	exterior_model: "/vehicle/truck/upgrade/sideflares/peterbilt_579/sideflares03.pmd"
+	suitable_for[]: "duty.peterbilt.579.cabin"
+
+}
+}

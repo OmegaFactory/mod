@@ -1,0 +1,43 @@
+traffic_vehicle : traffic.pet579_c
+{
+	accessories[]: .pet579_c.chassis
+	accessories[]: .pet579_c.fwheel
+	accessories[]: .pet579_c.rwheel
+	accessories[]: .pet579_c.rwheel2
+	accessories[]: .pet579_c.trlr_cables
+
+	max_speed: 128
+	trailer_chains[]: "truck_semi"
+
+	sound_move[]: "/sound/traffic/truck_us_3.soundref"
+	sound_horn[]: "/sound/traffic/truck_horn_3.soundref"
+
+	vehicle_mass: 9200
+	engine_power: 373
+
+	lod_dist[]: 53
+	lod_dist[]: 70
+
+	color[]: (0.6, 0.6, 0.6) #white
+	color[]: (0.18, 0.003, 0.003) #red
+	color[]: (0.0343, 0.0343, 0.0343) #black
+	color[]: (0.01, 0.175, 0.04) #green
+	color[]: (0.030, 0.050, 0.22) #blue
+}
+
+vehicle_accessory : .pet579_c.chassis {
+	data_path: "/def/vehicle/ai/truck/peterbilt.579/cabin_exclusive.sii"
+}
+vehicle_wheel_accessory : .pet579_c.fwheel {
+	data_path: "/def/vehicle/f_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .pet579_c.rwheel {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .pet579_c.rwheel2 {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+	offset: 2
+}
+vehicle_addon_accessory : .pet579_c.trlr_cables {
+	data_path: "/def/vehicle/ai/truck/peterbilt.579/accessory/trlr_cables/stock.sii"
+}

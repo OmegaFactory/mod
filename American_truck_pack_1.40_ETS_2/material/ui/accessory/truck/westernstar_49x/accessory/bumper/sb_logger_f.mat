@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sb_logger_f.tobj"
+	texture_name : "texture"
+}

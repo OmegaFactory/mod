@@ -1,0 +1,52 @@
+SiiNunit
+{
+accessory_chassis_data : 6x4s_93.mack.anthem.chassis
+{
+	name: "Short 6x4 186@@gal@@"
+	price: 23550
+	unlock: 8
+	info[]: "6x4"
+	info[]: "93/93 @@gal@@"
+	icon: "mack_anthem/chs_6x4_dcb"
+
+	model: "/vehicle/truck/mack_anthem/chassis/chs_6x4_dcb.pmd"
+	collision: "/vehicle/truck/mack_anthem/chassis/chs_6x4_dcb.pmc"
+	variant: default
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/mack_anthem/ui_shdw_dcb.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/mack_anthem/ui_shadow/ui_shdw_shrt.pmd"
+
+	tank_size: 705
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: true
+
+	kerb_weight[]: 4082	# 9000lb
+	kerb_weight[]: 1615	# 3560lb
+	kerb_weight[]: 1615	# 3560lb
+
+	defaults[]: "/def/vehicle/truck/mack.anthem/cabin/day.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/bumper/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/exhaust/bottom.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/mudflaps/standard_mack.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/trlr_cables/stock.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/sideskirt/short_93_paint.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/paint_job/color1.sii"
+
+	conflict_with[]: "s70.mack.anthem.cabin"
+	conflict_with[]: "s48.mack.anthem.cabin"
+
+@include "sound.sui"
+}
+}

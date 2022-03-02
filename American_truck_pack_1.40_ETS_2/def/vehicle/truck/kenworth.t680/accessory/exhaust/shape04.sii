@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : shape04.kenworth.t680.exhaust
+{
+	name: "Dual Exhaust"
+	price: 11540
+	unlock: 10
+	icon: "kenworth_t680/exhaust_02"
+	exterior_model: "/vehicle/truck/upgrade/exhaust/kenworth_t680/exhaust04.pmd"
+
+	suitable_for[]: "long.kenworth.t680.chassis"
+	suitable_for[]: "long_6x2.kenworth.t680.chassis"
+	suitable_for[]: "long_6x2_m.kenworth.t680.chassis"
+	suitable_for[]: "long2.kenworth.t680.chassis"
+	suitable_for[]: "long2_6x2.kenworth.t680.chassis"
+	suitable_for[]: "long2_6x2_m.kenworth.t680.chassis"
+}
+}

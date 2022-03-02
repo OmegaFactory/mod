@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : shape04.peterbilt.579.sideskirt
+{
+	name: "Standard Plastic Sideskirts"
+	price: 3640
+	unlock: 0
+	icon: "peterbilt_579/sideskirt_04"
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/peterbilt_579/sideskirt04.pmd"
+
+	suitable_for[]: "long.peterbilt.579.chassis"
+	suitable_for[]: "long_6x2.peterbilt.579.chassis"
+	suitable_for[]: "long_6x2_m.peterbilt.579.chassis"
+	suitable_for[]: "long2.peterbilt.579.chassis"
+	suitable_for[]: "long2_6x2.peterbilt.579.chassis"
+	suitable_for[]: "long2_6x2_m.peterbilt.579.chassis"
+}
+}

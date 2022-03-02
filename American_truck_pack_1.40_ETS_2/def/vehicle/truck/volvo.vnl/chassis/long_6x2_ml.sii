@@ -1,0 +1,54 @@
+SiiNunit
+{
+accessory_chassis_data : long_6x2_m.volvo.vnl.chassis
+{
+	name: "Long 6x2 @@midlift@@ 220@@gal@@"
+	price: 24900
+	unlock: 12
+	info[]: "6x2 @@midlift@@"
+	info[]: "110/110 @@gal@@"
+	icon: "volvo_vnl/frame02"
+
+	model: "/vehicle/truck/volvo_vnl/truck.pmd"
+	collision: "/vehicle/truck/volvo_vnl/truck.pmc"
+	variant: chs_lng_ml
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/volvo_vnl/shadow_l.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/volvo_vnl/ui_shadow_long.pmd"
+
+	tank_size: 833
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: false
+
+	liftable_axle[]: false
+	liftable_axle[]: false
+	liftable_axle[]: true
+
+	kerb_weight[]: 5202	# 11445lb
+	kerb_weight[]: 2027	# 4460lb
+	kerb_weight[]: 1627	# 3590lb
+
+	defaults[]: "/def/vehicle/truck/volvo.vnl/cabin/standard.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/bumper/shape01.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/sideskirt/shape04.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/sideskrt_bar/shape10.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/exhaust/shape03.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/mudflaps/shape01.sii"
+
+	conflict_with[]: "duty.volvo.vnl.cabin"
+
+@include "sound.sui"
+}
+}

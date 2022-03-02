@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "bmp_stndrd.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape02.peterbilt.389.fr_mirror
+{
+	name: "@@chrom@@"
+	price: 320
+	unlock: 8
+	icon: "peterbilt_389/s_mirror02"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/peterbilt_389/mirror02_side.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_389/mirror02_side_int.pmd"
+}
+}

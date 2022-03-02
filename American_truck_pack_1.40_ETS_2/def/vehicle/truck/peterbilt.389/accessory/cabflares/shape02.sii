@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape02.peterbilt.389.cabflares
+{
+	name: "Light Adapter"
+	price: 50
+	unlock: 0
+	icon: "lights"
+	exterior_model: "/vehicle/truck/upgrade/cabflares/peterbilt_389/cabflares02.pmd"
+
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+}
+}

@@ -1,0 +1,51 @@
+SiiNunit
+{
+accessory_cabin_data : day.intnational.lonestar.cabin
+{
+	name: "Day Cab"
+	price: 16600
+	unlock: 0
+	icon: "international_lonestar/day"
+
+	model: "/vehicle/truck/intnational_lonestar/cabin/day.pmd"
+	collision: "/vehicle/truck/intnational_lonestar/cabin/day.pmc"
+	variant: default
+	look: default
+
+	wiper_model: "/vehicle/truck/intnational_lonestar/cabin/wiper.pmd"
+	wiper_anim: "/vehicle/truck/intnational_lonestar/cabin/wiper_anim.pma"
+	suspension: false
+
+	windows_model: "/vehicle/truck/intnational_lonestar/cabin/win_open.pmd"
+	left_window_anim: "/vehicle/truck/intnational_lonestar/cabin/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/intnational_lonestar/cabin/win_open_r.pma"
+
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/chassis/6x2_short_70.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/interior/day_std.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/mirror/plastic.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/paint_job/color1.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/doorhndl/plastic.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/sideflares/day_paint.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/filters/standard.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/hood/standard.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/grill/standard.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/sunshield/none.sii"
+
+	conflict_with[]: "6x2m_120.intnational.lonestar.chassis"
+	conflict_with[]: "6x2m_140.intnational.lonestar.chassis"
+	conflict_with[]: "6x2l_120.intnational.lonestar.chassis"
+	conflict_with[]: "6x2l_140.intnational.lonestar.chassis"
+
+	conflict_with[]: "6x4m_120.intnational.lonestar.chassis"
+	conflict_with[]: "6x4m_140.intnational.lonestar.chassis"
+	conflict_with[]: "6x4l_120.intnational.lonestar.chassis"
+	conflict_with[]: "6x4l_140.intnational.lonestar.chassis"
+
+	conflict_with[]: "8x4m_120.intnational.lonestar.chassis"
+	conflict_with[]: "8x4m_140.intnational.lonestar.chassis"
+	conflict_with[]: "8x4l_120.intnational.lonestar.chassis"
+	conflict_with[]: "8x4l_140.intnational.lonestar.chassis"
+
+@include "sound.sui"
+}
+}

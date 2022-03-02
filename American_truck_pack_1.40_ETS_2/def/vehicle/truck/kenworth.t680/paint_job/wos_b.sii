@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : wos_b.kenworth.t680.paint_job
+{
+@include "wos_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/wos/pjm_at_0x4096_size_2048x2048.tobj"
+	suitable_for[]: "standard.kenworth.t680.cabin"
+}
+}

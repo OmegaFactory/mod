@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s48.mack.anthem.horns
+{
+	name: "Horn Adapter"
+	price: 50
+	unlock: 0
+	icon: "horns"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/horns/horns_2_1_1.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.r_grill
+{
+	name: "Roof Lights 6x"
+	price: 900
+	unlock: 12
+	icon: "volvo_vnl/topflares02"
+	exterior_model: "/vehicle/truck/upgrade/topflares/volvo_vnl/topflares02.pmd"
+	suitable_for[]: "duty.volvo.vnl.cabin"
+}
+}

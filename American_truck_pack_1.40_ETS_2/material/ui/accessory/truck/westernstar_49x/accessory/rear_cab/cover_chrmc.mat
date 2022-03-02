@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cover_chrmc.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : chrome.freightliner.cascadia2019.s_mirror
+{
+	name: "@@elite@@"
+	price: 315
+	unlock: 9
+	icon: "truck/freightliner_cascadia2019/accessory/s_mirror/chrome"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/s_mirror/chrome.pmd"
+	interior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/s_mirror/s_mirror_ch_int.pmd"
+}
+}

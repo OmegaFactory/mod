@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape02.peterbilt.389.filters
+{
+	name: "Exclusive Air Filters"
+	price: 550
+	unlock: 4
+	icon: "peterbilt_389/filters02"
+	exterior_model: "/vehicle/truck/upgrade/filters/peterbilt_389/filters02.pmd"
+	interior_model: "/vehicle/truck/upgrade/filters/peterbilt_389/filters02interior.pmd"
+}
+}

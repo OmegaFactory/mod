@@ -1,0 +1,47 @@
+glass_pane_data : .kenwortht680.r.pane.front
+{
+	locator: front_glass
+	size: (2.4, 1.0)
+	edge_angle: 30
+	wipers[]: .kenwortht680.r.pane.wiper1
+	wipers[]: .kenwortht680.r.pane.wiper2
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+wiper_data : .kenwortht680.r.pane.wiper1
+{
+	center_bone: wiper_r_tip
+	length: 0.6
+}
+
+wiper_data : .kenwortht680.r.pane.wiper2
+{
+	center_bone: wiper_l_tip
+	length: 0.6
+}
+
+glass_pane_data : .kenwortht680.r.pane.close
+{
+	locator: l_glasspane
+	size: (0.86, 0.66)
+
+	openable_window_bone: win_open_l
+	openable_window_mask: "/vehicle/truck/kenworth_t680/interior/win_mask_l.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+glass_pane_data : .kenwortht680.r.pane.far
+{
+	locator: r_glasspane
+	size: (0.86, 0.66)
+
+	openable_window_bone: win_open_r
+	openable_window_mask: "/vehicle/truck/kenworth_t680/interior/win_mask_r.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

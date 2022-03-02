@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : exclusive.peterbilt.389.steering_w
+{
+	name: "Peterbilt Premium Ultra Ride"
+	price: 360
+	unlock: 10
+	icon: "peterbilt_389/steering_w_excl"
+	interior_model: "/vehicle/truck/upgrade/steering_w/peterbilt_389/exclusive.pmd"
+
+}
+}

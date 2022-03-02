@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape02a.peterbilt.389.sideskirt
+{
+	name: "Chrome Basic Sideskirts"
+	price: 2850
+	unlock: 2
+	icon: "peterbilt_389/sideskirt02_a"
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/peterbilt_389/sideskirt02_a.pmd"
+
+	suitable_for[]: "duty.peterbilt.389.cabin"
+}
+}

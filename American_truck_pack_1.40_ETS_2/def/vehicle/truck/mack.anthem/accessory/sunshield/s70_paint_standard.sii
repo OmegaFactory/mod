@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s70_pnt_std.mack.anthem.sunshield
+{
+	name: "Standard Sunshield Lights"
+	price: 480
+	unlock: 9
+	icon: "mack_anthem/snshld_s70_visrblck"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sunshield/sunshield_1_2_2.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/sunshield/sunshield_1_2_2_int.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

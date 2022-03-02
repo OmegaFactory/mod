@@ -1,0 +1,6 @@
+company_permanent: company.permanent.ws_trk_dlr
+{
+	name: "Western Star"
+	sort_name: "western star"
+	trailer_look: westernstar
+}

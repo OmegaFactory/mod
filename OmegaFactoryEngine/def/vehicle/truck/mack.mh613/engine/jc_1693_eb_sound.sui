@@ -1,0 +1,7 @@
+# Configuration of the engine sounds for the specific truck.
+	sounds:5
+	sounds[]: "engine|/def/vehicle/jc.soundref/jc_1693_eb_sound_engine.soundref"
+	sounds[]: "exhaust|/def/vehicle/jc.soundref/jc_1693_eb_sound_exhaust.soundref"
+	sounds[]: "start_bad|/def/vehicle/jc.soundref/jc_1693_eb_sound_start_bad.soundref"
+	sounds[]: "turbo|/def/vehicle/jc.soundref/jc_1693_eb_sound_turbo.soundref"
+	sounds[]: "remote|/def/vehicle/jc.soundref/jc_1693_eb_rm_sound_engine_rm.soundref"

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 01_steel.rnuts
+{
+	name: "Standard"
+	price: 50
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/nuts/rear_nuts_01_steel.pmd"
+	icon: "nuts/nuts_01_steel"
+}
+}

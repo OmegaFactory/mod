@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dc_stock.tobj"
+	texture_name : "texture"
+}

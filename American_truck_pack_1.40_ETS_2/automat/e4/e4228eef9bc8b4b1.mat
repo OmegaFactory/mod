@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/mack_anthem/interior/details.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/mack_anthem/interior/normal.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.658627 , 0.67756 , 0.687709 }
+	env_factor : { 0.306999 , 0.306999 , 0.306999 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 80
+	specular : { 0.572123 , 0.572123 , 0.572123 }
+}

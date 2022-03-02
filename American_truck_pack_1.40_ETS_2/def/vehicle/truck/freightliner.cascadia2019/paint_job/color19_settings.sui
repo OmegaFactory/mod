@@ -1,0 +1,5 @@
+	name: "Dark Green"
+	price: 2900
+	unlock: 0
+	base_color: (0.011987, 0.084752, 0.100485)
+	stock: true

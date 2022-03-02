@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape06.peterbilt.579.sideskirt
+{
+	name: "Duty Sideskirts"
+	price: 0
+	unlock: 0
+	icon: "peterbilt_579/sideskirt_01"
+
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/peterbilt_579/sideskirt06.pmd"
+
+	suitable_for[]: "short_4x2.peterbilt.579.chassis"
+}
+}

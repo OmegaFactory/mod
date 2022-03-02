@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.deflector
+{
+	name: "Metal Deflector"
+	price: 200
+	unlock: 4
+	icon: "volvo_vnl/deflector02"
+	exterior_model: "/vehicle/truck/upgrade/deflector/volvo_vnl/deflector02.pmd"
+	interior_model: "/vehicle/truck/upgrade/deflector/volvo_vnl/deflector02.pmd"
+
+
+
+}
+}

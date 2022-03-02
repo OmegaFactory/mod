@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : standard.intnational.lonestar.grill
+{
+	name: "@@standard@@"
+	price: 2500
+	unlock: 0
+	icon: "international_lonestar/grill"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/grill/grill.pmd"
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/grill/grill_int.pmd"
+}
+}

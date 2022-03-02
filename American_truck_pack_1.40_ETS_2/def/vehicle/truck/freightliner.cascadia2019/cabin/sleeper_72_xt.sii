@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_cabin_data : s72_xt.freightliner.cascadia2019.cabin
+{
+	name: "72@@unit_in@@ Sleeper XT"
+	price: 34800
+	unlock: 20
+	icon: "truck/freightliner_cascadia2019/cabin/sl_72xt"
+
+	model: "/vehicle/truck/freightliner_cascadia2019/cabin/sl_72xt.pmd"
+	collision: "/vehicle/truck/freightliner_cascadia2019/cabin/sl_72xt.pmc"
+	variant: default
+	look: default
+
+	drl_with_headlights: 1.0
+
+	wiper_model: "/vehicle/truck/freightliner_cascadia2019/cabin/wiper.pmd"
+	wiper_anim: "/vehicle/truck/freightliner_cascadia2019/cabin/wiper_anim.pma"
+	suspension: false
+
+	windows_model: "/vehicle/truck/freightliner_cascadia2019/cabin/win_open.pmd"
+	left_window_anim: "/vehicle/truck/freightliner_cascadia2019/cabin/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/freightliner_cascadia2019/cabin/win_open_r.pma"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/chassis/6x2_long_200.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/interior/s72_xt_std_gray.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/paint_job/color0.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/bumper/standard_plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/doorhndl/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/exhaust/s72_bottom.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/f_light_chs/standard.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/filters/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/grill/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/mirror/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sunshield/sleeper_lights.sii"
+
+	conflict_with[]: "6x2s_120.freightliner.cascadia2019.chassis"
+	conflict_with[]: "6x2s_160.freightliner.cascadia2019.chassis"
+	conflict_with[]: "6x4s_120.freightliner.cascadia2019.chassis"
+	conflict_with[]: "6x4s_160.freightliner.cascadia2019.chassis"
+	conflict_with[]: "6x2m_200.freightliner.cascadia2019.chassis"
+	conflict_with[]: "6x2m_220.freightliner.cascadia2019.chassis"
+	conflict_with[]: "6x4m_200.freightliner.cascadia2019.chassis"
+	conflict_with[]: "6x4m_220.freightliner.cascadia2019.chassis"
+	conflict_with[]: "4x2s_160.freightliner.cascadia2019.chassis"
+	conflict_with[]: "4x2s_120.freightliner.cascadia2019.chassis"
+
+@include "sound.sui"
+}
+}

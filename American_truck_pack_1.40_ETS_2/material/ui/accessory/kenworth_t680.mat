@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "kenworth_t680.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sl48_mid_s_pl.tobj"
+	texture_name : "texture"
+}

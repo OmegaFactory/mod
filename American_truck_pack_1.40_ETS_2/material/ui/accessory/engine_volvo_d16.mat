@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "engine_volvo_d16.tobj" 
+	texture_name : "texture" 
+} 

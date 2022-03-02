@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : chr_ti_l_b.intnational.lonestar.paint_job
+{
+@include "chr_ti_l_settings.sui"
+	suitable_for[]: "hirise.intnational.lonestar.cabin"
+}
+}

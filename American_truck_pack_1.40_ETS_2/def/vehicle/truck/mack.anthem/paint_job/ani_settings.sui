@@ -1,0 +1,10 @@
+	name: "Bird of Prey"
+	price: 23000
+	unlock: 13
+	base_color: (0.008023, 0.008023, 0.008023)
+	base_color_locked: false
+	icon: "mack_anthem/paint_ani"
+	mask_g_color: (0.107023, 0.001214, 0.001214)
+	mask_g_locked: false
+	mask_r_color: (0.287424, 0.201556, 0.068478)
+	mask_r_locked: false

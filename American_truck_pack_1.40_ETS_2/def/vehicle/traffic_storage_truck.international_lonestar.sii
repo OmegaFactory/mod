@@ -1,0 +1,7 @@
+SiiNunit
+{
+
+@include "ai/international_lonestar_a_traffic.sui"
+@include "ai/international_lonestar_b_traffic.sui"
+
+}

@@ -1,0 +1,20 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mack_anthem/city1/shared_00000000.tobj"
+	flake_uvscale: 10.000000
+	acc_list[]: "cabdefl.cabdefl_16"
+	acc_list[]: "cabdefl.cabdefl_28"
+	acc_list[]: "cabdefl.cabdefl_38"
+	acc_list[]: "sideskirt.sideskirt_11"
+	acc_list[]: "sideskirt.sideskirt_12"
+	acc_list[]: "sideskirt.sideskirt_13"
+	acc_list[]: "sideskirt.sideskirt_14"
+	acc_list[]: "sideskirt.sideskirt_15"
+	acc_list[]: "sideskirt.sideskirt_16"
+	acc_list[]: "sideskirt.sideskirt_21"
+	acc_list[]: "sideskirt.sideskirt_22"
+	acc_list[]: "sideskirt.sideskirt_23"
+}
+}

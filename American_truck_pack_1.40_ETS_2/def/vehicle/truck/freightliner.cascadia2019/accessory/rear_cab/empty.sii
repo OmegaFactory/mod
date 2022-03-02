@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : empty.freightliner.cascadia2019.rear_cab
+{
+	name: "@@standard@@"
+	price: 10
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/rear_cab/empty"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/rear_cab/empty.pmd"
+
+	suitable_for[]: "s48.freightliner.cascadia2019.cabin"
+	suitable_for[]: "s72_rr.freightliner.cascadia2019.cabin"
+	suitable_for[]: "s72_xt.freightliner.cascadia2019.cabin"
+}
+}

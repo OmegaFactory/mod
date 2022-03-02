@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : chr_st_k9_a.kenworth.w900.paint_job
+{
+@include "chr_st_k9_settings.sui"
+	suitable_for[]: "duty.kenworth.w900.cabin"
+}
+}

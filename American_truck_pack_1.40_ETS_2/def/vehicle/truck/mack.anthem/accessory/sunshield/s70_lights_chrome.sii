@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s70_lgh_chr.mack.anthem.sunshield
+{
+	name: "Chrome Lights"
+	price: 350
+	unlock: 7
+	icon: "mack_anthem/snshld_s70_nonechrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sunshield/sunshield_1_1_1.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/sunshield/sunshield_1_1_1.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

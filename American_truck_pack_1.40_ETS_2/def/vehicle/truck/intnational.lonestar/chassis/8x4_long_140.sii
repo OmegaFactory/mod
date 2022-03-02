@@ -1,0 +1,59 @@
+SiiNunit
+{
+accessory_chassis_data : 8x4l_140.intnational.lonestar.chassis
+{
+	name: "Long 8x4 @@midlift@@ 280@@gal@@"
+	price: 36300
+	unlock: 26
+	info[]: "8x4 @@midlift@@"
+	info[]: "140/140 @@gal@@"
+	icon: "international_lonestar/chs_8x4_l_140"
+
+	model: "/vehicle/truck/intnational_lonestar/chassis/chs_8x4_l.pmd"
+	collision: "/vehicle/truck/intnational_lonestar/chassis/chs_8x4_l.pmc"
+	variant: default
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/intnational_lonestar/shadow_8x4_l.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/intnational_lonestar/ui_shadow/ui_shadow_8x4_l.pmd"
+
+	tank_size: 1060
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: true
+	powered_axle[]: false
+
+	kerb_weight[]: 5202	# 11445lb
+	kerb_weight[]: 2027	# 4460lb
+	kerb_weight[]: 2027	# 4460lb
+	kerb_weight[]: 1627	# 3590lb
+
+	liftable_axle[]: false
+	liftable_axle[]: false
+	liftable_axle[]: false
+	liftable_axle[]: true
+
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/cabin/skyrise.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/bumper/standard.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/exhaust/bottom.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/mudflaps/standard.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/trlr_cables/stock.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/sideskirt/long_140_alu.sii"
+
+	conflict_with[]: "day.intnational.lonestar.cabin"
+	conflict_with[]: "hirise.intnational.lonestar.cabin"
+
+@include "sound.sui"
+}
+}

@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : s72.westernstar.49x.beacon
+{
+	name: "Double Radiant Chrome"
+	price: 800
+	unlock: 9
+	icon: "beacon/beacon"
+
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon_ws49x_s72.pmd"
+
+	suitable_for[]: "s72.westernstar.49x.cabin"
+	suitable_for[]: "s72sb.westernstar.49x.cabin"
+}
+}
+

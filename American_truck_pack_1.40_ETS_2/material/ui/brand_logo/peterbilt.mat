@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "peterbilt.tobj"
+	texture_name : "texture"
+}

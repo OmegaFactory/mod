@@ -1,0 +1,49 @@
+SiiNunit
+{
+accessory_cabin_data : s48.mack.anthem.cabin
+{
+	name: "48@@unit_in@@ Sleeper"
+	price: 27590
+	unlock: 0
+	icon: "mack_anthem/cab_s48"
+
+	model: "/vehicle/truck/mack_anthem/cabin/cabin_s48.pmd"
+	collision: "/vehicle/truck/mack_anthem/cabin/cabin_s48.pmc"
+	variant: default
+	look: default
+
+	wiper_model: "/vehicle/truck/mack_anthem/cabin/wiper.pmd"
+	wiper_anim: "/vehicle/truck/mack_anthem/cabin/wiper_anim.pma"
+	suspension: false
+
+	windows_model: "/vehicle/truck/mack_anthem/cabin/win_open.pmd"
+	left_window_anim: "/vehicle/truck/mack_anthem/cabin/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/mack_anthem/cabin/win_open_r.pma"
+
+	defaults[]: "/def/vehicle/truck/mack.anthem/chassis/6x2_mid_93.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/interior/s48_standard.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/doorhndl/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/filters/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/hood/silver_dog.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/grill/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/mirror/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/hndrail/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/slp_hndl/plastic.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/slp_vent/paint.sii"
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/rear_cab/s48_black.sii"
+//	defaults[]: "/def/vehicle/truck/mack.anthem/paint_job/color1.sii"
+
+	conflict_with[]: "6x4l_142.mack.anthem.chassis"
+	conflict_with[]: "6x4l_117.mack.anthem.chassis"
+	conflict_with[]: "6x2l_142.mack.anthem.chassis"
+	conflict_with[]: "6x2l_117.mack.anthem.chassis"
+	conflict_with[]: "6x4s_93.mack.anthem.chassis"
+	conflict_with[]: "6x4s_72.mack.anthem.chassis"
+	conflict_with[]: "6x2s_93.mack.anthem.chassis"
+	conflict_with[]: "6x2s_72.mack.anthem.chassis"
+	conflict_with[]: "4x2s_93.mack.anthem.chassis"
+	conflict_with[]: "4x2s_72.mack.anthem.chassis"
+
+@include "sound.sui"
+}
+}

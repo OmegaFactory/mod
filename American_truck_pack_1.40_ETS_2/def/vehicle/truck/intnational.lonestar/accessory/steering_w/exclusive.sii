@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : exclusive.intnational.lonestar.steering_w
+{
+	name: "Lonestar Steering Wheel Diamond"
+	price: 360
+	unlock: 10
+	icon: "international_lonestar/sw_lux"
+
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/steering_w/steering_w_lux.pmd"
+}
+}

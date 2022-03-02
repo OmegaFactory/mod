@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s48_o.mack.anthem.sideflares
+{
+	name: "Orange Side Flares"
+	price: 250
+	unlock: 7
+	icon: "mack_anthem/sflr_orange"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideflares/sflr_2_2_1.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

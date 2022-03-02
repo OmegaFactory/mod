@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_paint_job_data : paint05_bc.volvo.vnl.paint_job
+{
+	name: "SEAL Team Tribute"
+	price: 27000
+	unlock: 17
+	icon: "volvo_vnl/paintjob05"
+
+	airbrush: true
+
+	base_color: (0, 0.0015, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_05_bc.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "standard.volvo.vnl.cabin"
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : duty.westernstar.49x.mirror
+{
+	name: "@@duty@@"
+	price: 250
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/mirror/fullplstc"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/mirror/fullplstc.pmd"
+	interior_model: "/vehicle/truck/westernstar_49x/accessory/mirror/fullplstc_int.pmd"
+}
+}

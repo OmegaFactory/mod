@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : cup_xmas_20.westernstar.49x.toystand
+{
+	name: "@@festive_mug@@"
+	price: 180
+	unlock: 0
+	icon: "truck/upgrade/interior_decors/toystand/xmas_cup"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/xmas_cup/xmas_cup.pmd"
+}
+}

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01c.peterbilt.389.cabdefl
+{
+	name: "Chrome Turbo Wing"
+	price: 2540
+	unlock: 13
+	icon: "peterbilt_389/cabdefl01"
+	exterior_model: "/vehicle/truck/upgrade/cabdefl/peterbilt_389/cabdefl01_c.pmd"
+}
+}

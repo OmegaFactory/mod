@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape03c.peterbilt.389.sunshield
+{
+	name: "Standard Sunshield"
+	price: 480
+	unlock: 4
+	icon: "peterbilt_389/sunshield03_c"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_389/sunshield03_c.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_389/sunshield03_c_int.pmd"
+
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+}
+}

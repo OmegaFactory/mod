@@ -1,0 +1,7 @@
+SiiNunit
+{
+
+@include "ai/freightliner_cascadia2019_a_traffic.sui"
+@include "ai/freightliner_cascadia2019_b_traffic.sui"
+
+}

@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_interior_data	: standard_sh.kenworth.w900.interior
+{
+	name: "Modern Interior"
+	price: 15180
+	unlock: 0
+	icon: "kenworth_w900/int_prestige"
+	model: "/vehicle/truck/kenworth_w900/interior/model.pmd"
+	animated_model: "/vehicle/truck/kenworth_w900/interior/anim.pmd"
+	collision: "/vehicle/truck/kenworth_w900/interior/model.pmc"
+	look: Default
+	variant: standard_sh
+
+	suitable_for[]: "duty.kenworth.w900.cabin"
+
+
+	ext_model: "/vehicle/truck/upgrade/ext_interior/kenworth_w900/stock.pmd"
+	ext_variant: cab_a
+	ext_look: standard
+
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/steering_w/default.sii"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+
+	glass_panes[]: .kenworthw900.r.pane.front
+	glass_panes[]: .kenworthw900.r.pane.close
+	glass_panes[]: .kenworthw900.r.pane.far
+	glass_panes[]: .kenworthw900.r.pane.roof
+	glass_panes[]: .kenworthw900.r.pane.back_sh
+	glass_panes[]: .kenworthw900.r.pane.door
+
+@include "seat.sui"
+}
+@include "glass.sui"
+@include "glass_sh.sui"
+}

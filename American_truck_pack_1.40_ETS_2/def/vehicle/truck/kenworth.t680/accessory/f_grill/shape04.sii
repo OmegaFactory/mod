@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape04.kenworth.t680.f_grill
+{
+	name: "Bull Bar Extra Large"
+	price: 4620
+	unlock: 11
+	icon: "kenworth_t680/frontgrill_04"
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/kenworth_t680/frontgrill04.pmd"
+}
+}

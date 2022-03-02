@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape06.peterbilt.389.filters
+{
+	name: "Air Filters With Lights"
+	price: 650
+	unlock: 11
+	icon: "peterbilt_389/filters06"
+	exterior_model: "/vehicle/truck/upgrade/filters/peterbilt_389/filters06.pmd"
+	interior_model: "/vehicle/truck/upgrade/filters/peterbilt_389/filters06interior.pmd"
+}
+}

@@ -1,0 +1,47 @@
+﻿SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "dashboard" for "/ui/template/dashboard.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+#
+# Peterbilt 579
+#
+ui::text_template : txt.peterbilt.text0 {
+	name: "zDB  Peterbilt Plain Text"
+	text: "<color value=ccffffff><font face=/font/big.font xscale=4.5 yscale=5>%0</font>"
+}
+ui::text_template : txt.peterbilt.text1 {
+	name: "zDB  Peterbilt Plain Text Red"
+	text: "<color value=cc0000ff><font face=/font/big.font xscale=4.5 yscale=5>%0</font>"
+}
+ui::text_template : txt.peterbilt.text2 {
+	name: "zDB  Peterbilt Plain Text Center"
+	text: "<align hstyle=center><color value=ccffffff><font face=/font/big.font xscale=4.5 yscale=5>%0</font></align>"
+}
+ui::text_template : txt.peterbilt.speed {
+	name: "zDB  Peterbilt Speed"
+	text: "<align hstyle=right><color value=ccffffff><font face=/font/big.font xscale=4.5 yscale=5>%0 %1</font></align>"
+}
+ui::text_template : txt.peterbilt.speed_center {
+	name: "zDB  Peterbilt Speed Center"
+	text: "<align hstyle=center><color value=ccffffff><font face=/font/big.font xscale=4.5 yscale=5>%0 %1</font></align>"
+}
+ui::text_template : txt.peterbilt.spd_cntr_gr {
+	name: "zDB  Peterbilt Speed Center Green"
+	text: "<align hstyle=center><color value=ff9cf19e><font face=/font/big.font xscale=4.5 yscale=5>%0 %1</font></align>"
+}
+ui::text_template : txt.peterbilt.big_speed {
+	name: "zDB  Peterbilt Speed Big "
+	text: "<align hstyle=center><color value=ccffffff><font face=/font/big.font xscale=8 yscale=8>%0 %1</font></align>"
+}
+ui::text_template : txt.peterbilt.temp_norm {
+	name: "zDB  Peterbilt Temperature"
+	text: "<align hstyle=right><color value=ccffffff><font face=/font/big.font xscale=4.5 yscale=5>%0 °%1</font></align>"
+}
+
+}

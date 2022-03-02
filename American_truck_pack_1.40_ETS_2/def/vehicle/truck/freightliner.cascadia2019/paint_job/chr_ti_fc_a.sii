@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : chr_ti_fc_a.freightliner.cascadia2019.paint_job
+{
+@include "chr_ti_fc_settings.sui"
+	suitable_for[]: "day.freightliner.cascadia2019.cabin"
+}
+}

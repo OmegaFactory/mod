@@ -1,0 +1,60 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/freightliner_cascadia2019/fc_usa/shared_00000000.tobj"
+	flake_uvscale: 10.000000
+	flake_vratio: 0.500000
+	acc_list[]: "bumper.aero_pt"
+	acc_list[]: "bumper.fog_aero_pt"
+	acc_list[]: "bumper.fog_std_pt"
+	acc_list[]: "bumper.std_pt"
+	acc_list[]: "cabdefl.day_std"
+	acc_list[]: "sideskirt.lng200_pt"
+	acc_list[]: "sideskirt.lng200_pt_a"
+	acc_list[]: "sideskirt.lng240_pt"
+	acc_list[]: "sideskirt.lng240_pt_a"
+	acc_list[]: "sideskirt.mid200_pt"
+	acc_list[]: "sideskirt.mid200_pt_a"
+	acc_list[]: "sideskirt.mid220_pt"
+	acc_list[]: "sideskirt.mid220_pt_a"
+	acc_list[]: "sideskirt.shr160_pt"
+}
+
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/freightliner_cascadia2019/fc_usa/shared_00000000.tobj"
+	flake_uvscale: 10.000000
+	acc_list[]: "cabdefl.day_aero"
+	acc_list[]: "cabdefl.s48_aero"
+	acc_list[]: "cabdefl.s72_xt_a"
+	acc_list[]: "cabdefl.s72_xt_ax"
+}
+
+simple_paint_job_data : .ovr2
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/freightliner_cascadia2019/fc_usa/shared_00000000.tobj"
+	flake_uvscale: 5.000000
+	flake_vratio: 0.500000
+	acc_list[]: "sideskirt.lng200_e"
+	acc_list[]: "sideskirt.lng200_eal"
+	acc_list[]: "sideskirt.lng240_e"
+	acc_list[]: "sideskirt.lng240_eal"
+	acc_list[]: "sideskirt.mid200_e"
+	acc_list[]: "sideskirt.mid200_eal"
+	acc_list[]: "sideskirt.mid220_e"
+	acc_list[]: "sideskirt.mid220_eal"
+	acc_list[]: "sideskirt.shr120_e"
+	acc_list[]: "sideskirt.shr120_eal"
+	acc_list[]: "sideskirt.shr160_e"
+	acc_list[]: "sideskirt.shr160_eal"
+}
+
+simple_paint_job_data : .ovr3
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/freightliner_cascadia2019/fc_usa/shared_00000000.tobj"
+	flake_uvscale: 10.000000
+	flake_vratio: 0.250000
+	acc_list[]: "sunshield.stock"
+}
+}

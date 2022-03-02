@@ -1,0 +1,4 @@
+	dashboard_path:"/ui/dashboard/freightliner_cascadia_2019.sii"
+	gps_path:"/ui/gps.sii"
+	backlight_with_lights: true
+	air_brake_safeguard: true

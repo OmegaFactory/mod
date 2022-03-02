@@ -1,0 +1,12 @@
+	name: "Divided"
+	price: 19000
+	unlock: 9
+	base_color: (0.201556, 0.000000, 0.000000)
+	base_color_locked: false
+	icon: "westernstar_49x/ws_div"
+	mask_b_color: (0.351514, 0.351514, 0.351514)
+	mask_b_locked: false
+	mask_g_color: (0.201556, 0.000000, 0.000000)
+	mask_g_locked: false
+	mask_r_color: (0.119548, 0.119548, 0.119548)
+	mask_r_locked: false

@@ -1,0 +1,30 @@
+# SCS Font
+# Max width: 44
+# Max advance: 51
+# Typical height 'above the line': 0 (height of letter 'M')
+# Max pixels 'above the line': 48
+# Max pixels 'below the line': 3
+
+vert_span:51  # max difference between lowest and highest pixel in any two glyphs
+line_spacing:2  # suggested number of pixels to put between lines
+
+default_scale:1.000000  # default font scale in reference resolution
+
+image:/font/triangle.mat, 128, 128
+
+# P_x: starting column of glyph rectangle in the font bitmap
+# P_y: starting row of glyph rectangle in the font bitmap
+# W: width of the glyph rectangle
+# H: height of the glyph rectangle
+# L: left offset of the rectangle when placing it relative to current 'pen position'
+#    (negative value can be thought of as 'hard' kerning, but is used at the beginning of line too!)
+# T: top offset of the rectangle when placing it relative to current 'pen position'
+#    (the 'pen' is expected to be at the level of topmost pixel of highest glyph)
+# A: advance of the 'pen' for rendering of the following glyph
+# I: image index
+
+#NUM,    P_x, P_y,  W,  H,  L,  T,  A,  I     # character / glyph name
+
+x0030,   24,   39, 80, 49, 40,  0, 40,  0     # '0' / 'DIGIT ZERO'
+
+# kerning...

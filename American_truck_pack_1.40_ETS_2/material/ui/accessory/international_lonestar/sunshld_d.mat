@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sunshld_d.tobj"
+	texture_name : "texture"
+}

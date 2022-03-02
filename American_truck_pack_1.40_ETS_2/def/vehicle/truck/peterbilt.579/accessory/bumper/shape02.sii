@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.peterbilt.579.bumper
+{
+	name: "Standard"
+	price: 1750
+	unlock: 4
+	icon: "peterbilt_579/bumper_02"
+	exterior_model: "/vehicle/truck/upgrade/bumper/peterbilt_579/bumper02.pmd"
+}
+}

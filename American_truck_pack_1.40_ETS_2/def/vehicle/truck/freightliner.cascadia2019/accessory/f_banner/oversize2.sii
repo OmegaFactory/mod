@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : oversize2.freightliner.cascadia2019.f_banner
+{
+	name: "@@oversize_load@@"
+	price: 50
+	unlock: 0
+	icon: "sign_os/sign_os"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/f_banner/ver2.pmd"
+
+	suitable_for[]: "chrome.freightliner.cascadia2019.bumper"
+}
+}

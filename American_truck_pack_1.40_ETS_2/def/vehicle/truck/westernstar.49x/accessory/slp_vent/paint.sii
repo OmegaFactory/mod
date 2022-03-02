@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : paint.westernstar.49x.slp_vent
+{
+	name: "@@paint@@"
+	price: 480
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/slp_vent/pnt_2"
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/slp_vent/pnt_2.pmd"
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s48sb.westernstar.49x.cabin"
+}
+}

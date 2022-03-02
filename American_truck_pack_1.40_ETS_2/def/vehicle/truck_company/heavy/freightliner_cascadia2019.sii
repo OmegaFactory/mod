@@ -1,0 +1,240 @@
+SiiNunit
+{
+vehicle : .truck {
+	accessories[]: .data
+	accessories[]: .chassis
+	accessories[]: .cabin
+	accessories[]: .interior
+	accessories[]: .engine
+	accessories[]: .transmission
+	accessories[]: .head_light
+	accessories[]: .paint_job
+	accessories[]: .ftire
+	accessories[]: .fdisc
+	accessories[]: .fhub
+	accessories[]: .fnuts
+	accessories[]: .rtire1
+	accessories[]: .rdisc1
+	accessories[]: .rcover1
+	accessories[]: .rhub1
+	accessories[]: .rnuts1
+	accessories[]: .rtire2
+	accessories[]: .rdisc2
+	accessories[]: .rcover2
+	accessories[]: .rhub2
+	accessories[]: .rnuts2
+	accessories[]: .badge
+	accessories[]: .bumper
+	accessories[]: .cabdefl
+	accessories[]: .doorhndl
+	accessories[]: .doorstep
+	accessories[]: .exhaust
+	accessories[]: .f_light_chs 
+	accessories[]: .filters
+	accessories[]: .grill
+	accessories[]: .mirror
+	accessories[]: .mudflaps
+	accessories[]: .rear_cab
+	accessories[]: .s_deflector
+	accessories[]: .sideflares
+	accessories[]: .sideskirt
+	accessories[]: .sideskrt_bar
+	accessories[]: .steering_w
+	accessories[]: .sunshield
+	accessories[]: .trlr_cables
+
+	accessories[]: .f_banner
+	accessories[]: .flag_f_l
+	accessories[]: .flag_f_r
+}
+
+vehicle_accessory : .data {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/data.sii"
+}
+
+vehicle_accessory : .chassis {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/chassis/6x4_long_240.sii"
+}
+
+vehicle_accessory : .cabin {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/cabin/sleeper_72_rr.sii"
+}
+
+vehicle_accessory : .interior {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/interior/s72_rr_elite_tan.sii"
+}
+
+vehicle_accessory : .engine {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/engine/x15_605.sii"
+}
+
+vehicle_accessory : .transmission {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/transmission/18_speed.sii"
+}
+
+vehicle_accessory : .head_light {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/head_light/standard.sii"
+}
+
+vehicle_paint_job_accessory : .paint_job {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/paint_job/color0.sii"
+}
+
+vehicle_wheel_accessory : .ftire {
+	offset: 0
+	data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .fdisc {
+	offset: 0
+	data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .fhub {
+	offset: 0
+	data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .fnuts {
+	offset: 0
+	data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .rtire1 {
+	offset: 0
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .rdisc1 {
+	offset: 0
+	data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .rcover1 {
+	offset: 0
+	data_path: "/def/vehicle/r_cover/rear_hub_cover_aero.sii"
+}
+
+vehicle_wheel_accessory : .rhub1 {
+	offset: 0
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .rnuts1 {
+	offset: 0
+	data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .rtire2 {
+	offset: 2
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .rdisc2 {
+	offset: 2
+	data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .rcover2 {
+	offset: 2
+	data_path: "/def/vehicle/r_cover/rear_hub_cover_aero.sii"
+}
+
+vehicle_wheel_accessory : .rhub2 {
+	offset: 2
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .rnuts2 {
+	offset: 2
+	data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_addon_accessory : .badge {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/badge/cummins.sii"
+}
+
+vehicle_addon_accessory : .bumper {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/bumper/fog_aero_paint.sii"
+}
+
+vehicle_addon_accessory : .cabdefl {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/cabdefl/s72_rr_aerox.sii"
+}
+
+vehicle_addon_accessory : .doorhndl {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/doorhndl/chrome.sii"
+}
+
+vehicle_addon_accessory : .doorstep {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/doorstep/metal.sii"
+}
+
+vehicle_addon_accessory : .exhaust {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/exhaust/s72_bottom.sii"
+}
+
+vehicle_addon_accessory : .f_light_chs {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/f_light_chs/daylight.sii"
+}
+
+vehicle_addon_accessory : .filters {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/filters/chrome.sii"
+}
+
+vehicle_addon_accessory : .grill {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/grill/chrome.sii"
+}
+
+vehicle_addon_accessory : .mirror {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/mirror/chrome.sii"
+}
+
+vehicle_addon_accessory : .mudflaps {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/mudflaps/aerox.sii"
+}
+
+vehicle_addon_accessory : .rear_cab {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/rear_cab/hvac.sii"
+}
+
+vehicle_addon_accessory : .s_deflector {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/s_deflector/s72_aerox.sii"
+}
+
+vehicle_addon_accessory : .sideflares {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideflares/long_240_aero.sii"
+}
+
+vehicle_addon_accessory : .sideskirt {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideskirt/long_240_aero_paint.sii"
+}
+
+vehicle_addon_accessory : .sideskrt_bar {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideskrt_bar/long_aerox.sii"
+}
+
+vehicle_addon_accessory : .steering_w {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/steering_w/elite.sii"
+}
+
+vehicle_addon_accessory : .sunshield {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sunshield/stock.sii"
+}
+
+vehicle_addon_accessory : .trlr_cables {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/trlr_cables/stock.sii"
+}
+
+vehicle_addon_accessory : .f_banner {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/f_banner/oversize1.sii"
+}
+
+vehicle_addon_accessory : .flag_f_l {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/flag_f_l/warning.sii"
+}
+
+vehicle_addon_accessory : .flag_f_r {
+	data_path: "/def/vehicle/truck/freightliner.cascadia2019/accessory/flag_f_r/warning.sii"
+}
+}

@@ -1,0 +1,46 @@
+# SCS Font
+# Max width: 44
+# Max advance: 51
+# Typical height 'above the line': 0 (height of letter 'M')
+# Max pixels 'above the line': 48
+# Max pixels 'below the line': 3
+
+vert_span:51  # max difference between lowest and highest pixel in any two glyphs
+line_spacing:2  # suggested number of pixels to put between lines
+
+default_scale:1.000000  # default font scale in reference resolution
+
+image:/font/int_bold_gearn_0.mat, 128, 256
+
+# P_x: starting column of glyph rectangle in the font bitmap
+# P_y: starting row of glyph rectangle in the font bitmap
+# W: width of the glyph rectangle
+# H: height of the glyph rectangle
+# L: left offset of the rectangle when placing it relative to current 'pen position'
+#    (negative value can be thought of as 'hard' kerning, but is used at the beginning of line too!)
+# T: top offset of the rectangle when placing it relative to current 'pen position'
+#    (the 'pen' is expected to be at the level of topmost pixel of highest glyph)
+# A: advance of the 'pen' for rendering of the following glyph
+# I: image index
+
+#NUM,    P_x, P_y,  W,  H,  L,  T,  A,  I     # character / glyph name
+
+x0020,  107,    1,  2,  2,  0, 48, 17,  0     # ' ' / 'SPACE'
+x0030,   36,    1, 34, 50,  4,  1, 41,  0     # '0' / 'DIGIT ZERO'
+x0031,   38,  154, 24, 48,  4,  2, 40,  0     # '1' / 'DIGIT ONE'
+x0032,   82,   53, 33, 49,  3,  1, 40,  0     # '2' / 'DIGIT TWO'
+x0033,   71,    1, 35, 50,  1,  1, 40,  0     # '3' / 'DIGIT THREE'
+x0034,    1,  104, 37, 49,  1,  1, 40,  0     # '4' / 'DIGIT FOUR'
+x0035,   39,  104, 34, 49,  2,  2, 40,  0     # '5' / 'DIGIT FIVE'
+x0036,   74,  104, 35, 49,  3,  2, 40,  0     # '6' / 'DIGIT SIX'
+x0037,   63,  154, 33, 48,  3,  2, 40,  0     # '7' / 'DIGIT SEVEN'
+x0038,    1,    1, 34, 51,  4,  0, 41,  0     # '8' / 'DIGIT EIGHT'
+x0039,    1,   53, 35, 50,  3,  1, 40,  0     # '9' / 'DIGIT NINE'
+x0043,   37,   53, 44, 50,  3,  1, 46,  0     # 'C' / 'LATIN CAPITAL LETTER C'
+x0048,    1,  204, 39, 48,  5,  2, 48,  0     # 'H' / 'LATIN CAPITAL LETTER H'
+x004c,   97,  154, 30, 48,  5,  2, 34,  0     # 'L' / 'LATIN CAPITAL LETTER L'
+x004e,   41,  204, 42, 48,  5,  2, 51,  0     # 'N' / 'LATIN CAPITAL LETTER N'
+x0052,    1,  154, 36, 49,  5,  2, 41,  0     # 'R' / 'LATIN CAPITAL LETTER R'
+
+# kerning...
+

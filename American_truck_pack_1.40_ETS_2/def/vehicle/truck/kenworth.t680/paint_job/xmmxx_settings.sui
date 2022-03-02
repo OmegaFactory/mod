@@ -1,0 +1,34 @@
+	name: "Winter Blast"
+	price: 25000
+	unlock: 0
+	alternate_uvset: true
+	base_color: (0.000000, 0.005000, 0.038200)
+	base_color_locked: false
+	color_variant[]: (0.003872, 0.013032, 0.201550)
+	color_variant[]: (0.000000, 0.403026, 0.879624)
+	color_variant[]: (0.335296, 0.593104, 0.913100)
+	color_variant[]: (1.000000, 1.000000, 1.000000)
+	color_variant[]: (0.238383, 0.000000, 0.000000)
+	color_variant[]: (0.539455, 0.584078, 0.623960)
+	color_variant[]: (0.006995, 0.064803, 0.018504)
+	color_variant[]: (0.768151, 0.623960, 0.201556)
+	color_variant[]: (0.760495, 0.760495, 0.760495)
+	color_variant[]: (0.082291, 0.309469, 0.775792)
+	color_variant[]: (0.010330, 0.029557, 0.102242)
+	color_variant[]: (0.016811, 0.049713, 0.309469)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.038210, 0.250158, 0.597202)
+	flake_color_locked: false
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.001821, 0.013705, 0.030718)
+	flip_color_locked: false
+	flip_strength: 0.930000
+	icon: "xmmxxi"
+	mask_b_color: (0.274600, 0.492700, 0.737900)
+	mask_b_locked: false
+	mask_g_color: (0.724900, 0.877000, 0.982300)
+	mask_g_locked: false
+	mask_r_color: (0.947300, 0.838800, 0.467800)
+	mask_r_locked: false

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01.volvo.vnl.f_grill
+{
+	name: "Bull Bar Small"
+	price: 3550
+	unlock: 7
+	icon: "volvo_vnl/frontgrill01"
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/volvo_vnl/frontgrill01.pmd"
+}
+}

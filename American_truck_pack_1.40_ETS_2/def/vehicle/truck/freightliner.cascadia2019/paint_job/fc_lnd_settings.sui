@@ -1,0 +1,6 @@
+	name: "Homeland"
+	price: 33000
+	unlock: 23
+	airbrush: true
+	base_color: (0.822755, 0.651406, 0.545724)
+	icon: "freightliner_cascadia2019/fci_lnd"

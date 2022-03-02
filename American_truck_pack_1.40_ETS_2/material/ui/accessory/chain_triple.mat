@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "chain_triple.tobj"
+	texture_name : "texture"
+}

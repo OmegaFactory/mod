@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : mid93d_p.mack.anthem.sideskirt
+{
+	name: "@@paint@@, @@d_shape@@"
+	price: 3350
+	unlock: 11
+	icon: "mack_anthem/sdskrt_cvrd_plstc_dtnk"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_2_2_1.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_2_2_1.pmc"
+
+	suitable_for[]: "6x4m_93.mack.anthem.chassis"
+	suitable_for[]: "6x2m_93.mack.anthem.chassis"
+}
+}

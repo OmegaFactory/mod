@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : shape04.kenworth.t680.sideskirt
+{
+	name: "Standard Plastic Sideskirts"
+	price: 3640
+	unlock: 0
+	icon: "kenworth_t680/sideskirt_04"
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/kenworth_t680/sideskirt04.pmd"
+
+	suitable_for[]: "short.kenworth.t680.chassis"
+	suitable_for[]: "short_6x2.kenworth.t680.chassis"
+	suitable_for[]: "short_6x2_m.kenworth.t680.chassis"
+	suitable_for[]: "short2.kenworth.t680.chassis"
+	suitable_for[]: "short2_6x2.kenworth.t680.chassis"
+	suitable_for[]: "short2_6x2_m.kenworth.t680.chassis"
+}
+}

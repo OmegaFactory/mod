@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.mirror
+{
+	name: "@@exclusive@@"
+	price: 510
+	unlock: 11
+	icon: "volvo_vnl/mirror02"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror02.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror02_interior.pmd"
+}
+}

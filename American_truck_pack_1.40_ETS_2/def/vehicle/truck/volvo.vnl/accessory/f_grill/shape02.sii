@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.f_grill
+{
+	name: "Bull Bar Big"
+	price: 4080
+	unlock: 9
+	icon: "volvo_vnl/frontgrill02"
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/volvo_vnl/frontgrill02.pmd"
+}
+}

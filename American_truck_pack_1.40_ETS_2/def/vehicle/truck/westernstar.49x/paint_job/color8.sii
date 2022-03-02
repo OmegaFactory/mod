@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : color8.westernstar.49x.paint_job
+{
+	name: "Black"
+	price: 2800
+	unlock: 0
+
+	base_color: (0.022174, 0.018500, 0.019382)
+	base_color_locked: true
+	stock: true
+}
+}

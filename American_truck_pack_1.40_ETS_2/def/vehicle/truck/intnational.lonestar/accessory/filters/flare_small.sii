@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : flare_small.intnational.lonestar.filters
+{
+	name: "Air Filters Small Flares"
+	price: 650
+	unlock: 14
+	icon: "international_lonestar/filter_b"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/filters/filter_flare_s.pmd"
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/filters/filter_basic_int.pmd"
+}
+}

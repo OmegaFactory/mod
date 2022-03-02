@@ -1,0 +1,20 @@
+	name: "Flames"
+	price: 23000
+	unlock: 13
+	base_color: (0.006049, 0.006049, 0.006049)
+	base_color_locked: false
+	color_variant[]: (0.973411, 0.791268, 0.000000)
+	color_variant[]: (0.015212, 0.015212, 0.015212)
+	color_variant[]: (0.991068, 0.000000, 0.000000)
+	color_variant[]: (0.015212, 0.015212, 0.015212)
+	color_variant[]: (0.651406, 0.651406, 0.651406)
+	color_variant[]: (0.013705, 0.013705, 0.013705)
+	color_variant[]: (0.205093, 0.001519, 0.376262)
+	color_variant[]: (0.104626, 0.219526, 0.584078)
+	icon: "freightliner_cascadia2019/fci_flm"
+	mask_b_color: (0.006049, 0.006049, 0.006049)
+	mask_b_locked: false
+	mask_g_color: (1.000000, 0.000000, 0.000000)
+	mask_g_locked: false
+	mask_r_color: (0.896271, 0.313378, 0.000000)
+	mask_r_locked: false

@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_paint_job_data : paint02_c.peterbilt.389.paint_job
+{
+	name: "Striped"
+	price: 21000
+	unlock: 11
+	icon: "peterbilt_389/paint_stripped"
+	mask_r_color: (0.3864, 0.1844, 0.0116)
+	mask_r_locked: false
+	mask_g_color: (0.8227, 0.5332, 0.0822)
+	mask_g_locked: false
+	mask_b_color: (0.3762, 0.0122, 0.0122)
+	mask_b_locked: false
+	base_color: (0.6239, 0.5906, 0.5028)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/paintjob_02_c.tobj"
+	stock: false
+	suitable_for[]: "duty.peterbilt.389.cabin"
+}
+}

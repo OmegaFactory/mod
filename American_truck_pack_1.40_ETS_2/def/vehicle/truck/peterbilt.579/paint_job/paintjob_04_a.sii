@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : paint04_a.peterbilt.579.paint_job
+{
+	name: "Mt. Rushmore"
+	price: 27000
+	unlock: 17
+	icon: "peterbilt_579/paint_rush"
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/paintjob_04_a.tobj"
+	stock: false
+
+	alternate_uvset: true
+
+	suitable_for[]: "duty.peterbilt.579.cabin"
+}
+}

@@ -1,0 +1,5 @@
+	name: "Canary"
+	price: 2900
+	unlock: 0
+	base_color: (0.827536, 0.581297, 0.013344)
+	stock: true

@@ -1,0 +1,13 @@
+	name: "Hard Truck Heat"
+	price: 23000
+	unlock: 0
+	airbrush: true
+	alternate_uvset: true
+	base_color: (0.008570, 0.019382, 0.063017)
+	icon: "18steel"
+	mask_b_color: (0.250158, 0.007501, 0.002126)
+	mask_b_locked: false
+	mask_g_color: (0.830770, 0.462077, 0.035606)
+	mask_g_locked: false
+	mask_r_color: (0.000000, 0.000000, 0.000000)
+	mask_r_locked: false

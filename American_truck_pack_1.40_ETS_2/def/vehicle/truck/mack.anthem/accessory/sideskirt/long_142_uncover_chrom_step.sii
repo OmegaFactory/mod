@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : lng142_ucs.mack.anthem.sideskirt
+{
+	name: "@@chrom_tank@@, @@steps@@"
+	price: 5720
+	unlock: 26
+	icon: "mack_anthem/sdskrt_uncvrd_rtnk_stp"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_1_7_1.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_1_7_1.pmc"
+
+	suitable_for[]: "6x4l_142.mack.anthem.chassis"
+	suitable_for[]: "6x2l_142.mack.anthem.chassis"
+}
+}

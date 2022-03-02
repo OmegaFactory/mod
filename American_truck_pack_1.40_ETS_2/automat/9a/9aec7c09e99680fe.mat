@@ -1,0 +1,8 @@
+material : "eut2.light.tex.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyhang/spiral/spiral_c.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	diffuse : { 1 , 1 , 1 }
+	shininess : 0
+	specular : { 1 , 1 , 1 }
+}

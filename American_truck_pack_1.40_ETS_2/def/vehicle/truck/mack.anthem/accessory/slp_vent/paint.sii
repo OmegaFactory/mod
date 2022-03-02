@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : paint.mack.anthem.slp_vent
+{
+	name: "@@paint@@"
+	price: 480
+	unlock: 0
+	icon: "mack_anthem/slp_vnt_pntd"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/slp_vent/slp_vent_2_1_2.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

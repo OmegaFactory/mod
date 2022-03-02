@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : day_rcap_bl.mack.anthem.cabdefl
+{	
+	name: "Roof Cap"
+	price: 1150
+	unlock: 6
+	icon: "mack_anthem/cbdfl_dcb_aeroblck"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/cabdefl/cabdefl_3_1_2.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/cabdefl/cabdefl_3_1_2.pmc"
+
+	suitable_for[]: "day.mack.anthem.cabin"
+}
+}

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape05.volvo.vnl.bumper
+{
+	name: "Chromed II"
+	price: 2350
+	unlock: 9
+	icon: "volvo_vnl/bumper05"
+	exterior_model: "/vehicle/truck/upgrade/bumper/volvo_vnl/bumper21.pmd"
+}
+}

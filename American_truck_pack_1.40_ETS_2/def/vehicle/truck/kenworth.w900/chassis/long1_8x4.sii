@@ -1,0 +1,56 @@
+SiiNunit
+{
+accessory_chassis_data : long1_8x4.kenworth.w900.chassis
+{
+	name: "Long 8x4 @@midlift@@ 220@@gal@@"
+	price: 32400
+	unlock: 24
+	info[]: "8x4 @@midlift@@"
+	info[]: "110/110 @@gal@@"
+	icon: "kenworth_w900/frame_l_8x4"
+
+	model: "/vehicle/truck/kenworth_w900/truck.pmd"
+	collision: "/vehicle/truck/kenworth_w900/truck.pmc"
+	variant: chs_8x4_lng
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/kenworth_w900/shadow_8x6.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/kenworth_w900/ui_shadow_8x6.pmd"
+
+	tank_size: 833
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: true
+	powered_axle[]: false
+
+	liftable_axle[]: false
+	liftable_axle[]: false
+	liftable_axle[]: false
+	liftable_axle[]: true
+
+	kerb_weight[]: 5202	# 11445lb
+	kerb_weight[]: 2027	# 4460lb
+	kerb_weight[]: 2027	# 4460lb
+	kerb_weight[]: 1627	# 3590lb
+
+	defaults[]: "/def/vehicle/truck/kenworth.w900/cabin/standard.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/mudflaps/shape01l.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/filters/shape01.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/trlr_cables/stock.sii"
+
+	conflict_with[]: "duty.kenworth.w900.cabin"
+
+@include "sound.sui"
+}
+}

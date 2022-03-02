@@ -1,0 +1,6 @@
+SiiNunit
+{
+
+@include "ai/kenworth_t680_a_double_traffic.sui"
+
+}

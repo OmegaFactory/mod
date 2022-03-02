@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 05.double.rdisc
+{
+	name: "Dynamic"
+	price: 1575
+	unlock: 21
+	model: "/vehicle/truck/upgrade/wheel/disc/rear_disc_05.pmd"
+	icon: "disc/rear_disc_05"
+
+	defaults[]: "/def/vehicle/r_tire/1.sii"
+}
+}

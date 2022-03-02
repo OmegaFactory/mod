@@ -1,0 +1,39 @@
+SiiNunit
+{
+accessory_engine_data : d11_385.volvo.vnl.engine
+{
+	name: "Volvo D11 385"
+	price: 39410
+	unlock: 2
+	info[]: "385 @@hp@@ (287@@kw@@)"
+	info[]: "1@@dg@@450 @@lb_ft@@ (1966@@nm@@)"
+	info[]: "1@@dg@@050 @@rpm@@"
+
+	icon: "engine_volvo_d11"
+
+	torque: 1966
+	volume: 10.8
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1000, 0.97)
+	torque_curve[]: (1050, 1)
+	torque_curve[]: (1350, 1)
+	torque_curve[]: (1450, 0.95)
+	torque_curve[]: (1700, 0.83)
+	torque_curve[]: (2100, 0.55)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 600
+	rpm_limit: 2100
+	rpm_range_low_gear: (750, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1350, 1850)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+}
+}

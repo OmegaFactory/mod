@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/truck/mack_anthem/interior/seat_fabric_c.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.740753 , 0.568787 , 0.346928 }
+	reflection : 0
+	shininess : 18
+	specular : { 0.42831 , 0.42831 , 0.42831 }
+}

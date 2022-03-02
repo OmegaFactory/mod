@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : silver_dog.mack.anthem.hood
+{
+	name: "Bulldog"
+	price: 50
+	unlock: 0
+	icon: "mack_anthem/hood_slvr"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/hood/hood_0_1_2.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/hood/hood_0_1_2.pmd"
+}
+}

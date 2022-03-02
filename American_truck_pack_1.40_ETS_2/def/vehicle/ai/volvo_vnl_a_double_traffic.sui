@@ -1,0 +1,37 @@
+traffic_vehicle : traffic.volvo_vnl_2
+{
+	accessories[]: .volvo_vnl_2.chassis
+	accessories[]: .volvo_vnl_2.fwheel
+	accessories[]: .volvo_vnl_2.rwheel
+	accessories[]: .volvo_vnl_2.rwheel2
+	accessories[]: .volvo_vnl_2.trlr_cables
+
+	max_speed: 110
+	trailer_chains[]: "truck_long"
+
+	sound_move[]: "/sound/traffic/truck_us_1.soundref"
+	sound_horn[]: "/sound/traffic/truck_horn_3.soundref"
+
+	vehicle_mass: 8200
+	engine_power: 298
+
+	lod_dist[]: 70
+	lod_dist[]: 100
+}
+
+vehicle_accessory : .volvo_vnl_2.chassis {
+	data_path: "/def/vehicle/ai/truck/volvo.vnl/cabin_duty.sii"
+}
+vehicle_wheel_accessory : .volvo_vnl_2.fwheel {
+	data_path: "/def/vehicle/f_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .volvo_vnl_2.rwheel {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .volvo_vnl_2.rwheel2 {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+	offset: 2
+}
+vehicle_addon_accessory : .volvo_vnl_2.trlr_cables {
+	data_path: "/def/vehicle/ai/truck/volvo.vnl/accessory/trlr_cables/stock.sii"
+}

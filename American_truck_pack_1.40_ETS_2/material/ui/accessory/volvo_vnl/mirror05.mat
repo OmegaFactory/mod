@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "mirror05.tobj"
+	texture_name : "texture"
+}

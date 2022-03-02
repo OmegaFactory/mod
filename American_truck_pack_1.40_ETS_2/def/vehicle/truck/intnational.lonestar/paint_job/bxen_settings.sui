@@ -1,0 +1,6 @@
+	name: "Xenomorph"
+	price: 24500
+	unlock: 20
+	airbrush: true
+	base_color: (0.000000, 0.000000, 0.000000)
+	icon: "international_lonestar/pnt_bxen"

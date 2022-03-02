@@ -1,0 +1,11 @@
+	name: "Technologic"
+	price: 23000
+	unlock: 17
+	base_color: (0.000000, 0.000000, 0.000000)
+	icon: "international_lonestar/pnt_btro"
+	mask_b_color: (0.001821, 0.004778, 0.015212)
+	mask_b_locked: false
+	mask_g_color: (0.004778, 0.006514, 0.052867)
+	mask_g_locked: false
+	mask_r_color: (0.184488, 0.665387, 0.921549)
+	mask_r_locked: false

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "f_285_75_vortex.tobj"
+	texture_name : "texture"
+}

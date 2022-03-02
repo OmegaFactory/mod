@@ -1,0 +1,16 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "brand_westernstar"		
+	val[]: "Western"
+
+	key[]: "series_westernstar_49x"
+	val[]: "49X"
+
+	key[]: "truck_browser_brand_westernstar_49x"
+	val[]: "Western Star 49X"
+
+}
+}

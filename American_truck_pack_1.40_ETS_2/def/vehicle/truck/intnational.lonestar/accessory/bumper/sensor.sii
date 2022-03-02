@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sensor.intnational.lonestar.bumper
+{
+	name: "Sensor"
+	price: 2030
+	unlock: 7
+	icon: "international_lonestar/bumper_b"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/bumper/bumper_b.pmd"
+}
+}

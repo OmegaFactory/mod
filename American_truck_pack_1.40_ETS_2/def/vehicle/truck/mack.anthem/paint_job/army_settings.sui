@@ -1,0 +1,7 @@
+	name: "Digital Camo"
+	price: 27500
+	unlock: 19
+	airbrush: true
+	base_color: (0.072272, 0.111932, 0.004391)
+	base_color_locked: false
+	icon: "mack_anthem/paint_army"

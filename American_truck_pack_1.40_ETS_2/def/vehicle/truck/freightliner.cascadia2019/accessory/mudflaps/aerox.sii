@@ -1,0 +1,26 @@
+SiiNunit
+{
+accessory_addon_data : aerox.freightliner.cascadia2019.mudflaps
+{
+	name: "@@aerox@@"
+	price: 300
+	unlock: 9
+	icon: "truck/freightliner_cascadia2019/accessory/mudflaps/aerox"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/mudflaps/aerox.pmd"
+	coll: "/vehicle/truck/freightliner_cascadia2019/accessory/mudflaps/aerox.pmc"
+
+	suitable_for[]: "6x4l_200.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4s_160.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x2l_240.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x2s_120.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x2m_220.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x2s_160.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x2l_200.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4l_240.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x2m_200.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4m_200.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4m_220.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4s_120.freightliner.cascadia2019.chassis"
+}
+}

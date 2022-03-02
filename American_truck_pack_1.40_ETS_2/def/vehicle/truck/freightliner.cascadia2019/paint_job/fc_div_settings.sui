@@ -1,0 +1,20 @@
+	name: "Divided"
+	price: 19000
+	unlock: 0
+	base_color: (0.658348, 0.637597, 0.527091)
+	base_color_locked: false
+	color_variant[]: (0.708376, 0.407240, 0.000000)
+	color_variant[]: (0.011612, 0.011612, 0.011612)
+	color_variant[]: (0.011612, 0.011612, 0.011612)
+	color_variant[]: (0.708376, 0.407240, 0.000000)
+	color_variant[]: (0.283149, 0.283149, 0.283149)
+	color_variant[]: (0.230725, 0.000000, 0.000000)
+	color_variant[]: (0.230725, 0.000000, 0.000000)
+	color_variant[]: (0.006049, 0.006049, 0.006049)
+	icon: "freightliner_cascadia2019/fci_div"
+	mask_b_color: (0.658348, 0.637597, 0.527091)
+	mask_b_locked: false
+	mask_g_color: (0.003035, 0.045186, 0.114445)
+	mask_g_locked: false
+	mask_r_color: (0.024162, 0.024162, 0.024162)
+	mask_r_locked: false

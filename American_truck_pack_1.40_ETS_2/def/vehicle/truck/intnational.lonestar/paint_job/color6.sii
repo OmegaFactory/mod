@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color6.intnational.lonestar.paint_job
+{
+	name: "Red"
+	price: 2800
+	unlock: 0
+	base_color: (0.18, 0.003, 0.003)
+	base_color_locked: true
+	stock: true
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : std.freightliner.cascadia2019.mudflaps
+{
+	name: "@@standard@@"
+	price: 50
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/mudflaps/base"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/mudflaps/base.pmd"
+}
+}

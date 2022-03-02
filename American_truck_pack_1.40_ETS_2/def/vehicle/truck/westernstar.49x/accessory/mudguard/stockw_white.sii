@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : stockw_wht.westernstar.49x.mudguard
+{
+	name: "Standard White Logo"
+	price: 210
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/mudguard/stock_w_white"
+
+	look: white
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/mudguard/stock_w.pmd"
+}
+}

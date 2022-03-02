@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : pres_xmas_20.westernstar.49x.toyseat
+{
+	name: "@@winter_blast_gift@@"
+	price: 200
+	unlock: 0
+	icon: "truck/upgrade/interior_decors/toyseat/xmas_present"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/xmas_present/xmas_present.pmd"
+}
+}

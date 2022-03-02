@@ -1,0 +1,34 @@
+SiiNunit
+{
+accessory_paint_job_data : paint05_ab.peterbilt.389.paint_job
+{
+	name: "Wings of Freedom"
+	price: 27000
+	unlock: 17
+	icon: "peterbilt_389/paint_wings"
+	base_color: (0.0109, 0.0331, 0.0437)
+	airbrush: true
+	flipflake: true
+
+	flip_color: (0.0129, 0.0144, 0.0103)
+	flake_color: (0.2541, 0.1499, 0.0512)
+
+	flip_strength: 1.3
+	flake_uvscale: 48.0
+	flake_density: 0.6
+	flake_shininess: 20.0
+	flake_clearcoat_rolloff: 4.5
+	flake_noise: "/material/custom/flake_noise.tobj"
+
+	base_color_locked: false
+	flip_color_locked: false
+	flake_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/paintjob_05_ab.tobj"
+	stock: false
+
+
+
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+	suitable_for[]: "standard.peterbilt.389.cabin"
+}
+}

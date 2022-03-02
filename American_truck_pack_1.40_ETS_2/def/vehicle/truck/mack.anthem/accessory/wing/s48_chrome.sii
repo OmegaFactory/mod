@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s48_chrom.mack.anthem.wing
+{
+	name: "@@paint_chrom@@"
+	price: 1150
+	unlock: 13
+	icon: "mack_anthem/wng_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/wing/wing_2_1_1.pmd"
+
+	suitable_for[]: "s48_rcap_bl.mack.anthem.cabdefl"
+	suitable_for[]: "s48_rcap_ch.mack.anthem.cabdefl"
+}
+}

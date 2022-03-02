@@ -1,0 +1,51 @@
+SiiNunit
+{
+accessory_chassis_data : 6x4l_120.intnational.lonestar.chassis
+{
+	name: "Long 6x4 240@@gal@@"
+	price: 30200
+	unlock: 21
+	info[]: "6x4"
+	info[]: "120/120 @@gal@@"
+	icon: "international_lonestar/chs_6x4_l_120"
+
+	model: "/vehicle/truck/intnational_lonestar/chassis/chs_6x4_l.pmd"
+	collision: "/vehicle/truck/intnational_lonestar/chassis/chs_6x4_l.pmc"
+	variant: default
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/intnational_lonestar/ui_shadow_l.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/intnational_lonestar/ui_shadow/ui_shadow_l.pmd"
+
+	tank_size: 909
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: true
+
+	kerb_weight[]: 5202	# 11445lb
+	kerb_weight[]: 2027	# 4460lb
+	kerb_weight[]: 2027	# 4460lb
+
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/cabin/skyrise.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/bumper/standard.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/exhaust/bottom.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/mudflaps/standard.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/trlr_cables/stock.sii"
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/sideskirt/long_120_alu.sii"
+
+	conflict_with[]: "day.intnational.lonestar.cabin"
+	conflict_with[]: "hirise.intnational.lonestar.cabin"
+
+@include "sound.sui"
+}
+}

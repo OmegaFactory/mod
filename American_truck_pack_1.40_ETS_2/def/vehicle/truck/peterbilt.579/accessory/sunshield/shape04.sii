@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape04.peterbilt.579.sunshield
+{
+	name: "Chrome Sun Visor Lux"
+	price: 1230
+	unlock: 16
+	icon: "peterbilt_579/sunshield_04"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_579/sunshield04.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_579/sunshield04_int.pmd"
+	conflict_with[]: "shape01.peterbilt.579.cabflares"
+}
+}

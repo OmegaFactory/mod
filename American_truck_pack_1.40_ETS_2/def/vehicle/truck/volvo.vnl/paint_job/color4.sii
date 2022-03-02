@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : color4.volvo.vnl.paint_job
+{
+	name: "756905 Bright Yellow"
+	price: 2800
+	unlock: 0
+	base_color: (0.582, 0.3478, 0.0167)
+//	base_color : (1, 0.552, 0.0047)
+	base_color_locked: true
+	stock: true
+}
+}

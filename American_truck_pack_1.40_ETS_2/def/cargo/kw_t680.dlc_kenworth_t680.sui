@@ -1,0 +1,16 @@
+cargo_data: cargo.kw_t680
+{
+	name: "@@cn_kenworth_t680@@"
+	fragility: 0.8
+	valuable: true
+	group[]: machinery
+	volume: 1
+	mass: 260.861
+	unit_reward_per_km: 0.27825
+	unit_load_time: 30
+	body_types[]: _tranackkw80
+	body_types[]: _tranluekw80
+	body_types[]: _tranredkw80
+	body_types[]: _tranitekw80
+	body_types[]: _tranlowkw80
+}

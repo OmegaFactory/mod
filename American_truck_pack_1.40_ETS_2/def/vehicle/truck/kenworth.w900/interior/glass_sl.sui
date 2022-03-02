@@ -1,0 +1,8 @@
+glass_pane_data : .kenworthw900.r.pane.back_sl
+{
+	locator: back_sl_gls
+	size: (1.1, 1.65)
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "grizzly.tobj"
+	texture_name : "texture"
+}

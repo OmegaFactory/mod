@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_paint_job_data : paint10_bc.volvo.vnl.paint_job
+{
+	name: "We Were First"
+	price: 31000
+	unlock: 21
+	icon: "volvo_vnl/paintjob10"
+
+	airbrush: true
+
+	base_color: (0.0033, 0.0033, 0.0033)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_10_bc.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "standard.volvo.vnl.cabin"
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+}
+}

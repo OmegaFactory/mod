@@ -1,0 +1,16 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "brand_kenworth_w900"		
+	val[]: "Kenworth"
+
+	key[]: "series_kenworth_w900"
+	val[]: "W900"
+
+	key[]: "truck_browser_brand_kenworth_w900"
+	val[]: "Kenworth W900"
+
+}
+}

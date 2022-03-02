@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : default.kenworth.w900.steering_w
+{
+	name: "Kenworth Modern"
+	price: 165
+	unlock: 0
+	icon: "kenworth_w900/steering_w_def"
+	interior_model: "/vehicle/truck/upgrade/steering_w/kenworth_w900/default.pmd"
+
+}
+}

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "hood_slvr.tobj"
+	texture_name : "texture"
+}

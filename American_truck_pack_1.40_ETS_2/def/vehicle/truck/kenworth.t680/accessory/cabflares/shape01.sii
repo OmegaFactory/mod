@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.t680.cabflares
+{
+	name: "Light Adapter"
+	price: 50
+	unlock: 0
+	icon: "lights"
+	exterior_model: "/vehicle/truck/upgrade/cabflares/kenworth_t680/cabflares01.pmd"
+	conflict_with[]: "shape01.kenworth.t680.cabdefl"
+
+}
+}

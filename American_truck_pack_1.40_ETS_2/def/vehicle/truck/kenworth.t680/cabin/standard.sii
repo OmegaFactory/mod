@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_cabin_data : standard.kenworth.t680.cabin
+{
+	name: "Mid Roof Sleeper"
+	price: 27590
+	unlock: 10
+	icon: "kenworth_t680/cab_std"
+
+	model: "/vehicle/truck/kenworth_t680/truck.pmd"
+	collision: "/vehicle/truck/kenworth_t680/truck.pmc"
+	variant: cab_b
+	look: default
+
+	windows_model: "/vehicle/truck/kenworth_t680/win_open.pmd"
+	left_window_anim: "/vehicle/truck/kenworth_t680/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/kenworth_t680/win_open_r.pma"
+
+	wiper_model: "/vehicle/truck/kenworth_t680/wipers.pmd"
+	wiper_anim: "/vehicle/truck/kenworth_t680/wipers.pma"
+	suspension: false
+
+	defaults[]: "/def/vehicle/truck/kenworth.t680/chassis/long_6x2.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.t680/interior/cab_b_n_b.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.t680/paint_job/color4.sii"
+
+	conflict_with[]: "short.kenworth.t680.chassis"
+	conflict_with[]: "short_6x2.kenworth.t680.chassis"
+	conflict_with[]: "short_6x2_m.kenworth.t680.chassis"
+	conflict_with[]: "short_4x2.kenworth.t680.chassis"
+	conflict_with[]: "short2.kenworth.t680.chassis"
+	conflict_with[]: "short2_6x2.kenworth.t680.chassis"
+	conflict_with[]: "short2_6x2_m.kenworth.t680.chassis"
+	conflict_with[]: "short2_4x2.kenworth.t680.chassis"
+
+@include "sound.sui"
+}
+}

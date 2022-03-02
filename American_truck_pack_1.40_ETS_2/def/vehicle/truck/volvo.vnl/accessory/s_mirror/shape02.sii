@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.s_mirror
+{
+	name: "Passenger Side Mirror 2"
+	price: 185
+	unlock: 5
+	icon: "volvo_vnl/lsidemirror02"
+	exterior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror02_lside.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror02_lside_int.pmd"
+}
+}

@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : 900_xe2_a.kenworth.w900.paint_job
+{
+@include "900_xe2_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_w900/900_xe2/pjm_at_0x6144_size_2048x2048.tobj"
+	suitable_for[]: "duty.kenworth.w900.cabin"
+}
+}

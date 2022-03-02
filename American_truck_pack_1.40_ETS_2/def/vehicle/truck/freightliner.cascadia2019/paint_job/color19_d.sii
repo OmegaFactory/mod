@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : color19_d.freightliner.cascadia2019.paint_job
+{
+@include "color19_settings.sui"
+	suitable_for[]: "s72_rr.freightliner.cascadia2019.cabin"
+}
+}

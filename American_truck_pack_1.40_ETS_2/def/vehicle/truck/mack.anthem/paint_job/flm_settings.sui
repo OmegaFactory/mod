@@ -1,0 +1,12 @@
+	name: "Cold Fire"
+	price: 25000
+	unlock: 15
+	base_color: (0.000000, 0.000000, 0.000000)
+	base_color_locked: false
+	icon: "mack_anthem/paint_flm"
+	mask_b_color: (0.000000, 0.171454, 0.630731)
+	mask_b_locked: false
+	mask_g_color: (0.396755, 0.701074, 0.879622)
+	mask_g_locked: false
+	mask_r_color: (0.000000, 0.490998, 0.896269)
+	mask_r_locked: false

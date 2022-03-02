@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : day_aero2.freightliner.cascadia2019.s_deflector
+{
+	name: "@@aero2@@"
+	price: 1450
+	unlock: 7
+	icon: "truck/freightliner_cascadia2019/accessory/s_deflector/dc_base_c"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/s_deflector/dc_base_c.pmd"
+	coll: "/vehicle/truck/freightliner_cascadia2019/accessory/s_deflector/dc_base_c.pmc"
+
+#	suitable_for[]: "day_aero.freightliner.cascadia2019.sideflares"
+	suitable_for[]: "day.freightliner.cascadia2019.cabin"
+}
+}

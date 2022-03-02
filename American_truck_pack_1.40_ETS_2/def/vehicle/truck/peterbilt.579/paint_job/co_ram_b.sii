@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : co_ram_b.peterbilt.579.paint_job
+{
+@include "co_ram_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/co_ram/pjm_at_0x4096_size_2048x2048.tobj"
+	suitable_for[]: "standard.peterbilt.579.cabin"
+}
+}

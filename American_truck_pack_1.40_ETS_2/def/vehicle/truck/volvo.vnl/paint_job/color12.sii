@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color12.volvo.vnl.paint_job
+{
+	name: "P3164 Rose Gray"
+	price: 2800
+	unlock: 0
+	icon: "volvo_vnl/metalic04"
+
+	flipflake: true
+	flip_color: (0.0414, 0.0375, 0.0354)
+	flip_strength: 0.93
+	flake_color: (0.8647, 0.771, 0.7196)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.1441, 0.1221, 0.1144)
+	stock: false
+}
+}

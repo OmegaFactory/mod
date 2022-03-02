@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : paint_chrome.westernstar.49x.fr_mirror
+{
+	name: "@@paint_chrom@@"
+	price: 350
+	unlock: 6
+	icon: "truck/westernstar_49x/accessory/fr_mirror/r_pnt_chrmc"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/fr_mirror/r_pnt_chrmc.pmd"
+	interior_model: "/vehicle/truck/westernstar_49x/accessory/fr_mirror/r_pnt_int.pmd"
+}
+}

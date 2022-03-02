@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : s48.mack.anthem.cabflares
+{
+	name: "Light Adapter"
+	price: 50
+	unlock: 0
+	icon: "lights"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/cabflares/cabflares_2_1_1.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+
+	conflict_with[]: "*.mack.anthem.cabdefl"
+}
+}

@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : hirise.intnational.lonestar.cabdefl
+{
+	name: "High Rise Cabin Deflector"
+	price: 2540
+	unlock: 13
+	icon: "international_lonestar/cab_defl"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/cabdefl/cabdefl_b.pmd"
+	coll: "/vehicle/truck/intnational_lonestar/accessory/cabdefl/cabdefl_b.pmc"
+
+	suitable_for[]: "hirise.intnational.lonestar.cabin"
+	conflict_with[]: "shape1.intnational.lonestar.beacon"
+}
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : chromew.westernstar.49x.mudguard
+{
+	name: "Chrome Logo"
+	price: 400
+	unlock: 9
+	icon: "truck/westernstar_49x/accessory/mudguard/chrmc_w"
+
+	look: default
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/mudguard/chrmc_w.pmd"
+}
+}

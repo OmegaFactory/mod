@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/peterbilt_389/interior/aluminium.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/peterbilt_389/interior/details_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/vehicle/truck/peterbilt_389/interior/details_o.tobj"
+	texture_name[2] : "texture_oclu"
+	texture[3] : "/material/environment/interior_reflection.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.4 , 0.95 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.218698 , 0.218698 , 0.218698 }
+}

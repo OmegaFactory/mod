@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shr_70ch.intnational.lonestar.sideskirt
+{
+	name: "Side Steps 70gal Chrome Tank"
+	price: 2850
+	unlock: 2
+	icon: "international_lonestar/sskirt_tank_cr"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/sideskirt/sskirt_t100_cr_s.pmd"
+
+	suitable_for[]: "6x2s_70.intnational.lonestar.chassis"
+	suitable_for[]: "6x4s_70.intnational.lonestar.chassis"
+	suitable_for[]: "8x4s_70.intnational.lonestar.chassis"
+}
+}

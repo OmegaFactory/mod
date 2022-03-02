@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape03.volvo.vnl.mirror
+{
+	name: "@@duty@@"
+	price: 250
+	unlock: 0
+	icon: "volvo_vnl/mirror03"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror03.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror03_interior.pmd"
+}
+}

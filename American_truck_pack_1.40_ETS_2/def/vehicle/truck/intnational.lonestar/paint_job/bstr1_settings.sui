@@ -1,0 +1,12 @@
+	name: "Ambition"
+	price: 19300
+	unlock: 10
+	base_color: (0.005607, 0.005607, 0.005607)
+	base_color_locked: false
+	icon: "international_lonestar/pnt_bstr1"
+	mask_b_color: (0.361288, 0.187821, 0.057805)
+	mask_b_locked: false
+	mask_g_color: (0.450786, 0.371218, 0.270482)
+	mask_g_locked: false
+	mask_r_color: (0.198083, 0.006049, 0.000000)
+	mask_r_locked: false

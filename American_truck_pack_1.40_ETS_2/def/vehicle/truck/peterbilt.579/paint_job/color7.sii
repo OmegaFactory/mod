@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color7.peterbilt.579.paint_job
+{
+	name: "Forest Green"
+	price: 2800
+	unlock: 0
+	base_color: (0.01, 0.175, 0.04)
+	base_color_locked: true
+	stock: true
+}
+}

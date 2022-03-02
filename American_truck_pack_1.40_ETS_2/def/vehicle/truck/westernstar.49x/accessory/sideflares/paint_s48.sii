@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : paint_s48.westernstar.49x.sideflares
+{
+	name: "@@paint@@"
+	price: 250
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/sideflares/pnt_2"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/sideflares/pnt_2.pmd"
+
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s48sb.westernstar.49x.cabin"
+}
+}

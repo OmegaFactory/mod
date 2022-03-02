@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : mid93_uc.mack.anthem.sideskirt
+{
+	name: "@@chrom_tank@@"
+	price: 3940
+	unlock: 14
+	icon: "mack_anthem/sdskrt_uncvrd_rtnk"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_2_3_1.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_2_3_1.pmc"
+
+	suitable_for[]: "6x4m_93.mack.anthem.chassis"
+	suitable_for[]: "6x2m_93.mack.anthem.chassis"
+}
+}

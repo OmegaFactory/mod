@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 2.rrim
+{
+	name: "Chrome Standard"
+	price: 940
+	unlock: 3
+	icon: "wr_chrome"
+	model: "/vehicle/truck/upgrade/wheel/rim/rear_2.pmd"
+}
+}

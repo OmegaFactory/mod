@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : chrome.mack.anthem.doorhndl
+{
+	name: "@@chrom@@"
+	price: 520
+	unlock: 9
+	icon: "mack_anthem/hndl_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/doorhndl/doorhandle_0_1_1.pmd"
+}
+}

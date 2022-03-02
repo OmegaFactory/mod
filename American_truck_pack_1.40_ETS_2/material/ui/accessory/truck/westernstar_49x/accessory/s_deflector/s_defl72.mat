@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "s_defl72.tobj"
+	texture_name : "texture"
+}

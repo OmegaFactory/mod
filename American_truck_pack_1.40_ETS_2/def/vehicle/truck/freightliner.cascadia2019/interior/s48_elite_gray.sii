@@ -1,0 +1,36 @@
+SiiNunit
+{
+accessory_interior_data	: s48_el_g.freightliner.cascadia2019.interior
+{
+	name: "Elite Grey"
+	price: 22960
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/elite_gray"
+	model: "/vehicle/truck/freightliner_cascadia2019/interior/model/sl_48xt.pmd"
+	animated_model: "/vehicle/truck/freightliner_cascadia2019/interior/animation/animation.pmd"
+	collision: "/vehicle/truck/freightliner_cascadia2019/interior/model/sl_48xt.pmc"
+	look: Default
+	variant: elite_gray
+
+	ext_model: "/vehicle/truck/freightliner_cascadia2019/interior/external/sl_48xt.pmd"
+	ext_look: elite_gray
+	ext_variant: default
+
+	suitable_for[]: "s48.freightliner.cascadia2019.cabin"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/steering_w/elite.sii"
+
+@include "animations.sui"
+
+@include "computers.sui"
+
+	glass_panes[]: .freightliner.cascadia2019.r.pane.front
+	glass_panes[]: .freightliner.cascadia2019.r.pane.close
+	glass_panes[]: .freightliner.cascadia2019.r.pane.far
+
+@include "seat.sui"
+@include "sound.sui"
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+}

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape03.kenworth.w900.bumper
+{
+	name: "Firefly"
+	price: 2540
+	unlock: 13
+	icon: "kenworth_w900/bumper_03"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth_w900/bumper03.pmd"
+}
+}

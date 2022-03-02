@@ -1,0 +1,5 @@
+material : "ui"
+{ 
+	texture: "front_disc_03.tobj" 
+texture_name : "texture" 
+}

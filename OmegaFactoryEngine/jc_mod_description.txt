@@ -1,0 +1,18 @@
+OmegaFactoryEngine Pack 
+
+Place This engine mod above any truck mods
+
+This Mod is available on the steam workshop. Please only download through the workshop 
+Kindly do not re-upload to any third party sites. 
+
+OmegaFactoryEngine Pack. All Sounds have been completely re-worked. It will conflict with my previous "standalone engines" so remove them all and just use this pack
+
+It contains 7 different engines with various HP and options
+
+Cummins N14 with Lope Idle or Standard Idle - 550hp, 810hp, 1355hp
+Caterpillar 3408 V8 with Air Start or Key Start - 505hp, 625hp, 810hp, 1066hp 
+Caterpillar 1693 TA with Cat Brake Saver or Engine Brake - 325hp, 375hp, 425hp, 500hp
+Scania DC-16 V8 "Custom" with Lope Idle & Standard Idle - 520hp, 580hp, 650hp, 730hp, 845hp
+Scania DC-16 V8 - 520hp, 580hp, 650hp, 730hp
+Mack E9 V8 - 400hp, 450hp, 500hp, 620hp, 990hp
+Paccar Mx-13 - 455hp, 510hp, 710hp, 1044hp 

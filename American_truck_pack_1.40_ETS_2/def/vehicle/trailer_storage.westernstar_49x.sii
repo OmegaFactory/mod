@@ -1,0 +1,6 @@
+SiiNunit
+{
+
+@include "trailer/truck_trans_49x_red.sui"
+
+}

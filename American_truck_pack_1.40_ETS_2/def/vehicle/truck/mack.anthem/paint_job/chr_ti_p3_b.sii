@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : chr_ti_p3_b.mack.anthem.paint_job
+{
+@include "chr_ti_p3_settings.sui"
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

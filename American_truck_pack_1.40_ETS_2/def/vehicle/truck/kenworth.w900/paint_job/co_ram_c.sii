@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : co_ram_c.kenworth.w900.paint_job
+{
+@include "co_ram_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_w900/co_ram/pjm_at_0x2048_size_2048x2048.tobj"
+	suitable_for[]: "exclusive.kenworth.w900.cabin"
+}
+}

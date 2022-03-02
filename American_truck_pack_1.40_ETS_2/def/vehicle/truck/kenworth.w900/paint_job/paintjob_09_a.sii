@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_paint_job_data : paint_09_a.kenworth.w900.paint_job
+{
+	name: "Independent"
+	price: 31000
+	unlock: 21
+	icon: "kenworth_w900/paint_09"
+	airbrush: true
+	flipflake: true
+	flip_color: (0.4396, 0.3371, 0.1441)
+	flip_strength: 1.7
+	flake_color: (0.8549, 0.5271, 0.1144)
+	flake_uvscale: 24.0
+	flake_density: 1.0
+	flake_shininess: 20.0
+	flake_clearcoat_rolloff: 4.5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.2086, 0.1559, 0.0722)
+	base_color_locked: false
+	flip_color_locked: false
+	flake_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_w900/paintjob_09_a.tobj"
+	stock: false
+
+	suitable_for[]: "duty.kenworth.w900.cabin"
+}
+}

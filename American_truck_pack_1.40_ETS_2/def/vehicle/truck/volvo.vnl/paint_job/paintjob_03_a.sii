@@ -1,0 +1,24 @@
+SiiNunit
+{
+accessory_paint_job_data : paint03_a.volvo.vnl.paint_job
+{
+	name: "Viking Knots"
+	price: 29000
+	unlock: 19
+	icon: "volvo_vnl/paintjob03"
+
+	airbrush: false
+	mask_r_color: (0.723, 0.1559, 0)
+	mask_r_locked: false
+	mask_g_color: (0.0103, 0.008, 0.008)
+	mask_g_locked: false
+	mask_b_color: (0.8713, 0.0595, 0)
+	mask_b_locked: false
+	base_color: (0.0273, 0.004, 0.0009)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_03_a.tobj"
+	stock: false
+
+	suitable_for[]: "duty.volvo.vnl.cabin"
+}
+}

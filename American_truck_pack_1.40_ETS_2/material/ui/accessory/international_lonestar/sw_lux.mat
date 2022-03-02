@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sw_lux.tobj"
+	texture_name : "texture"
+}

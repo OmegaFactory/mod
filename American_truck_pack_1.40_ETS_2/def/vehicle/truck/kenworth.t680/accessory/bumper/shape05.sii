@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape05.kenworth.t680.bumper
+{
+	name: "Chromed Large Flares"
+	price: 3210
+	unlock: 17
+	icon: "kenworth_t680/bumper_05"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth_t680/bumper05.pmd"
+}
+}

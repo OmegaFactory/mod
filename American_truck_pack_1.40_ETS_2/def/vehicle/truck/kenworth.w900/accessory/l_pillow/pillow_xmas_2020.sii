@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : pill_xmas_20.kenworth.w900.l_pillow
+{
+	name: "@@wise_heart_pillow@@"
+	price: 90
+	unlock: 0
+
+	icon: "truck/upgrade/interior_decors/l_pillow/xmas_pillow"
+
+	interior_model: "/vehicle/truck/upgrade/interior_decors/l_pillow/xmas_pillow/pillow.pmd"
+	exterior_model: "/vehicle/truck/upgrade/interior_decors/l_pillow/xmas_pillow/pillow_ext.pmd"
+
+	look: Default
+}
+}

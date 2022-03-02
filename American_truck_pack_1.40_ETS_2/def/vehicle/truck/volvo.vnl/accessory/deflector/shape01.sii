@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : shape01.volvo.vnl.deflector
+{
+	name: "No Deflector"
+	price: 50
+	unlock: 0
+	icon: "volvo_vnl/deflector01"
+	exterior_model: "/vehicle/truck/upgrade/deflector/volvo_vnl/deflector01.pmd"
+	interior_model: "/vehicle/truck/upgrade/deflector/volvo_vnl/deflector01.pmd"
+
+
+
+}
+}

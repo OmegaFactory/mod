@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : chrome.intnational.lonestar.sunshield
+{
+	name: "Chrome Sunshield"
+	price: 920
+	unlock: 13
+	icon: "international_lonestar/sunshld_b"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/sunshield/sunshield_b.pmd"
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/sunshield/sunshield_b_int.pmd"
+}
+}

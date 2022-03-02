@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shape1.volvo.vnl.beacon
+{
+	name: "Double Radiant"
+	price: 500
+	unlock: 5
+	icon: "beacon/beacon"
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon_w.pmd"
+	conflict_with[]: "shape01.volvo.vnl.r_deflector"
+	conflict_with[]: "shape02.volvo.vnl.r_deflector"
+	conflict_with[]: "shape03.volvo.vnl.r_deflector"
+
+	suitable_for[]: "duty.volvo.vnl.cabin"
+}
+}

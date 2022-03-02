@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : color4.peterbilt.579.paint_job
+{
+	name: "Deep Black"
+	price: 2800
+	unlock: 0
+	icon: "color_black"
+	base_color: (0, 0, 0)
+	base_color_locked: true
+	stock: true
+}
+}

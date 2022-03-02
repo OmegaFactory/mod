@@ -1,0 +1,85 @@
+﻿SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "dashboard" for "/ui/template/dashboard.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+#
+# International Lonestar
+#
+ui::text_template : txt.lonestar.odo {
+	name: "zDB  International Odometer"
+	text: "<align hstyle=center><font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font></align><ret><offset vshift=40><align hstyle=center><color value=FF6d6a62><font face=/font/big.font xscale=1.4 yscale=1.4>%1</font></align>"
+}
+
+ui::text_template : txt.lonestar.gear {
+	name: "zDB  International Gear"
+	text: "<color value=FF0eff02><align hstyle=left><font face=/font/int_bold_alp_gear.font xscale=0.6 yscale=0.58>%0</font></align><ret><offset vshift=197><align hstyle=center><color value=FFFFFFFF><font face=/font/int_bold_gearn.font xscale=0.8 yscale=0.8>%0</font></align><ret><color value=FF666666><align hstyle=left><font face=/font/int_bold_alp_gearm_block.font xscale=0.6 yscale=0.58>%0</font></align>"
+}
+
+ui::text_template : txt.lonestar.gearm {
+	name: "zDB  International Gear Mode"
+	text: "<color value=FF0eff02><offset vshift=12><align hstyle=left><font face=/font/int_bold_alp_gearm.font xscale=0.6 yscale=0.58>%0</font></align>"
+}
+
+ui::text_template : txt.lonestar.ambient {
+	name: "zDB  International Ambient Temperature"
+	text: "<font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font><ret><offset vshift=40><font face=/font/big.font xscale=1.4 yscale=1.4>°%1</font><"
+}
+
+ui::text_template : txt.lonestar.ifuelcons {
+	name: "zDB  International Instant Fuel Economy"
+	text: "<align hstyle=right><font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font></align><ret><offset vshift=-10><align hstyle=center><color value=FF6d6a62><font face=/font/big.font xscale=2.5 yscale=2.5>%1</font></align>"
+}
+
+ui::text_template : txt.lonestar.afuelcons {
+	name: "zDB  International Average Fuel Economy"
+	text: "<align hstyle=right right=-355><font face=/font/int_bold.font xscale=1.2 yscale=1.2>%0</font></align><ret><offset vshift=86><align hstyle=center><font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font><color value=FF6d6a62><offset vshift=5><font face=/font/big.font xscale=1.4 yscale=1.4> %1</font></align>"
+}
+
+ui::text_template : txt.lonestar.cc {
+	name: "zDB  International Cruise Control"
+	text: "<align hstyle=center><font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font></align>"
+}
+
+ui::text_template : txt.lonestar.bigspeed{
+	name: "zDB  International Big Speed"
+	text: "<align hstyle=center><font face=/font/int_bold.font xscale=2.5 yscale=2.5>%0</font></align><ret><offset vshift=145><align hstyle=center><color value=FF6d6a62><font face=/font/big.font xscale=2.2 yscale=2.2>%1</font></align>"
+}
+
+ui::text_template : txt.lonestar.fuelrange {
+	name: "zDB  International Fuel Range"
+	text: "<align hstyle=right><font face=/font/int_bold.font xscale=1.2 yscale=1.2>%0</font></align><ret><offset vshift=73><align hstyle=left><color value=FF6d6a62><font face=/font/big.font xscale=2.2 yscale=2.2>%1</font></align>"
+}
+
+ui::text_template : txt.lonestar.trip {
+	name: "zDB  International Trip Distance"
+	text: "<align hstyle=center><font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font><color value=FF6d6a62><offset vshift=5><font face=/font/big.font xscale=1.4 yscale=1.4> %1</font></align>"
+}
+
+ui::text_template : txt.lonestar.trip_length {
+	name: "zDB  International Trip Duration"
+	text: "<align hstyle=center><font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font><color value=FF6d6a62><offset vshift=5><font face=/font/big.font xscale=1.4 yscale=1.4> hours</font></align>"
+}
+
+ui::text_template : txt.lonestar.enghours {
+	name: "zDB  International Engine Hours"
+	text: "<align hstyle=center><font face=/font/int_bold.font xscale=1.2 yscale=1.2>%0</font></align>"
+}
+
+ui::text_template : txt.lonestar.voltage {
+	name: "zDB  International Voltage"
+	text: "<align hstyle=right><font face=/font/int_bold.font xscale=0.8 yscale=0.8>%0</font></align><ret><align hstyle=right><offset vshift=40><font face=/font/big.font xscale=1.4 yscale=1.4>%1</font></align>"
+}
+
+ui::text_template : txt.lonestar.clock {
+	name: "zDB  International Clock"
+	text: "<align hstyle=right><font face=/font/lcd_italic.font xscale=1 yscale=1>%0</font></align>"
+}
+
+
+}

@@ -1,0 +1,74 @@
+# spec anims
+
+	wheel_anim: "/vehicle/truck/volvo_vnl/interior/wheel_anim.pma"
+	wiper_anim: "/vehicle/truck/volvo_vnl/interior/wiper_anim.pma"
+	wiper_duration_and_delay[]: (1.9, 2.0)
+	wiper_duration_and_delay[]: (1.9, 0.0)
+	wiper_duration_and_delay[]: (1.0, 0.0)
+	wheel_updown_anim: "/vehicle/truck/volvo_vnl/interior/wheel_updown_anim.pma"
+	wheel_frontback_anim: "/vehicle/truck/volvo_vnl/interior/wheel_frontback_anim.pma"
+	wheel_updown_anim_default: 0.675
+	wheel_frontback_anim_default: 0.5
+
+# Sticks
+
+	left_window_stick_anim: "/vehicle/truck/volvo_vnl/interior/win_btn_l.pma"
+	right_window_stick_anim: "/vehicle/truck/volvo_vnl/interior/win_btn_r.pma"
+	left_window_anim: "/vehicle/truck/volvo_vnl/interior/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/volvo_vnl/interior/win_open_r.pma"
+
+	blinker_anim: "/vehicle/truck/volvo_vnl/interior/blinker_anim.pma"
+	blinker_delay: 0.333
+	lights_anim: "/vehicle/truck/volvo_vnl/interior/lights_anim.pma"
+	high_beam_anim: "/vehicle/truck/volvo_vnl/interior/high_beam_anim.pma"
+	wiper_stick_anim: "/vehicle/truck/volvo_vnl/interior/wiper_stick_anim.pma"
+	parking_stick_anim: "/vehicle/truck/volvo_vnl/interior/parking_stick_anim.pma"
+	engine_start_anim: "/vehicle/truck/volvo_vnl/interior/engine_start_anim.pma"
+	trailer_air_stick_anim: "/vehicle/truck/volvo_vnl/interior/trailer_air_stick_anim.pma"
+	trailer_brake_stick_anim: "/vehicle/truck/volvo_vnl/interior/trailer_brake_stick_anim.pma"
+	retarder_stick_anim: "/vehicle/truck/volvo_vnl/interior/retarder_stick_anim.pma"
+	differential_lock_stick_anim: "/vehicle/truck/volvo_vnl/interior/differential_lock_stick_anim.pma"
+
+# Gauges
+
+	oil_pressure_anim: "/vehicle/truck/volvo_vnl/interior/oil_pressure_anim.pma"
+	oil_pressure_anim_min: 0	# 0psi
+	oil_pressure_anim_max: 8.27	# 120psi
+	water_temp_anim: "/vehicle/truck/volvo_vnl/interior/water_temp_anim.pma"
+	water_temp_anim_min: 54.4	# 130*F
+	water_temp_anim_max: 121.1	# 250*F
+	tachometer_anim: "/vehicle/truck/volvo_vnl/interior/tachometer_anim.pma"
+	tachometer_anim_min: 400
+	tachometer_anim_max: 3000
+	speedometer_anim: "/vehicle/truck/volvo_vnl/interior/speedometer_anim.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 144
+	air_pressure_anim: "/vehicle/truck/volvo_vnl/interior/air_pressure_anim.pma"
+	air_pressure_anim_min: 1.38	# 20psi
+	air_pressure_anim_max: 12.4	# 180psi
+	brake_pressure_anim:  "/vehicle/truck/volvo_vnl/interior/brake_pressure_anim.pma"
+	brake_pressure_anim_min: 0
+	brake_pressure_anim_max: 6.5
+	fuel_anim: "/vehicle/truck/volvo_vnl/interior/fuel_anim.pma"
+	fuel_anim_max: 1.0
+	ad_blue_anim: "/vehicle/truck/volvo_vnl/interior/ad_blue_anim.pma"
+	ad_blue_anim_max: 1.0
+	turbo_anim: "/vehicle/truck/volvo_vnl/interior/turbo_anim.pma"
+
+# Indicators
+
+	button_left_blinker: "/vehicle/truck/volvo_vnl/interior/button_left_blinker.pma"
+	button_right_blinker: "/vehicle/truck/volvo_vnl/interior/button_right_blinker.pma"
+	button_battery_warning: "/vehicle/truck/volvo_vnl/interior/button_battery_warning.pma"
+	button_high_beam_lights: "/vehicle/truck/volvo_vnl/interior/button_high_beam_lights.pma"
+	button_parking_brake: "/vehicle/truck/volvo_vnl/interior/button_parking_brake.pma"
+	flasher_4way_anim: "/vehicle/truck/volvo_vnl/interior/flasher_4way_anim.pma"
+
+	indicator_low_air_pressure: "/vehicle/truck/volvo_vnl/interior/indicator_low_air_pressure.pma"
+	indicator_warning: "/vehicle/truck/volvo_vnl/interior/indicator_warning.pma"
+	indicator_stop: "/vehicle/truck/volvo_vnl/interior/indicator_stop.pma"
+	indicator_cruise_control: "/vehicle/truck/volvo_vnl/interior/indicator_cruise_control.pma"
+	indicator_differential_lock: "/vehicle/truck/volvo_vnl/interior/indicator_differential_lock.pma"
+	indicator_generic: "/vehicle/truck/volvo_vnl/interior/indicator_generic.pma"
+	indicator_weigh_green: "/vehicle/truck/volvo_vnl/interior/indicator_weigh_green.pma"
+	indicator_weigh_red: "/vehicle/truck/volvo_vnl/interior/indicator_weigh_red.pma"

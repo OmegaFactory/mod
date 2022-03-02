@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color7.kenworth.w900.paint_job
+{
+	name: "Metallic Cyan"
+	price: 6900
+	unlock: 0
+
+	flipflake: true
+	flip_color: (0.008677, 0.189538, 0.217027)
+	flip_strength: 0.93
+	flake_color: (0.018677, 0.189538, 0.287027)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	stock: false
+	base_color: (0.003677, 0.109538, 0.167027)
+	base_color_locked: true
+}
+}

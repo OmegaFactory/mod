@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.w900.lghfender
+{
+	name: "Metal Fender Guards"
+	price: 250
+	unlock: 3
+	icon: "kenworth_w900/lghfender_01"
+	exterior_model: "/vehicle/truck/upgrade/lghfender/kenworth_w900/lghfender01.pmd"
+}
+}

@@ -1,0 +1,143 @@
+SiiNunit
+{
+vehicle: .fallback.kenworth.w900
+{
+ fuel_relative: 1.0
+ accessories[]: .w900_f.data
+ accessories[]: .w900_f.chassis
+ accessories[]: .w900_f.cabin
+ accessories[]: .w900_f.interior
+ accessories[]: .w900_f.engine
+ accessories[]: .w900_f.transm
+ accessories[]: .w900_f.headl
+ accessories[]: .w900_f.fwheel
+ accessories[]: .w900_f.rwheel1
+ accessories[]: .w900_f.rwheel2
+ accessories[]: .w900_f.frim
+ accessories[]: .w900_f.rrim1
+ accessories[]: .w900_f.rrim2
+ accessories[]: .w900_f.paint
+ accessories[]: .w900_f.mirror
+ accessories[]: .w900_f.bumper
+ accessories[]: .w900_f.exhaust
+ accessories[]:	.w900_f.mudflap
+ accessories[]:	.w900_f.filter
+ accessories[]:	.w900_f.swheel
+}
+
+vehicle_accessory : .w900_f.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/data.sii"
+}
+
+vehicle_accessory : .w900_f.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/chassis/short1.sii"
+}
+
+vehicle_accessory : .w900_f.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/cabin/duty.sii"
+}
+
+vehicle_accessory : .w900_f.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/interior/standard_short.sii"
+}
+
+vehicle_accessory : .w900_f.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/engine/isx12.sii"
+}
+
+vehicle_accessory : .w900_f.transm {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/transmission/10_speed.sii"
+}
+
+vehicle_accessory : .w900_f.headl {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : .w900_f.fwheel {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .w900_f.rwheel1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .w900_f.rwheel2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .w900_f.frim {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_rim/steel.sii"
+}
+
+vehicle_wheel_accessory : .w900_f.rrim1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_rim/steel.sii"
+}
+
+vehicle_wheel_accessory : .w900_f.rrim2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_rim/steel.sii"
+}
+
+vehicle_paint_job_accessory : .w900_f.paint {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/paint_job/color2.sii"
+}
+
+vehicle_addon_accessory : .w900_f.mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/mirror/shape1.sii"
+}
+
+vehicle_addon_accessory : .w900_f.bumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/bumper/shape01.sii"
+}
+
+vehicle_addon_accessory : .w900_f.exhaust {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0.000000
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/exhaust/shape04.sii"
+}
+
+vehicle_addon_accessory : .w900_f.mudflap {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0.000000
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/mudflaps/shape01s.sii"
+}
+
+vehicle_addon_accessory : .w900_f.filter {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0.000000
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/filters/shape01.sii"
+}
+
+vehicle_addon_accessory : .w900_f.swheel {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/steering_w/default.sii"
+}
+
+
+}

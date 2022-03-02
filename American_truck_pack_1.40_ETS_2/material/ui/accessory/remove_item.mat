@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "remove_item.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,15 @@
+	name: "Woodland Camo"
+	price: 27500
+	unlock: 19
+	airbrush: true
+	base_color: (0.013705, 0.013705, 0.013705)
+	base_color_locked: false
+	color_variant[]: (0.479298, 0.423247, 0.278878)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.057805, 0.074221, 0.046671)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	icon: "freightliner_cascadia2019/fci_arm"

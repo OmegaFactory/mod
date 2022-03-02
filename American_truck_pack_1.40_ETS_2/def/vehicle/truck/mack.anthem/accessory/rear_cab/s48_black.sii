@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s48_black.mack.anthem.rear_cab
+{
+	name: "@@standard@@"
+	price: 50
+	unlock: 0
+	icon: "mack_anthem/reardaycab_blck"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/rear_cab/rear_cab_2_1_2.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : color4.kenworth.w900.paint_job
+{
+	name: "Graphite Black"
+	price: 2900
+	unlock: 0
+	icon: "color_black"
+	base_color: (0.003347, 0.003347, 0.003347)
+	base_color_locked: true
+	stock: true
+}
+}

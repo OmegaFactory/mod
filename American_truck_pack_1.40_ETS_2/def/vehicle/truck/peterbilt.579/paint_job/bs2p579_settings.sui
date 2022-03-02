@@ -1,0 +1,13 @@
+	name: "Juggernaut"
+	price: 27200
+	unlock: 0
+	alternate_uvset: true
+	base_color: (0.341896, 0.165144, 0.027321)
+	base_color_locked: false
+	icon: "peterbilt_579/pnt_bsjug"
+	mask_b_color: (0.250158, 0.007501, 0.002126)
+	mask_b_locked: false
+	mask_g_color: (0.830770, 0.462077, 0.035606)
+	mask_g_locked: false
+	mask_r_color: (0.000000, 0.000000, 0.000000)
+	mask_r_locked: false

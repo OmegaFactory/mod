@@ -1,0 +1,25 @@
+SiiNunit
+{
+accessory_paint_job_data : wotrev2_bc.peterbilt.579.paint_job
+{
+	name: "Crystal Dream"
+	price: 25000
+	unlock: 0
+	icon: "peterbilt_579/paint_wotrev2"
+	mask_r_color : (0.0343, 0.0038, 0.0036)
+	mask_r_locked: false
+	mask_g_color : (0.6239, 0.5775, 0.5775)
+	mask_g_locked: false
+	mask_b_color : (0.1559, 0.0018, 0.003)
+	mask_b_locked: false
+	base_color :   (0.0666, 0, 0)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/paint_wotrev2_bc.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "standard.peterbilt.579.cabin"
+	suitable_for[]: "exclusive.peterbilt.579.cabin"
+	
+}
+}

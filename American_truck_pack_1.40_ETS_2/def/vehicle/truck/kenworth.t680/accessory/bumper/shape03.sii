@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape03.kenworth.t680.bumper
+{
+	name: "Chromed"
+	price: 2030
+	unlock: 7
+	icon: "kenworth_t680/bumper_02"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth_t680/bumper02.pmd"
+}
+}

@@ -1,0 +1,7 @@
+# Configuration of the engine sounds for the specific truck.
+	sounds:5
+	sounds[]: "engine|/def/vehicle/truck/common/engine/zm_d13k_sound_engine.soundref"
+	sounds[]: "exhaust|/def/vehicle/truck/common/engine/zm_d13k_sound_exhaust.soundref"
+	sounds[]: "start_bad|/def/vehicle/truck/common/engine/zm_d13k_sound_start_bad.soundref"
+	sounds[]: "turbo|/def/vehicle/truck/common/engine/zm_d13k_sound_turbo.soundref"
+	sounds[]: "start|/def/vehicle/truck/common/engine/zm_d13k_sound_start.soundref"

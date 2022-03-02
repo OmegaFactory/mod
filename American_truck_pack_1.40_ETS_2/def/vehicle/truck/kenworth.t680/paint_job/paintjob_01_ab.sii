@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_paint_job_data : paint01_ab.kenworth.t680.paint_job
+{
+	name: "Club Eagle Metallic"
+	price: 29000
+	unlock: 19
+	icon: "kenworth_t680/paint_club"
+
+	airbrush: true
+	flipflake: true
+	flip_color: (0.000, 0.000, 0.050)
+	flip_strength: 0.93
+	flake_color: (0.164, 0.323, 0.616)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 3.5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.053, 0.147, 0.370)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_01_ab.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "standard.kenworth.t680.cabin"
+	suitable_for[]: "duty.kenworth.t680.cabin"
+}
+}

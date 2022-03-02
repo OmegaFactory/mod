@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape05.volvo.vnl.mirror
+{
+	name: "@@standard@@ 2015"
+	price: 380
+	unlock: 3
+	icon: "volvo_vnl/mirror05"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror05.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror05_interior.pmd"
+}
+}

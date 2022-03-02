@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.w900.wing
+{
+	name: "Chrome Turbo Wing"
+	price: 2540
+	unlock: 13
+	icon: "kenworth_w900/wing_01"
+	exterior_model: "/vehicle/truck/upgrade/wing/kenworth_w900/wing01.pmd"
+	suitable_for[]: "standard.kenworth.w900.cabin"
+}
+}

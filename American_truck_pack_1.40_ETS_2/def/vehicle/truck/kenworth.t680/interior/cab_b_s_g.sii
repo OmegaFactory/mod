@@ -1,0 +1,39 @@
+SiiNunit
+{
+accessory_interior_data	: cabbsg.kenworth.t680.interior
+{
+	name: "Diamond VIT Gray Interior"
+	price: 15180
+	unlock: 0
+	icon: "kenworth_t680/int_dg"
+	model: "/vehicle/truck/kenworth_t680/interior/model.pmd"
+	animated_model: "/vehicle/truck/kenworth_t680/interior/anim.pmd"
+	collision: "/vehicle/truck/kenworth_t680/interior/model.pmc"
+	look: gray
+	variant: cab_b_s
+
+	suitable_for[]: "standard.kenworth.t680.cabin"
+
+	ext_model: "/vehicle/truck/upgrade/ext_interior/kenworth_t680/stock.pmd"
+	ext_variant: cab_b
+	ext_look: int_s_g
+
+	defaults[]: "/def/vehicle/truck/kenworth.t680/accessory/steering_w/default.sii"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+
+	glass_panes[]: .kenwortht680.r.pane.front
+	glass_panes[]: .kenwortht680.r.pane.close
+	glass_panes[]: .kenwortht680.r.pane.far
+	glass_panes[]: .kenwortht680.r.pane.back_b
+
+@include "seat.sui"
+}
+@include "glass.sui"
+@include "glass_b.sui"
+}

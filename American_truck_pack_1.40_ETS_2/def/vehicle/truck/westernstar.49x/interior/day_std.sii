@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_interior_data	: day_std.westernstar.49x.interior
+{
+	name: "@@classic@@"
+	price: 20250
+	unlock: 10
+	icon: "truck/westernstar_49x/cabin/int_day_std"
+
+	model: "/vehicle/truck/westernstar_49x/interior/model/day.pmd"
+	animated_model: "/vehicle/truck/westernstar_49x/interior/animation/animation.pmd"
+	collision: "/vehicle/truck/westernstar_49x/interior/model/day.pmc"
+	look: default
+	variant: default
+
+	ext_model: "/vehicle/truck/westernstar_49x/interior/external/external_day.pmd"
+	ext_variant: default
+	ext_look: default
+
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/steering_w/standard.sii"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+	glass_panes[]: .weststar49x.r.pane.front
+	glass_panes[]: .weststar49x.r.pane.close
+	glass_panes[]: .weststar49x.r.pane.far
+	glass_panes[]: .weststar49x.r.pane.back_day
+
+@include "seat.sui"
+
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_day.sui"
+}

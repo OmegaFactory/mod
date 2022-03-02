@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : std.freightliner.cascadia2019.f_light_chs
+{
+	name: "@@standard@@"
+	price: 100
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/f_light_chs/base"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/f_light_chs/base.pmd"
+}
+}

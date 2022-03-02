@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : chrome.mack.anthem.mudguard
+{
+	name: "@@chrom@@"
+	price: 400
+	unlock: 9
+	icon: "mack_anthem/mdgrd_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/mudguard/mudguard_0_1_1.pmd"
+}
+}

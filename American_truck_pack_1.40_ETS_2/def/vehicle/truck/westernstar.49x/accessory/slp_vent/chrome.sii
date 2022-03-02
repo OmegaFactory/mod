@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : chrome.westernstar.49x.slp_vent
+{
+	name: "@@chrom@@"
+	price: 520
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/slp_vent/chrmc_2"
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/slp_vent/chrmc_2.pmd"
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s48sb.westernstar.49x.cabin"
+}
+}

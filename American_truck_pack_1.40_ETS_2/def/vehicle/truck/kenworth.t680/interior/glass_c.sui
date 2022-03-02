@@ -1,0 +1,8 @@
+glass_pane_data : .kenwortht680.r.pane.back_c
+{
+	locator: back_cc_gls
+	size: (0.9, 1.5)
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

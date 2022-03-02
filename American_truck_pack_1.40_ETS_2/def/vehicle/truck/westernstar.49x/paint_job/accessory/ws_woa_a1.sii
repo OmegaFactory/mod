@@ -1,0 +1,23 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/ws_woa/shared_eeece0ff.tobj"
+	flake_uvscale: 10.000000
+	flake_vratio: 0.250000
+	acc_list[]: "bumper.paint"
+	acc_list[]: "bumper.paint2_sb"
+	acc_list[]: "bumper.paint_sb"
+	acc_list[]: "bumper.pnt2_log_sb"
+	acc_list[]: "bumper.pnt_log"
+	acc_list[]: "bumper.pnt_log_sb"
+}
+
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/ws_woa/shared_eeece0ff.tobj"
+	flake_uvscale: 5.000000
+	flake_vratio: 0.500000
+	acc_list[]: "f_grill.paint"
+}
+}

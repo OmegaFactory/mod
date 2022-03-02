@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : shape04.peterbilt.579.exhaust
+{
+	name: "Double Caliber"
+	price: 11540
+	unlock: 10
+	icon: "peterbilt_579/exhaust_02"
+	exterior_model: "/vehicle/truck/upgrade/exhaust/peterbilt_579/exhaust04.pmd"
+
+	suitable_for[]: "long.peterbilt.579.chassis"
+	suitable_for[]: "long_6x2.peterbilt.579.chassis"
+	suitable_for[]: "long_6x2_m.peterbilt.579.chassis"
+	suitable_for[]: "long2.peterbilt.579.chassis"
+	suitable_for[]: "long2_6x2.peterbilt.579.chassis"
+	suitable_for[]: "long2_6x2_m.peterbilt.579.chassis"
+}
+}

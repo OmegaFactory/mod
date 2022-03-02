@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "wr_black.tobj"
+	texture_name : "texture"
+}

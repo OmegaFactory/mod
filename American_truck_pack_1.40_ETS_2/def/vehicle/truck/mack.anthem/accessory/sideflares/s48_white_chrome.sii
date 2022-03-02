@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s48_wc.mack.anthem.sideflares
+{
+	name: "White Side Flare Chrome Bar"
+	price: 400
+	unlock: 12
+	icon: "mack_anthem/sflr_whitebar"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideflares/sflr_2_1_2.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

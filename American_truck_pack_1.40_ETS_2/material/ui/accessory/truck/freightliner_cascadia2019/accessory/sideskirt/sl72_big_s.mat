@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sl72_big_s.tobj"
+	texture_name : "texture"
+}

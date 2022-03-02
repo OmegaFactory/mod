@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape05.kenworth.w900.bumper
+{
+	name: "Quarterback"
+	price: 3210
+	unlock: 17
+	icon: "kenworth_w900/bumper_05"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth_w900/bumper05.pmd"
+	coll: "/vehicle/truck/upgrade/bumper/kenworth_w900/bumper05.pmc"
+}
+}

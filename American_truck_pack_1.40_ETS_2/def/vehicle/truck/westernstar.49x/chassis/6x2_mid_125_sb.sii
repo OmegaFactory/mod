@@ -1,0 +1,55 @@
+SiiNunit
+{
+accessory_chassis_data : 6x2m_125sb.westernstar.49x.chassis
+{
+	name: "Medium 6x2 SBA 250@@gal@@"
+	price: 26550
+	unlock: 15
+	info[]: "6x2 SBA"
+	info[]: "125/125 @@gal@@"
+	icon: "truck/westernstar_49x/chassis/icon_6x2_125mid_sb"
+
+	model: "/vehicle/truck/westernstar_49x/chassis/chs_6x2m_jost_sb.pmd"
+	collision: "/vehicle/truck/westernstar_49x/chassis/chs_6x2m_jost_sb.pmc"
+	variant: default
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/westernstar_49x/ui_shadow_msb.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/westernstar_49x/ui_shadow/ui_shadow_msb.pmd"
+
+	tank_size: 947
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: false
+	powered_axle[]: true
+
+	kerb_weight[]: 4645	# 10220lb
+	kerb_weight[]: 1406	# 3100lb
+	kerb_weight[]: 1805	# 3970lb
+
+	defaults[]: "/def/vehicle/truck/westernstar.49x/cabin/s48_sb.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/bumper/stock_sb.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/f_mudflap/stock.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/mudflaps/stock.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/sideskirt/mid_125_alu_sb.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/trlr_cables/stock.sii"
+//	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/radiator/big.sii"
+
+	conflict_with[]: "day.westernstar.49x.cabin"
+	conflict_with[]: "daysb.westernstar.49x.cabin"
+	conflict_with[]: "s72.westernstar.49x.cabin"
+	conflict_with[]: "s72sb.westernstar.49x.cabin"
+	conflict_with[]: "s48.westernstar.49x.cabin"
+
+@include "sound.sui"
+}
+}

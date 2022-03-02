@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : pl_cover_day.westernstar.49x.rear_cab
+{
+	name: "Covered Vent"
+	price: 330
+	unlock: 4
+	icon: "truck/westernstar_49x/accessory/rear_cab/cover_plstc"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/rear_cab/cover_plstc.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_paint_job_data : paint01.peterbilt.389.paint_job
+{
+	name: "Divided"
+	price: 19000
+	unlock: 9
+	icon: "peterbilt_389/paint_div"
+	mask_r_color: (0.1529, 0, 0)
+	mask_r_locked: false
+	mask_g_color: (0.0074, 0.0074, 0.0074)
+	mask_g_locked: false
+	mask_b_color: (0.1195, 0.1274, 0.1384)
+	mask_b_locked: false
+	base_color: (0.0231, 0.0331, 0.0451)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/paintjob_01.tobj"
+	stock: false
+}
+}

@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : lng_120al.intnational.lonestar.sideskirt
+{
+	name: "Side Steps 120gal Aluminium Tank"
+	price: 4300
+	unlock: 20
+	icon: "international_lonestar/sskirt_tank_al"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/sideskirt/sskirt_t120_al_l.pmd"
+
+	suitable_for[]: "6x2l_120.intnational.lonestar.chassis"
+	suitable_for[]: "6x4l_120.intnational.lonestar.chassis"
+	suitable_for[]: "8x4l_120.intnational.lonestar.chassis"
+}
+}

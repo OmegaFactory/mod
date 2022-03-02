@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_wheel_data : steel.rwheel
+{
+	name: "Simple Rear Wheels"
+	price: 3430
+	unlock: 0
+	icon: "wr_steel"
+	model: "/vehicle/wheel/steel/rear.pmd"
+}
+}

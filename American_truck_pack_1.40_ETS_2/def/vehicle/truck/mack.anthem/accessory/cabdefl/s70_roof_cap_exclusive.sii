@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s70_rcap_ext.mack.anthem.cabdefl
+{
+	name: "Exclusive Roof Cap"
+	price: 2540
+	unlock: 16
+	icon: "mack_anthem/cbdfl_s70_aeroextndr"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/cabdefl/cabdefl_1_1_2.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/cabdefl/cabdefl_1_1_2.pmc"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

@@ -1,0 +1,16 @@
+	name: "Wings of Awesomness (official paint)"
+	price: 33000
+	unlock: 23
+	airbrush: true
+	base_color: (0.158968, 0.158968, 0.158968)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.791268, 0.791268, 0.791268)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.021218, 0.021218, 0.021218)
+	flip_strength: 0.930000
+	flipflake: true
+	icon: "westernstar_49x/ws_woa"
+	mask_g_locked: false
+	mask_r_locked: false

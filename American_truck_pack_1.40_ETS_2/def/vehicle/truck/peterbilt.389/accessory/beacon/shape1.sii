@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape1.peterbilt.389.beacon
+{
+	name: "Double Radiant"
+	price: 500
+	unlock: 0
+	icon: "beacon/beacon"
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon.pmd"
+	conflict_with[]: "shape02c.peterbilt.389.cabdefl"
+	conflict_with[]: "shape01c.peterbilt.389.cabdefl"
+}
+}

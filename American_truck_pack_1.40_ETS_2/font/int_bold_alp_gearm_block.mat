@@ -1,0 +1,4 @@
+material : "ui.white_font" {
+	texture : "/font/int_bold_alp_gearm_block.tobj"
+	texture_name : "texture"
+}

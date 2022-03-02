@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : chrome.westernstar.49x.s_mirror
+{
+	name: "@@chrom@@"
+	price: 315
+	unlock: 9
+	icon: "truck/westernstar_49x/accessory/s_mirror/chrmc"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/s_mirror/chrmc.pmd"
+	interior_model: "/vehicle/truck/westernstar_49x/accessory/s_mirror/chrmc_int.pmd"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 03.double.rdisc
+{
+	name: "Progress"
+	price: 1255
+	unlock: 9
+	model: "/vehicle/truck/upgrade/wheel/disc/rear_disc_03.pmd"
+	icon: "disc/rear_disc_03"
+
+	defaults[]: "/def/vehicle/r_tire/1.sii"
+}
+}

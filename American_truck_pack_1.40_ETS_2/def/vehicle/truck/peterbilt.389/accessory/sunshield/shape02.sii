@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape02.peterbilt.389.sunshield
+{
+	name: "Chrome Sun Visor Spike"
+	price: 1230
+	unlock: 16
+	icon: "peterbilt_389/sunshield02"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_389/sunshield02.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_389/sunshield02_int.pmd"
+}
+}

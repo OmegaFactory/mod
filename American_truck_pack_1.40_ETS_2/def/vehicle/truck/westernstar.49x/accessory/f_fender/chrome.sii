@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : chrome.westernstar.49x.f_fender
+{
+	name: "@@chrom@@"
+	price: 1250
+	unlock: 7
+	icon: "truck/westernstar_49x/accessory/f_fender/chrmc"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/f_fender/chrmc.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s72.westernstar.49x.cabin"
+}
+}

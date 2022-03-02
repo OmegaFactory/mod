@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : color7.westernstar.49x.paint_job
+{
+	name: "Yellow"
+	price: 2900
+	unlock: 0
+
+	base_color: (0.485150, 0.371238, 0.095307)
+	base_color_locked: true
+	stock: true
+}
+}

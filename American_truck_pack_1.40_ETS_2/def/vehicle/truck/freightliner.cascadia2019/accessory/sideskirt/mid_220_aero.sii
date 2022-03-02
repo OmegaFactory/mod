@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : mid220_pl_a.freightliner.cascadia2019.sideskirt
+{
+	name: "@@aero@@"
+	price: 4540
+	unlock: 18
+	icon: "truck/freightliner_cascadia2019/accessory/sideskirt/sl48_big_s_aero_pl"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideskirt/sl48_big_s_aero_pl.pmd"
+
+	overrides[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideflares/mid_aero.sii"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/doorstep/plastic.sii"
+
+	suitable_for[]: "6x2m_220.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4m_220.freightliner.cascadia2019.chassis"
+}
+}

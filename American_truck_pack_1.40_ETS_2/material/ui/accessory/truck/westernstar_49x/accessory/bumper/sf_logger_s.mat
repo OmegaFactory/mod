@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sf_logger_s.tobj"
+	texture_name : "texture"
+}

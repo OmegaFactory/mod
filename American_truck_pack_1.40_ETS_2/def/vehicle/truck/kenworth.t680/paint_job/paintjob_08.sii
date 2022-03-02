@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : paint08.kenworth.t680.paint_job
+{
+	name: "Hot Ride Paintable"
+	price: 21000
+	unlock: 11
+	icon: "kenworth_t680/paint_hotr"
+	mask_r_color: (0.8387, 0, 0)
+	mask_r_locked: false
+	mask_g_color: (0.2122, 0, 0)
+	mask_g_locked: false
+	mask_b_color: (0, 0, 0)
+	mask_b_locked: false
+	base_color: (0.7083, 0.3813, 0)
+	base_color_locked: false
+	alternate_uvset: false
+
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_08.tobj"
+	stock: false
+}
+}

@@ -1,0 +1,25 @@
+SiiNunit
+{
+accessory_paint_job_data : paint06_bc.volvo.vnl.paint_job
+{
+	name: "Stripe"
+	price: 21000
+	unlock: 11
+	icon: "volvo_vnl/paintjob06"
+
+	airbrush: false
+	mask_r_color: (0.0003, 0.0295, 0.1247)
+	mask_r_locked: false
+	mask_g_color: (0.1169, 0.1169, 0.1169)
+	mask_g_locked: false
+	mask_b_color: (0.3915, 0.3712, 0.3712)
+	mask_b_locked: false
+	base_color: (0.1119, 0, 0)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_06_bc.tobj"
+	stock: false
+
+	suitable_for[]: "standard.volvo.vnl.cabin"
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+}
+}

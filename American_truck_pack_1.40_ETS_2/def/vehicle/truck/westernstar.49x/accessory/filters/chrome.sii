@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : chrome.westernstar.49x.filters
+{
+	name: "@@chrom@@"
+	price: 300
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/filters/stock"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/filters/stock.pmd"
+}
+}

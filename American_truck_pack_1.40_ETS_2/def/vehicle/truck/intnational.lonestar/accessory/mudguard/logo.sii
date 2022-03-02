@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : logo.intnational.lonestar.mudguard
+{
+	name: "International"
+	price: 400
+	unlock: 9
+	icon: "international_lonestar/mudguard_b"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/mudguard/mudguard_b.pmd"
+}
+}

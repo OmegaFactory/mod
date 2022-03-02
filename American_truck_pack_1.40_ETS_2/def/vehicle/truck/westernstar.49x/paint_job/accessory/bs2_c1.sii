@@ -1,0 +1,34 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/bs2/pjm_at_2048x7936_size_1024x256.tobj"
+	acc_list[]: "bumper.paint"
+}
+
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/bs2/pjm_at_2048x7680_size_1024x256.tobj"
+	acc_list[]: "bumper.pnt_log"
+}
+
+simple_paint_job_data : .ovr2
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/bs2/pjm_at_2048x7424_size_1024x256.tobj"
+	acc_list[]: "bumper.pnt2_log_sb"
+	acc_list[]: "bumper.pnt_log_sb"
+}
+
+simple_paint_job_data : .ovr3
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/bs2/pjm_at_2048x7168_size_1024x256.tobj"
+	acc_list[]: "bumper.paint2_sb"
+	acc_list[]: "bumper.paint_sb"
+}
+
+simple_paint_job_data : .ovr4
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/bs2/shared_ff0000ff.tobj"
+	acc_list[]: "f_grill.paint"
+}
+}

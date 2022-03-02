@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "xmas_tree.tobj"
+	texture_name : "texture"
+}

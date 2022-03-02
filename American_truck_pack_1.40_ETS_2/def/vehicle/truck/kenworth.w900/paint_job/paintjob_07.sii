@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : paint_07.kenworth.w900.paint_job
+{
+	name: "Stripe"
+	price: 21000
+	unlock: 11
+	icon: "kenworth_w900/paint_07"
+	airbrush: false
+	alternate_uvset: true
+	mask_r_color: (0.2581, 0.2581, 0.2581)
+	mask_r_locked: false
+	mask_g_color: (0.1441, 0.0003, 0.0003)
+	mask_g_locked: false
+	mask_b_color: (0.7605, 0.7605, 0.7605)
+	mask_b_locked: false
+	base_color: (0, 0, 0)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_w900/paintjob_07.tobj"
+	stock: false
+}
+}

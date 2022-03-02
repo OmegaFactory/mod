@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : lng240_pt.freightliner.cascadia2019.sideskirt
+{
+	name: "@@paint@@"
+	price: 5330
+	unlock: 27
+	icon: "truck/freightliner_cascadia2019/accessory/sideskirt/sl72_big_s"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideskirt/sl72_big_s.pmd"
+
+	overrides[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideflares/long_standard.sii"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/doorstep/plastic.sii"
+
+	suitable_for[]: "6x2l_240.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4l_240.freightliner.cascadia2019.chassis"
+}
+}

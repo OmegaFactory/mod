@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "paint_hot.tobj"
+	texture_name : "texture"
+}

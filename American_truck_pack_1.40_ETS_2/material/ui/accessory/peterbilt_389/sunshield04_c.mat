@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sunshield04_c.tobj"
+	texture_name : "texture"
+}

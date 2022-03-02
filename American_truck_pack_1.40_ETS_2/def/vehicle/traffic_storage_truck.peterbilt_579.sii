@@ -1,0 +1,7 @@
+SiiNunit
+{
+
+@include "ai/peterbilt_579_a_traffic.sui"
+@include "ai/peterbilt_579_b_traffic.sui"
+@include "ai/peterbilt_579_c_traffic.sui"
+}

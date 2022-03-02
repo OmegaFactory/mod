@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_paint_job_data : paint07_bc.volvo.vnl.paint_job
+{
+	name: "Divided"
+	price: 19000
+	unlock: 9
+	icon: "volvo_vnl/paintjob07"
+	airbrush: false
+	mask_r_color: (0.0091, 0.0097, 0.0137)
+	mask_r_locked: false
+	mask_g_color: (0.0036, 0.004, 0.0051)
+	mask_g_locked: false
+	mask_b_color: (0.0273, 0.0466, 0.1144)
+	mask_b_locked: false
+	base_color: (0.0703, 0.2663, 0.4125)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_07_bc.tobj"
+	stock: false
+	suitable_for[]: "standard.volvo.vnl.cabin"
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+}
+}

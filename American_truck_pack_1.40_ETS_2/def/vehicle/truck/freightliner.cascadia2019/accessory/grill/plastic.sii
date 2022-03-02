@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_addon_data : plastic.freightliner.cascadia2019.grill
+{
+	name: "@@standard@@"
+	price: 2500
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/grill/plastic"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/grill/plastic.pmd"
+
+	suitable_for[]: "std_pl.freightliner.cascadia2019.bumper"
+	suitable_for[]: "std_pt.freightliner.cascadia2019.bumper"
+	suitable_for[]: "aero_pl.freightliner.cascadia2019.bumper"
+	suitable_for[]: "aero_pt.freightliner.cascadia2019.bumper"
+	suitable_for[]: "fog_std_pl.freightliner.cascadia2019.bumper"
+	suitable_for[]: "fog_std_pt.freightliner.cascadia2019.bumper"
+	suitable_for[]: "fog_aero_pl.freightliner.cascadia2019.bumper"
+	suitable_for[]: "fog_aero_pt.freightliner.cascadia2019.bumper"
+}
+}

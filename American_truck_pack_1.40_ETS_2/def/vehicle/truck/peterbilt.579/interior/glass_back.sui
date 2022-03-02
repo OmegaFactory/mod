@@ -1,0 +1,8 @@
+glass_pane_data : .peterbilt579.r.pane.back
+{
+	locator: back_glass
+	size: (1.8, 0.6)
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

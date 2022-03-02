@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : basic.westernstar.49x.f_light_chs
+{
+	name: "@@basic@@"
+	price: 350
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/f_light_chs/basic"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/f_light_chs/basic.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s72.westernstar.49x.cabin"
+}
+}

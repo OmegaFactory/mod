@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_addon_data : white_ch_sb.westernstar.49x.b_mudflap
+{
+	name: "White Exclusive"
+	price: 200
+	unlock: 9
+	icon: "truck/westernstar_49x/accessory/b_mudflap/chrmc_sb_white"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/b_mudflap/chrmc_sb.pmd"
+	look: white
+
+	suitable_for[]: "for_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "for2_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "pnt_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "pnt2_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "stck_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "stck2_log_sb.westernstar.49x.bumper"
+}
+}

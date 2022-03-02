@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : paint.westernstar.49x.mudguard
+{
+	name: "Painted"
+	price: 250
+	unlock: 4
+	icon: "truck/westernstar_49x/accessory/mudguard/pnt"
+
+	look: default
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/mudguard/pnt.pmd"
+}
+}

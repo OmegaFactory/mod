@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color7.mack.anthem.paint_job
+{
+	name: "Lacquer Red"
+	price: 2900
+	unlock: 0
+	icon: "mack_anthem/metalic_7"
+
+	flipflake: true
+	flip_color: (0.0975, 0, 0.0006)
+	flip_strength: 0.93
+	flake_color: (1, 0.5209, 0.5703)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.7012, 0, 0.002)
+	stock: false
+}
+}

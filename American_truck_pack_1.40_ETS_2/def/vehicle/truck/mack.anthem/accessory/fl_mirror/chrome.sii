@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : chrome.mack.anthem.fl_mirror
+{
+	name: "@@chrom@@"
+	price: 390
+	unlock: 8
+	icon: "mack_anthem/f_mrror_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/fl_mirror/fl_mirror_0_1_1.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/fl_mirror/fl_mirror_0_1_1_int.pmd"
+}
+}

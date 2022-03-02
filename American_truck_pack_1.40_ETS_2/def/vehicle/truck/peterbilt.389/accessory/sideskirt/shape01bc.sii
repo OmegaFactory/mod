@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape01bc.peterbilt.389.sideskirt
+{
+	name: "Basic Sideskirts"
+	price: 2410
+	unlock: 0
+	icon: "peterbilt_389/sideskirt01_bc"
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/peterbilt_389/sideskirt01_bc.pmd"
+
+	suitable_for[]: "standard.peterbilt.389.cabin"
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+}
+}

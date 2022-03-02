@@ -1,0 +1,5 @@
+	name: "Blue"
+	price: 2800
+	unlock: 0
+	base_color: (0.009134, 0.278894, 0.603828)
+	stock: true

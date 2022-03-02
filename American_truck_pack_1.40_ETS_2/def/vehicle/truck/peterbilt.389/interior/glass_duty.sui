@@ -1,0 +1,8 @@
+glass_pane_data : .peterbilt389.r.pane.back_duty
+{
+	locator: back_duty
+	size: (1.0, 0.5)
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

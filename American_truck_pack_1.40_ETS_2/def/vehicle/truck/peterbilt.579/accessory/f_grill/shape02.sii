@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.peterbilt.579.f_grill
+{
+	name: "Bull Bar Fencing"
+	price: 4620
+	unlock: 11
+	icon: "peterbilt_579/frontgrill_02"
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/peterbilt_579/frontgrill02.pmd"
+}
+}

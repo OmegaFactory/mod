@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_paint_job_data : paint11_a.volvo.vnl.paint_job
+{
+	name: "Horses"
+	price: 31000
+	unlock: 21
+	icon: "volvo_vnl/paintjob11"
+
+	airbrush: true
+
+	base_color: (0.0033, 0.0033, 0.0033)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_11_a.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "duty.volvo.vnl.cabin"
+}
+}

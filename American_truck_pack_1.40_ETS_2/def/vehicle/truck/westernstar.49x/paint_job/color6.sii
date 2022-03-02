@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : color6.westernstar.49x.paint_job
+{
+	name: "Green"
+	price: 2900
+	unlock: 0
+
+	base_color: (0.019382, 0.034340, 0.020289)
+	base_color_locked: true
+	stock: true
+}
+}

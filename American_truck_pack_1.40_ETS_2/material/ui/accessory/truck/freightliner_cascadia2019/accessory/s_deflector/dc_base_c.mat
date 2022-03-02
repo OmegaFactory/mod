@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dc_base_c.tobj"
+	texture_name : "texture"
+}

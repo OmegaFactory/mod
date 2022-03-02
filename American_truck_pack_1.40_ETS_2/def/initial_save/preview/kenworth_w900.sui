@@ -1,0 +1,260 @@
+vehicle: start.truck
+{
+ fuel_relative: &3f000000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+ accessories[]: kenworth.w900_p.data
+ accessories[]: kenworth.w900_p.chassis
+ accessories[]: kenworth.w900_p.cabin
+ accessories[]: kenworth.w900_p.interior
+ accessories[]: kenworth.w900_p.engine
+ accessories[]: kenworth.w900_p.transm
+ accessories[]: kenworth.w900_p.headl
+ accessories[]: kenworth.w900_p.ftire
+ accessories[]: kenworth.w900_p.fdisc
+ accessories[]: kenworth.w900_p.fhub
+ accessories[]: kenworth.w900_p.fnuts
+ accessories[]: kenworth.w900_p.fcover
+ accessories[]: kenworth.w900_p.rtire1
+ accessories[]: kenworth.w900_p.rdisc1
+ accessories[]: kenworth.w900_p.rhub1
+ accessories[]: kenworth.w900_p.rnuts1
+ accessories[]: kenworth.w900_p.rcover1
+ accessories[]: kenworth.w900_p.rtire2
+ accessories[]: kenworth.w900_p.rdisc2
+ accessories[]: kenworth.w900_p.rhub2
+ accessories[]: kenworth.w900_p.rnuts2
+ accessories[]: kenworth.w900_p.rcover2
+ accessories[]: kenworth.w900_p.paint
+ accessories[]: kenworth.w900_p.bumper
+ accessories[]: kenworth.w900_p.exhaust 
+ accessories[]: kenworth.w900_p.sunshld
+ accessories[]: kenworth.w900_p.mirror
+// accessories[]: kenworth.w900_p.toll
+ accessories[]: kenworth.w900_p.filters
+ accessories[]: kenworth.w900_p.mudflaps
+ accessories[]: kenworth.w900_p.sflare
+ accessories[]: kenworth.w900_p.lights
+ accessories[]: kenworth.w900_p.horns
+ accessories[]: kenworth.w900_p.swheel
+ accessories[]: kenworth.w900_p.trlr_cables
+
+ odometer: 0
+ odometer_float_part: &3c2ea71b
+}
+
+vehicle_accessory : kenworth.w900_p.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/data.sii"
+}
+
+vehicle_accessory : kenworth.w900_p.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/chassis/long1.sii"
+}
+
+vehicle_accessory : kenworth.w900_p.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/cabin/exclusive.sii"
+}
+
+vehicle_accessory : kenworth.w900_p.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/interior/exclusive.sii"
+}
+
+vehicle_accessory : kenworth.w900_p.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/engine/isx15.sii"
+}
+
+vehicle_accessory : kenworth.w900_p.transm {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/transmission/18_speed.sii"
+}
+
+vehicle_accessory : kenworth.w900_p.headl {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.ftire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.fcover {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rtire1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rdisc1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rhub1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rnuts1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rcover1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rtire2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rdisc2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rhub2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rnuts2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : kenworth.w900_p.rcover2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+
+vehicle_paint_job_accessory : kenworth.w900_p.paint {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/paint_job/color2.sii"
+}
+
+
+vehicle_addon_accessory : kenworth.w900_p.bumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/bumper/shape01.sii"
+}
+
+
+vehicle_addon_accessory : kenworth.w900_p.exhaust {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/exhaust/shape01.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.sunshld {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/sunshield/shape01.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/mirror/shape1.sii"
+}
+
+// vehicle_addon_accessory : kenworth.w900_p.toll {
+// wear: 0
+// data_path: "/def/vehicle/share/tollbox/shape01.sii"
+// }
+
+vehicle_addon_accessory : kenworth.w900_p.filters {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/filters/shape01.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.mudflaps {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/mudflaps/shape01.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.sflare {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/sideflares/shape01.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.lights {
+ slot_name: 5
+ slot_name[0]: slot_0
+ slot_name[1]: slot_3
+ slot_name[2]: slot_4
+ slot_name[3]: slot_5
+ slot_name[4]: slot_8
+ slot_hookup: 5
+ slot_hookup[0]: "light1.addon_hookup"
+ slot_hookup[1]: "light1.addon_hookup"
+ slot_hookup[2]: "light1.addon_hookup"
+ slot_hookup[3]: "light1.addon_hookup"
+ slot_hookup[4]: "light1.addon_hookup"
+
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/cabflares/shape01.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.horns {
+ slot_name: 2
+ slot_name[0]: slot_0
+ slot_name[1]: slot_1
+ slot_hookup: 2
+ slot_hookup[0]: "horn1.addon_hookup"
+ slot_hookup[1]: "horn1.addon_hookup"
+
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/horns/shape01.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.swheel {
+ wear: 0
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/steering_w/default.sii"
+}
+
+vehicle_addon_accessory : kenworth.w900_p.trlr_cables {
+ data_path: "/def/vehicle/truck/kenworth.w900/accessory/trlr_cables/stock.sii"
+}

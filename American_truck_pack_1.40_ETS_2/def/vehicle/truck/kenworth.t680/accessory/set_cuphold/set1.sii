@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : set1.kenworth.t680.set_cuphold
+{
+	name: "@@cup_holder@@"
+	price: 1
+	unlock: 0
+	icon: "dashbrd_2.dlc_toys"
+
+	interior_model: "/vehicle/truck/upgrade/interior_set/kenworth_t680/cup_holder.pmd"
+}
+}

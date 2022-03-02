@@ -1,0 +1,83 @@
+# SCS Font
+# Max width: 66
+# Max advance: 65
+# Typical height 'above the line': 48 (height of letter 'M')
+# Max pixels 'above the line': 50
+# Max pixels 'below the line': 18
+
+vert_span:68  # max difference between lowest and highest pixel in any two glyphs
+line_spacing:2  # suggested number of pixels to put between lines
+
+default_scale:1.000000  # default font scale in reference resolution
+
+image:/font/int_bold_alp_0.mat, 256, 512
+
+# P_x: starting column of glyph rectangle in the font bitmap
+# P_y: starting row of glyph rectangle in the font bitmap
+# W: width of the glyph rectangle
+# H: height of the glyph rectangle
+# L: left offset of the rectangle when placing it relative to current 'pen position'
+#    (negative value can be thought of as 'hard' kerning, but is used at the beginning of line too!)
+# T: top offset of the rectangle when placing it relative to current 'pen position'
+#    (the 'pen' is expected to be at the level of topmost pixel of highest glyph)
+# A: advance of the 'pen' for rendering of the following glyph
+# I: image index
+
+#NUM,    P_x, P_y,  W,  H,  L,  T,  A,  I     # character / glyph name
+
+x0020,  252,    1,  2,  2,  0, 50, 17,  0     # ' ' / 'SPACE'
+x0041,    1,  117, 49, 49, -1,  3, 46,  0     # 'A' / 'LATIN CAPITAL LETTER A'
+x0042,   37,  167, 35, 48,  5,  4, 42,  0     # 'B' / 'LATIN CAPITAL LETTER B'
+x0043,  194,    1, 44, 50,  3,  3, 46,  0     # 'C' / 'LATIN CAPITAL LETTER C'
+x0044,   73,  167, 43, 48,  5,  4, 50,  0     # 'D' / 'LATIN CAPITAL LETTER D'
+x0045,  117,  167, 33, 48,  5,  4, 40,  0     # 'E' / 'LATIN CAPITAL LETTER E'
+x0046,   51,  117, 32, 49,  5,  4, 38,  0     # 'F' / 'LATIN CAPITAL LETTER F'
+x0047,    1,   66, 44, 50,  3,  3, 51,  0     # 'G' / 'LATIN CAPITAL LETTER G'
+x0048,  151,  167, 39, 48,  5,  4, 48,  0     # 'H' / 'LATIN CAPITAL LETTER H'
+x0049,  241,   66, 10, 48,  5,  4, 19,  0     # 'I' / 'LATIN CAPITAL LETTER I'
+x004a,   84,  117, 29, 49,  0,  4, 32,  0     # 'J' / 'LATIN CAPITAL LETTER J'
+x004b,  191,  167, 42, 48,  5,  4, 45,  0     # 'K' / 'LATIN CAPITAL LETTER K'
+x004c,    1,  217, 30, 48,  5,  4, 34,  0     # 'L' / 'LATIN CAPITAL LETTER L'
+x004d,   32,  217, 51, 48,  5,  4, 60,  0     # 'M' / 'LATIN CAPITAL LETTER M'
+x004e,   84,  217, 42, 48,  5,  4, 51,  0     # 'N' / 'LATIN CAPITAL LETTER N'
+x004f,   46,   66, 51, 50,  3,  3, 56,  0     # 'O' / 'LATIN CAPITAL LETTER O'
+x0050,  127,  217, 34, 48,  5,  4, 40,  0     # 'P' / 'LATIN CAPITAL LETTER P'
+x0051,  114,  117, 54, 49,  2,  3, 55,  0     # 'Q' / 'LATIN CAPITAL LETTER Q'
+x0052,  169,  117, 36, 49,  5,  4, 41,  0     # 'R' / 'LATIN CAPITAL LETTER R'
+x0053,   98,   66, 34, 50,  2,  3, 38,  0     # 'S' / 'LATIN CAPITAL LETTER S'
+x0054,  162,  217, 38, 48,  1,  4, 39,  0     # 'T' / 'LATIN CAPITAL LETTER T'
+x0055,  206,  117, 38, 49,  5,  4, 47,  0     # 'U' / 'LATIN CAPITAL LETTER U'
+x0056,  201,  217, 46, 48, -1,  4, 43,  0     # 'V' / 'LATIN CAPITAL LETTER V'
+x0057,    1,  266, 66, 48,  0,  4, 65,  0     # 'W' / 'LATIN CAPITAL LETTER W'
+x0058,   68,  266, 44, 48,  0,  4, 43,  0     # 'X' / 'LATIN CAPITAL LETTER X'
+x0059,  113,  266, 45, 48, -2,  4, 41,  0     # 'Y' / 'LATIN CAPITAL LETTER Y'
+x005a,  159,  266, 37, 48,  2,  4, 40,  0     # 'Z' / 'LATIN CAPITAL LETTER Z'
+x0061,  221,  266, 31, 35,  2, 18, 36,  0     # 'a' / 'LATIN SMALL LETTER A'
+x0062,   20,    1, 35, 52,  5,  1, 42,  0     # 'b' / 'LATIN SMALL LETTER B'
+x0063,    1,  315, 30, 35,  3, 18, 32,  0     # 'c' / 'LATIN SMALL LETTER C'
+x0064,   56,    1, 35, 52,  3,  1, 42,  0     # 'd' / 'LATIN SMALL LETTER D'
+x0065,   32,  315, 34, 35,  2, 18, 38,  0     # 'e' / 'LATIN SMALL LETTER E'
+x0066,   92,    1, 25, 52,  0,  0, 23,  0     # 'f' / 'LATIN SMALL LETTER F'
+x0067,  133,   66, 35, 50,  3, 18, 42,  0     # 'g' / 'LATIN SMALL LETTER G'
+x0068,  118,    1, 30, 51,  5,  1, 38,  0     # 'h' / 'LATIN SMALL LETTER H'
+x0069,  239,    1, 12, 48,  4,  4, 19,  0     # 'i' / 'LATIN SMALL LETTER I'
+x006a,    1,    1, 18, 64, -2,  4, 19,  0     # 'j' / 'LATIN SMALL LETTER J'
+x006b,  149,    1, 33, 51,  5,  1, 36,  0     # 'k' / 'LATIN SMALL LETTER K'
+x006c,  183,    1, 10, 51,  5,  1, 19,  0     # 'l' / 'LATIN SMALL LETTER L'
+x006d,  132,  315, 50, 34,  5, 18, 58,  0     # 'm' / 'LATIN SMALL LETTER M'
+x006e,  183,  315, 30, 34,  5, 18, 38,  0     # 'n' / 'LATIN SMALL LETTER N'
+x006f,   67,  315, 35, 35,  3, 18, 40,  0     # 'o' / 'LATIN SMALL LETTER O'
+x0070,  169,   66, 35, 50,  5, 18, 42,  0     # 'p' / 'LATIN SMALL LETTER P'
+x0071,  205,   66, 35, 50,  3, 18, 42,  0     # 'q' / 'LATIN SMALL LETTER Q'
+x0072,  234,  167, 20, 34,  5, 18, 25,  0     # 'r' / 'LATIN SMALL LETTER R'
+x0073,  103,  315, 28, 35,  1, 18, 30,  0     # 's' / 'LATIN SMALL LETTER S'
+x0074,  197,  266, 23, 43,  1, 10, 24,  0     # 't' / 'LATIN SMALL LETTER T'
+x0075,  214,  315, 30, 34,  4, 19, 38,  0     # 'u' / 'LATIN SMALL LETTER U'
+x0076,    1,  351, 35, 33,  0, 19, 34,  0     # 'v' / 'LATIN SMALL LETTER V'
+x0077,   37,  351, 54, 33,  0, 19, 52,  0     # 'w' / 'LATIN SMALL LETTER W'
+x0078,   92,  351, 38, 33, -1, 19, 35,  0     # 'x' / 'LATIN SMALL LETTER X'
+x0079,    1,  167, 35, 49,  0, 19, 34,  0     # 'y' / 'LATIN SMALL LETTER Y'
+x007a,  131,  351, 29, 33,  2, 19, 32,  0     # 'z' / 'LATIN SMALL LETTER Z'
+
+# kerning...
+

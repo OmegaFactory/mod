@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s70_plastic.mack.anthem.windowtrim
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "mack_anthem/wndwtrm_blck"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/windowtrim/windowtrim_1_1_2.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

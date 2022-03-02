@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_chassis_data : dcb.mack.anthem.ai
+{
+
+	model: "/vehicle/truck/mack_anthem/ai/ai_dcb.pmd"
+	lods[]: "/vehicle/truck/mack_anthem/ai/ai_dcb_lod1.pmd"
+	lods[]: "/vehicle/truck/mack_anthem/ai/ai_dcb_lod2.pmd"
+
+	collision: "/vehicle/truck/mack_anthem/ai/ai_dcb.pmc"
+	variant: Default
+	look: Default
+
+	extended_shadow_texture: "/vehicle/truck/mack_anthem/ui_shdw_dcb.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+
+}
+}

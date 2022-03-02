@@ -1,0 +1,228 @@
+SiiNunit
+{
+vehicle: .tdealer.peterbilt_0.389
+{
+ fuel_relative: 1.0
+ accessories[]: .389_f.data
+ accessories[]: .389_f.chassis
+ accessories[]: .389_f.cabin
+ accessories[]: .389_f.interior
+ accessories[]: .389_f.engine
+ accessories[]: .389_f.transm
+ accessories[]: .389_f.headl
+ accessories[]: .389_f.ftire
+ accessories[]: .389_f.fdisc
+ accessories[]: .389_f.fhub
+ accessories[]: .389_f.fnuts
+ accessories[]: .389_f.rtire1
+ accessories[]: .389_f.rdisc1
+ accessories[]: .389_f.rhub1
+ accessories[]: .389_f.rnuts1
+ accessories[]: .389_f.rtire2
+ accessories[]: .389_f.rdisc2
+ accessories[]: .389_f.rhub2
+ accessories[]: .389_f.rnuts2
+ accessories[]: .389_f.paint
+ accessories[]: .389_f.mirror
+ accessories[]: .389_f.bumper
+ accessories[]: .389_f.sideskirt
+ accessories[]: .389_f.exhaust
+ accessories[]: .389_f.mudflaps
+ accessories[]: .389_f.mudguards
+ accessories[]: .389_f.doorhndl
+ accessories[]: .389_f.filters
+ accessories[]: .389_f.grill
+ accessories[]: .389_f.lights
+ accessories[]: .389_f.swheel
+ accessories[]: .389_f.hood
+}
+
+vehicle_accessory : .389_f.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/data.sii"
+}
+
+vehicle_accessory : .389_f.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/chassis/short_6x2.sii"
+}
+
+vehicle_accessory : .389_f.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/cabin/duty.sii"
+}
+
+vehicle_accessory : .389_f.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/interior/duty_std.sii"
+}
+
+vehicle_accessory : .389_f.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/engine/isx12.sii"
+}
+
+vehicle_accessory : .389_f.transm {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/transmission/10_speed.sii"
+}
+
+vehicle_accessory : .389_f.headl {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : .389_f.ftire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .389_f.fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/front_disc_steel.sii"
+}
+
+vehicle_wheel_accessory : .389_f.fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .389_f.fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+}
+
+vehicle_wheel_accessory : .389_f.rtire1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .389_f.rdisc1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+}
+
+vehicle_wheel_accessory : .389_f.rhub1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .389_f.rnuts1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+
+
+vehicle_wheel_accessory : .389_f.rtire2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .389_f.rdisc2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_steel.sii"
+}
+
+vehicle_wheel_accessory : .389_f.rhub2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .389_f.rnuts2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+
+vehicle_paint_job_accessory : .389_f.paint {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/paint_job/color1.sii"
+
+}
+
+vehicle_addon_accessory : .389_f.mirror {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/mirror/shape02.sii"
+}
+
+vehicle_addon_accessory : .389_f.bumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/bumper/shape01.sii"
+}
+
+vehicle_addon_accessory : .389_f.sideskirt {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/sideskirt/shape01a.sii"
+}
+
+vehicle_addon_accessory : .389_f.exhaust {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/exhaust/shape01.sii"
+}
+
+vehicle_addon_accessory : .389_f.mudflaps {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/mudflaps/shape01.sii"
+}
+
+vehicle_addon_accessory : .389_f.mudguards {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/mudguard/shape03.sii"
+}
+
+vehicle_addon_accessory : .389_f.doorhndl {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/doorhndl/shape01a.sii"
+}
+
+vehicle_addon_accessory : .389_f.filters {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/filters/shape05.sii"
+}
+
+vehicle_addon_accessory : .389_f.grill {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/grill/shape01.sii"
+}
+
+vehicle_addon_accessory : .389_f.lights {
+ slot_name: 5
+ slot_name[0]: slot_0
+ slot_name[1]: slot_2
+ slot_name[2]: slot_3
+ slot_name[3]: slot_4
+ slot_name[4]: slot_6
+ slot_hookup: 5
+ slot_hookup[0]: "light2.addon_hookup"
+ slot_hookup[1]: "light2.addon_hookup"
+ slot_hookup[2]: "light2.addon_hookup"
+ slot_hookup[3]: "light2.addon_hookup"
+ slot_hookup[4]: "light2.addon_hookup"
+
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/cabflares/shape01.sii"
+}
+
+vehicle_addon_accessory : .389_f.swheel {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/steering_w/default.sii"
+}
+
+vehicle_addon_accessory : .389_f.hood {
+ wear: 0
+ data_path: "/def/vehicle/truck/peterbilt.389/accessory/hood/shape01.sii"
+}
+
+
+}

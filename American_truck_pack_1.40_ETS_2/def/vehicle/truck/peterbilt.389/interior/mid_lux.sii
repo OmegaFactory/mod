@@ -1,0 +1,43 @@
+SiiNunit
+{
+accessory_interior_data	: mid_lux.peterbilt.389.interior
+{
+	name: "Premium Ultra Ride"
+	price: 22960
+	unlock: 10
+	icon: "peterbilt_389/int_beige"
+	model: "/vehicle/truck/peterbilt_389/interior/model.pmd"
+	animated_model: "/vehicle/truck/peterbilt_389/interior/anim.pmd"
+	collision: "/vehicle/truck/peterbilt_389/interior/model.pmc"
+	look: default
+	variant: cab_bl
+	suitable_for[]: "standard.peterbilt.389.cabin"
+
+
+	ext_model: "/vehicle/truck/upgrade/ext_interior/peterbilt_389/stock.pmd"
+	ext_variant: cab_b
+	ext_look: luxury
+
+	defaults[]: "/def/vehicle/truck/peterbilt.389/accessory/steering_w/default.sii"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+
+	glass_panes[]: .peterbilt389.r.pane.frontr
+	glass_panes[]: .peterbilt389.r.pane.frontl
+	glass_panes[]: .peterbilt389.r.pane.close
+	glass_panes[]: .peterbilt389.r.pane.far
+	glass_panes[]: .peterbilt389.r.pane.back_mid
+	glass_panes[]: .peterbilt389.r.pane.door
+
+@include "seat.sui"
+
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_mid.sui"
+}

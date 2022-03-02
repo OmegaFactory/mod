@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : drl.freightliner.cascadia2019.f_light_chs
+{
+	name: "@@drl@@"
+	price: 600
+	unlock: 5
+	icon: "truck/freightliner_cascadia2019/accessory/f_light_chs/daylight"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/f_light_chs/daylight.pmd"
+}
+}

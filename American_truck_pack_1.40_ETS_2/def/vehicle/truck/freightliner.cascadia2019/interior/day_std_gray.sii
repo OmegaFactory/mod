@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_interior_data	: day_std_g.freightliner.cascadia2019.interior
+{
+	name: "Standard Grey"
+	price: 15180
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/std_gray"
+	model: "/vehicle/truck/freightliner_cascadia2019/interior/model/day.pmd"
+	animated_model: "/vehicle/truck/freightliner_cascadia2019/interior/animation/animation.pmd"
+	collision: "/vehicle/truck/freightliner_cascadia2019/interior/model/day.pmc"
+	look: Default
+	variant: std_gray
+
+	ext_model: "/vehicle/truck/freightliner_cascadia2019/interior/external/day.pmd"
+	ext_look: std_gray
+	ext_variant: default
+
+	suitable_for[]: "day.freightliner.cascadia2019.cabin"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/steering_w/standard.sii"
+
+@include "animations.sui"
+
+@include "computers.sui"
+
+	glass_panes[]: .freightliner.cascadia2019.r.pane.front
+	glass_panes[]: .freightliner.cascadia2019.r.pane.close
+	glass_panes[]: .freightliner.cascadia2019.r.pane.far
+	glass_panes[]: .freightliner.cascadia2019.r.pane.back_day
+
+@include "seat.sui"
+@include "sound.sui"
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_day.sui"
+}

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : day_aero.freightliner.cascadia2019.cabdefl
+{
+	name: "@@aero@@"
+	price: 1150
+	unlock: 6
+	icon: "truck/freightliner_cascadia2019/accessory/cabdefl/dc_aero"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/cabdefl/dc_aero.pmd"
+	coll: "/vehicle/truck/freightliner_cascadia2019/accessory/cabdefl/dc_aero.pmc"
+
+	suitable_for[]: "day.freightliner.cascadia2019.cabin"
+}
+}

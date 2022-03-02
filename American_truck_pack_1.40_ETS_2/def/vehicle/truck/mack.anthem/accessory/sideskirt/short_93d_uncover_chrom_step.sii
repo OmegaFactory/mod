@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : shr93d_ucs.mack.anthem.sideskirt
+{
+	name: "@@chrom_tank@@, @@d_shape@@, @@steps@@"
+	price: 3770
+	unlock: 9
+	icon: "mack_anthem/sdskrt_uncvrd_dtnk_stp"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_3_8_1.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_3_8_1.pmc"
+
+	suitable_for[]: "6x4s_93.mack.anthem.chassis"
+	suitable_for[]: "6x2s_93.mack.anthem.chassis"
+	suitable_for[]: "4x2s_93.mack.anthem.chassis"
+}
+}

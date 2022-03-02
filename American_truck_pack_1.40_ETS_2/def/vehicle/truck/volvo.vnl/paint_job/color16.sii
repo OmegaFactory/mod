@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color16.volvo.vnl.paint_job
+{
+	name: "P3313 Gray"
+	price: 2800
+	unlock: 0
+	base_color: (0.0786, 0.0935, 0.0992)
+	base_color_locked: true
+	stock: true
+}
+}

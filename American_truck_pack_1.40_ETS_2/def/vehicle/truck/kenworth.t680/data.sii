@@ -1,0 +1,47 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.kenworth.t680	
+{
+	info[]: "@@brand_kenworth@@"
+	info[]: "@@series_kenworth_t680@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.kenworth.t680
+	interior_camera_oculus: camera.interior.kenworth.t680.oculus
+	bumper_camera: camera.bumper.basic
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|long.sii"
+	fallback[]: "cabin|standard.sii"
+	fallback[]: "engine|isx12.sii"
+	fallback[]: "transmission|10_speed.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_05.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_05.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "paint_job|color1.sii"
+	fallback[]: "interior|cab_b_n_b.sii"
+
+
+	require[]: bumper
+	require[]: sideskirt
+	require[]: mirror
+	require[]: exhaust
+	require[]: mudflaps
+	require[]: doorhndl
+	require[]: steering_w
+    require[]: s_mirror	
+
+}
+}

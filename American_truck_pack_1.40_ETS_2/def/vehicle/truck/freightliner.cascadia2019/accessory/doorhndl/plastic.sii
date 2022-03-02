@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : plastic.freightliner.cascadia2019.doorhndl
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/doorhndl/plastic"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/doorhndl/plastic.pmd"
+}
+}

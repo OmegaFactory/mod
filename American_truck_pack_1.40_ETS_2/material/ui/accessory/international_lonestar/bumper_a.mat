@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "bumper_a.tobj"
+	texture_name : "texture"
+}

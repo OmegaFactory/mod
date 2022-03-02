@@ -1,0 +1,7 @@
+SiiNunit
+{
+accessory_addon_data : shr_std.freightliner.cascadia2019.sideflares
+{
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideflares/dc_base.pmd"
+}
+}

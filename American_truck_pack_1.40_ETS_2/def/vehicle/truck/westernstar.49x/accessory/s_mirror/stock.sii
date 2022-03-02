@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : stock.westernstar.49x.s_mirror
+{
+	name: "@@standard@@"
+	price: 185
+	unlock: 5
+	icon: "truck/westernstar_49x/accessory/s_mirror/stock"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/s_mirror/stock.pmd"
+	interior_model: "/vehicle/truck/westernstar_49x/accessory/s_mirror/stock_int.pmd"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape02c.peterbilt.389.cabdefl
+{
+	name: "Ultra Cab Roof Deflector"
+	price: 1150
+	unlock: 6
+	icon: "peterbilt_389/cabdefl02"
+	exterior_model: "/vehicle/truck/upgrade/cabdefl/peterbilt_389/cabdefl02_c.pmd"
+	conflict_with[]: "shape02.peterbilt.389.horns"
+
+}
+}

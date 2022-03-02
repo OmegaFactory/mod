@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/truck/peterbilt_389/interior/carpet_light.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.67386 , 0.67386 , 0.67386 }
+	reflection : 0
+	shininess : 48
+	specular : { 0.377474 , 0.377474 , 0.377474 }
+}

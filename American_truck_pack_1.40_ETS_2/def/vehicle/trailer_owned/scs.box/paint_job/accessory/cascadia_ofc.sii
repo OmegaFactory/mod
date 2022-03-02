@@ -1,0 +1,112 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_0x6144_size_4096x2048.tobj"
+	acc_list[]: "body.dryvan_53"
+	acc_list[]: "body.insulated_53"
+	acc_list[]: "body.reefer_53"
+}
+
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_4096x6144_size_4096x2048.tobj"
+	acc_list[]: "body.dryvan_48"
+	acc_list[]: "body.insulated_48"
+	acc_list[]: "body.reefer_48"
+}
+
+simple_paint_job_data : .ovr2
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_0x4096_size_4096x2048.tobj"
+	acc_list[]: "body.dryvan_45"
+	acc_list[]: "body.insulated_45"
+	acc_list[]: "body.reefer_45"
+}
+
+simple_paint_job_data : .ovr3
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_4096x4096_size_4096x2048.tobj"
+	acc_list[]: "body.dryvan_32"
+	acc_list[]: "body.insulated_32"
+	acc_list[]: "body.reefer_32"
+}
+
+simple_paint_job_data : .ovr4
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_0x2048_size_2048x2048.tobj"
+	acc_list[]: "body.dryvan_28"
+	acc_list[]: "body.insulated_28"
+	acc_list[]: "body.reefer_28"
+}
+
+simple_paint_job_data : .ovr5
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/shared_191919ff.tobj"
+	acc_list[]: "f_body.ch_unit"
+	acc_list[]: "f_body.cooler"
+	acc_list[]: "f_body.king"
+	acc_list[]: "f_body.paint"
+}
+
+simple_paint_job_data : .ovr6
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_2048x1024_size_1024x1024.tobj"
+	acc_list[]: "f_body.wind_def"
+}
+
+simple_paint_job_data : .ovr7
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_0x1024_size_1024x1024.tobj"
+	acc_list[]: "rear_body.roll_up"
+	acc_list[]: "rear_body.roll_up_g"
+}
+
+simple_paint_job_data : .ovr8
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_0x0_size_1024x1024.tobj"
+	acc_list[]: "rear_body.simple"
+	acc_list[]: "rear_body.simple_a"
+}
+
+simple_paint_job_data : .ovr9
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/shared_131313ff.tobj"
+	acc_list[]: "chs_f_l.aero"
+	acc_list[]: "chs_f_r.aero"
+	acc_list[]: "chs_f_r.paint_28"
+}
+
+simple_paint_job_data : .ovr10
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_1024x1792_size_1024x256.tobj"
+	acc_list[]: "chs_f_r.paint_53"
+}
+
+simple_paint_job_data : .ovr11
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_1024x1280_size_1024x256.tobj"
+	acc_list[]: "chs_f_r.paint_45"
+}
+
+simple_paint_job_data : .ovr12
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_1024x1536_size_1024x256.tobj"
+	acc_list[]: "chs_f_l.paint_53"
+	acc_list[]: "chs_f_l.paint_53h"
+}
+
+simple_paint_job_data : .ovr13
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_1024x1024_size_1024x256.tobj"
+	acc_list[]: "chs_f_l.paint_45"
+	acc_list[]: "chs_f_l.paint_45h"
+}
+
+simple_paint_job_data : .ovr14
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/cascadia_ofc/pjm_at_1536x256_size_512x256.tobj"
+	acc_list[]: "chs_f_l.paint_28"
+	acc_list[]: "chs_f_l.paint_28h"
+}
+}

@@ -1,0 +1,12 @@
+cargo_data: cargo.ws_49x
+{
+	name: "@@cn_westernstar_49x@@"
+	fragility: 0.8
+	valuable: true
+	group[]: machinery
+	volume: 1
+	mass: 237.139
+	unit_reward_per_km: 0.27825
+	unit_load_time: 30
+	body_types[]: _tranredws9x
+}

@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : 389_xe2_b.peterbilt.389.paint_job
+{
+@include "389_xe2_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/389_xe2/pjm_at_0x4096_size_2048x2048.tobj"
+	suitable_for[]: "standard.peterbilt.389.cabin"
+}
+}

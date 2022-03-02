@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : paint10_a.peterbilt.389.paint_job
+{
+	name: "Rodeo"
+	price: 29000
+	unlock: 19
+	icon: "peterbilt_389/paint_rodeo"
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/paintjob_10_a.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+
+}
+}

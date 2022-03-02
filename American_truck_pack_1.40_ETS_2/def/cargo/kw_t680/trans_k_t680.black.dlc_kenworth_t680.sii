@@ -1,0 +1,17 @@
+SiiNunit
+{
+trailer_def : trailer_def.kw_t680.trans_k_t680.black
+{
+	trailer: trailer.trans_k_t680.black
+	gross_trailer_weight_limit: 26287.1
+	chassis_mass: 200
+	body_mass: 0
+	axles: 4
+	volume: 100
+	body_type: _tranackkw80
+
+	mass_ratio[]: 0.34
+	mass_ratio[]: 0.33
+	mass_ratio[]: 0.33
+}
+}

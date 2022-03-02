@@ -1,0 +1,27 @@
+SiiNunit
+{
+accessory_paint_job_data : color10.intnational.lonestar.paint_job
+{
+	name: "Blue Metallic"
+	price: 6900
+	unlock: 0
+	icon: "international_lonestar/color_sbluem"
+
+	flipflake: true
+	flip_color: (0.003035, 0.010330, 0.031896)
+	flip_strength: 0.93
+	flake_color: (0.723055, 0.723055, 0.723055)
+	flake_uvscale: 20
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.007499, 0.201556, 0.564712)
+	stock: false
+
+	base_color_locked: true
+	flip_color_locked: true
+	flake_color_locked: true
+}
+
+}

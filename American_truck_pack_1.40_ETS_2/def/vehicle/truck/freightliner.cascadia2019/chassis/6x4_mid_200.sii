@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_chassis_data : 6x4m_200.freightliner.cascadia2019.chassis
+{
+	name: "Medium 6x4 200@@gal@@"
+	price: 26200
+	unlock: 13
+	info[]: "6x4"
+	info[]: "100/100 @@gal@@"
+	icon: "truck/freightliner_cascadia2019/chassis/sl48_6x4"
+
+	model: "/vehicle/truck/freightliner_cascadia2019/chassis/sl48_6x4.pmd"
+	collision: "/vehicle/truck/freightliner_cascadia2019/chassis/sl48_6x4.pmc"
+	variant: default
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/freightliner_cascadia2019/ui_shadow_m.tobj"
+	extended_shadow_intensity: 1
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/freightliner_cascadia2019/ui_shadow/ui_shadow_m.pmd"
+
+	tank_size: 758
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: true
+
+	kerb_weight[]: 4645	# 10240 lb
+	kerb_weight[]: 1787	# 3940 lb
+	kerb_weight[]: 1787	# 3940 lb
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/cabin/sleeper_48.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/mudflaps/standard.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideskirt/mid_200_uncover_alu.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/trlr_cables/stock.sii"
+
+	conflict_with[]: "day.freightliner.cascadia2019.cabin"
+	conflict_with[]: "s72_rr.freightliner.cascadia2019.cabin"
+	conflict_with[]: "s72_xt.freightliner.cascadia2019.cabin"
+
+@include "sound.sui"
+}
+}

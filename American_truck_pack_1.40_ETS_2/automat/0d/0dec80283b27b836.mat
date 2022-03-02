@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/mudflaps/kenworth_t680/mudflaps01.tobj"
+	texture_name[0] : "texture_base"
+}

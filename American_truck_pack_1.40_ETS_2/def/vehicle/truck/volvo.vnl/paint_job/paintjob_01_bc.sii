@@ -1,0 +1,30 @@
+SiiNunit
+{
+accessory_paint_job_data : paint01_bc.volvo.vnl.paint_job
+{
+	name: "Thunderbird"
+	price: 25000
+	unlock: 15
+	icon: "volvo_vnl/paintjob01"
+
+	airbrush: true
+	flipflake: true
+	flip_color: (0.0409, 0.0074, 0.0015)
+	flip_strength: 0.93
+	flake_color: (0.4851, 0.4969, 0.1559)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 60
+	flake_clearcoat_rolloff: 3.5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.8468, 0.3564, 0)
+	base_color_locked: false
+	flip_color_locked: false
+	flake_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_01_bc.tobj"
+	stock: false
+
+	suitable_for[]: "standard.volvo.vnl.cabin"
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+}
+}

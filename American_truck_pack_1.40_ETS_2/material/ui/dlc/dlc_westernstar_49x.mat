@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dlc_westernstar_49x.tobj"
+	texture_name : "texture"
+}

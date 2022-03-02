@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.w900.deflector
+{
+	name: "Metal Deflector"
+	price: 200
+	unlock: 4
+	icon: "kenworth_w900/deflector_01"
+	exterior_model: "/vehicle/truck/upgrade/deflector/kenworth_w900/deflector01.pmd"
+	interior_model: "/vehicle/truck/upgrade/deflector/kenworth_w900/deflector01.pmd"
+}
+}

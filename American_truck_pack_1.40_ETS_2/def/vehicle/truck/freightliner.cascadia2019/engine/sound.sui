@@ -1,0 +1,5 @@
+
+	sounds[]: "engine|/def/vehicle/truck/freightliner.cascadia2019/engine/sound_engine.soundref"
+	sounds[]: "exhaust|/def/vehicle/truck/freightliner.cascadia2019/engine/sound_exhaust.soundref"
+	sounds[]: "start_bad|/def/vehicle/truck/freightliner.cascadia2019/engine/sound_start_bad.soundref"
+	sounds[]: "turbo|/def/vehicle/truck/freightliner.cascadia2019/engine/sound_turbo.soundref"

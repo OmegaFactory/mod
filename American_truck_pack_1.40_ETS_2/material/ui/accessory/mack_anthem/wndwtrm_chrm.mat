@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "wndwtrm_chrm.tobj"
+	texture_name : "texture"
+}

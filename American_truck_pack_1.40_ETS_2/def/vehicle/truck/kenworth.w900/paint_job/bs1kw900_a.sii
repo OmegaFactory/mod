@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : bs1kw900_a.kenworth.w900.paint_job
+{
+@include "bs1kw900_settings.sui"
+	suitable_for[]: "duty.kenworth.w900.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_w900/bs1kw900/cabin1.tobj"
+}
+}

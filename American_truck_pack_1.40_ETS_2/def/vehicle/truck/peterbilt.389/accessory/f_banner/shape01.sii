@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : shape01.peterbilt.389.f_banner
+{
+	name: "@@oversize_load@@"
+	price: 50
+	unlock: 0
+	icon: "sign_os/sign_os"
+	exterior_model: "/vehicle/truck/upgrade/f_banner/peterbilt_389/sign_os01.pmd"
+
+	suitable_for[]: "shape01.peterbilt.389.bumper"
+
+	conflict_with[]: "shape01.peterbilt.389.f_grill"
+	conflict_with[]: "shape02.peterbilt.389.f_grill"
+	conflict_with[]: "shape03.peterbilt.389.f_grill"
+	conflict_with[]: "shape04.peterbilt.389.f_grill"
+}
+}

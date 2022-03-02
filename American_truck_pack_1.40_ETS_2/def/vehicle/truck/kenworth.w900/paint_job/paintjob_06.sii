@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : paint_06.kenworth.w900.paint_job
+{
+	name: "Rainbows"
+	price: 23000
+	unlock: 13
+	icon: "kenworth_w900/paint_06"
+	airbrush: false
+	alternate_uvset: true
+	mask_r_color: (0.0648, 0.0103, 0)
+	mask_r_locked: false
+	mask_g_color: (0.2581, 0.003, 0.0043)
+	mask_g_locked: false
+	mask_b_color: (0.1441, 0.1046, 0.0612)
+	mask_b_locked: false
+	base_color: (0.0159, 0.0176, 0.0423)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_w900/paintjob_06.tobj"
+	stock: false
+}
+}

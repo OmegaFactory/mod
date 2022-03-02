@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape16.volvo.vnl.sideskrt_bar
+{
+	name: "Basic Chromed"
+	price: 700
+	unlock: 4
+	icon: "volvo_vnl/s_bar16"
+	exterior_model: "/vehicle/truck/upgrade/sideskrt_bar/volvo_vnl/stripe08_long.pmd"
+	suitable_for[]: "shape04.volvo.vnl.sideskirt"
+
+
+}
+}

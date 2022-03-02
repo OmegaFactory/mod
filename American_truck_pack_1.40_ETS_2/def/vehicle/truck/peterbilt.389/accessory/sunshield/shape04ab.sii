@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : shape04ab.peterbilt.389.sunshield
+{
+	name: "Chrome Sunshield"
+	price: 920
+	unlock: 13
+	icon: "peterbilt_389/sunshield04_ab"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_389/sunshield04_ab.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_389/sunshield04_ab_int.pmd"
+
+	suitable_for[]: "duty.peterbilt.389.cabin"
+	suitable_for[]: "standard.peterbilt.389.cabin"
+}
+}

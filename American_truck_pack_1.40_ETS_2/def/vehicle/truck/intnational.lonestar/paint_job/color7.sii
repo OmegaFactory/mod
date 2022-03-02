@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color7.intnational.lonestar.paint_job
+{
+	name: "Gray"
+	price: 2900
+	unlock: 0
+	base_color: (0.258183, 0.258183, 0.258183)
+	base_color_locked: true
+	stock: true
+}
+}

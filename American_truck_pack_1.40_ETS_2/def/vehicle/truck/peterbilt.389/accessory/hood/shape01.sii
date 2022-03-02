@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01.peterbilt.389.hood
+{
+	name: "classic logo"
+	price: 0
+	unlock: 0
+	icon: "peterbilt_389/hood01"
+	exterior_model: "/vehicle/truck/upgrade/hood/peterbilt_389/hood01.pmd"
+}
+}

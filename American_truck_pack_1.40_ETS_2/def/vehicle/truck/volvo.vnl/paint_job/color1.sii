@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color1.volvo.vnl.paint_job
+{
+	name: "771425 Pirate Pearl Red"
+	price: 2900
+	unlock: 0
+	icon: "volvo_vnl/metalic01"
+
+	flipflake: true
+	flip_color: (0.0529, 0.0034, 0.0085)
+	flip_strength: 0.93
+	flake_color: (1, 0.6866, 0.5209)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.2234, 0.0083, 0.0272)
+	stock: false
+}
+}

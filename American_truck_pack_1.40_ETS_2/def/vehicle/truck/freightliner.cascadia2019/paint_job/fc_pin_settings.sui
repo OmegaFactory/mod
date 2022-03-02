@@ -1,0 +1,19 @@
+	name: "Pinstripe"
+	price: 25000
+	unlock: 15
+	base_color: (0.533276, 0.533276, 0.533276)
+	base_color_locked: false
+	color_variant[]: (0.215846, 0.000000, 0.000000)
+	color_variant[]: (0.361288, 0.327778, 0.223213)
+	color_variant[]: (0.187821, 0.130147, 0.068478)
+	color_variant[]: (0.361288, 0.327778, 0.223214)
+	color_variant[]: (0.021219, 0.021219, 0.021219)
+	color_variant[]: (0.332433, 0.000912, 0.000912)
+	color_variant[]: (0.332433, 0.300544, 0.191215)
+	color_variant[]: (0.332433, 0.000912, 0.000912)
+	icon: "freightliner_cascadia2019/fci_pin"
+	mask_b_color: (0.162029, 0.246186, 0.266356)
+	mask_b_locked: false
+	mask_g_color: (0.028430, 0.049713, 0.130147)
+	mask_g_locked: false
+	mask_r_color: (0.162029, 0.246186, 0.266356)

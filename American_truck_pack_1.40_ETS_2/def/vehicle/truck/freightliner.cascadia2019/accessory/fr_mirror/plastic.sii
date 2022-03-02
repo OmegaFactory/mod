@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : plastic.freightliner.cascadia2019.fr_mirror
+{
+	name: "@@standard@@"
+	price: 280
+	unlock: 3
+	icon: "truck/freightliner_cascadia2019/accessory/fr_mirror/plastic"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/fr_mirror/plastic.pmd"
+	interior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/fr_mirror/plastic_int.pmd"
+}
+}

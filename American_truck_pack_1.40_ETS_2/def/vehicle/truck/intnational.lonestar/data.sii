@@ -1,0 +1,52 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.intnational.lonestar
+{
+	info[]: "@@brand_intnational@@"
+	info[]: "@@series_international_lonestar@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.intnational.lonestar
+	interior_camera_oculus: camera.interior.intnational.lonestar.oculus
+	bumper_camera: camera.bumper.basic
+
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|6x2_short_70.sii"
+	fallback[]: "cabin|day.sii"
+	fallback[]: "engine|x15_400.sii"
+	fallback[]: "transmission|10_speed.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_04.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_04.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "interior|day_std.sii"
+	fallback[]: "paint_job|color1.sii"
+
+
+	require[]: bumper
+	require[]: grill
+	require[]: hood
+	require[]: mirror
+	require[]: exhaust
+	require[]: mudflaps
+	require[]: doorhndl
+	require[]: filters
+	require[]: steering_w
+	require[]: sunshield
+	require[]: sideflares
+	require[]: sideskirt
+    require[]: s_mirror	
+}
+} 

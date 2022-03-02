@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : plastic.mack.anthem.grill
+{
+	name: "@@standard@@"
+	price: 2500
+	unlock: 0
+	icon: "mack_anthem/grll_blck"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/grill/grill_0_1_2.pmd"
+//	interior_model: "/vehicle/truck/mack_anthem/accessory/grill/grill_0_1_2_int.pmd"
+}
+}

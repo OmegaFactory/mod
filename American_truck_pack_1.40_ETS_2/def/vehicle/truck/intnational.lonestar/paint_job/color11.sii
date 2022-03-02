@@ -1,0 +1,27 @@
+SiiNunit
+{
+accessory_paint_job_data : color11.intnational.lonestar.paint_job
+{
+	name: "Red Metallic"
+	price: 6900
+	unlock: 0
+	icon: "international_lonestar/color_dredm"
+
+	flipflake: true
+	flip_color: (0.0423, 0.003, 0.003)
+	flip_strength: 0.93
+	flake_color: (1, 0.6866, 0.5209)
+	flake_uvscale: 20
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.33, 0.003, 0.003)
+	stock: false
+
+	base_color_locked: true
+	flip_color_locked: true
+	flake_color_locked: true
+}
+
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape1.volvo.vnl.fl_mirror
+{
+	name: "@@classic@@"
+	price: 280
+	unlock: 3
+	icon: "volvo_vnl/f_mirror01"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror01_front.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/volvo_vnl/mirror01_front_int.pmd"
+}
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape12.volvo.vnl.mudguard
+{
+	name: "@@paint@@"
+	price: 250
+	unlock: 4
+	icon: "volvo_vnl/mudguard12"
+	exterior_model: "/vehicle/truck/upgrade/mudguard/volvo_vnl/mudguard12.pmd"
+
+	suitable_for[]: "shape02.volvo.vnl.sideskirt"
+	suitable_for[]: "shape04.volvo.vnl.sideskirt"
+}
+}

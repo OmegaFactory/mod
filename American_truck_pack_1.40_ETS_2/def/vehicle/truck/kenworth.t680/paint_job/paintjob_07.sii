@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : paint07.kenworth.t680.paint_job
+{
+	name: "Stripe Paintable"
+	price: 23000
+	unlock: 13
+	icon: "kenworth_t680/paint_stripe"
+	mask_r_color: (0.1844, 0.0009, 0.0009)
+	mask_r_locked: false
+	mask_g_color: (0.4969, 0.3712, 0.1529)
+	mask_g_locked: false
+	mask_b_color: (0.162, 0.1651, 0.1714)
+	mask_b_locked: false
+	base_color: (0.0074, 0.0069, 0.0069)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_07.tobj"
+	stock: false
+
+
+}
+}

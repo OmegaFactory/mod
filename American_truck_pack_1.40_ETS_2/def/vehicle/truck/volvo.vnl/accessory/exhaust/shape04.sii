@@ -1,0 +1,24 @@
+SiiNunit
+{
+accessory_addon_data : shape04.volvo.vnl.exhaust
+{
+	name: "SCR Exhaust"
+	price: 3760
+	unlock: 0
+	icon: "volvo_vnl/exhaust03"
+
+	exterior_model: "/vehicle/truck/upgrade/exhaust/volvo_vnl/exhaust04.pmd"
+	interior_model: "/vehicle/truck/upgrade/exhaust/volvo_vnl/exhaust04.pmd"
+
+	suitable_for[]: "short.volvo.vnl.chassis"
+	suitable_for[]: "short_4x2.volvo.vnl.chassis"
+	suitable_for[]: "short_6x2.volvo.vnl.chassis"
+	suitable_for[]: "short_6x2_m.volvo.vnl.chassis"
+	suitable_for[]: "short_8x4.volvo.vnl.chassis"
+	suitable_for[]: "short2.volvo.vnl.chassis"
+	suitable_for[]: "short2_4x2.volvo.vnl.chassis"
+	suitable_for[]: "short2_6x2.volvo.vnl.chassis"
+	suitable_for[]: "short2_6x2_m.volvo.vnl.chassis"
+	suitable_for[]: "short2_8x4.volvo.vnl.chassis"
+}
+}
