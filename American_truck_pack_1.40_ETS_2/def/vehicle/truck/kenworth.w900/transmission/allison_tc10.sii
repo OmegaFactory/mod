@@ -18,7 +18,8 @@ accessory_transmission_data : allison_tc10.kenworth.w900.transmission
 
 	# reverse gears
 	ratios_reverse[0]: -6.71
-	ratios_reverse[1]: -1.96
+	ratios_reverse[1]: -3
+	ratios_reverse[2]: -1.96
 
 	# forward gears
 	ratios_forward[0]: 7.4
@@ -32,6 +33,7 @@ accessory_transmission_data : allison_tc10.kenworth.w900.transmission
 	ratios_forward[8]: 1.0
 	ratios_forward[9]: 0.86
     ratios_forward[10]: 0.70
+    ratios_forward[10]: 0.65
     
 @include "sound.sui"
 }
