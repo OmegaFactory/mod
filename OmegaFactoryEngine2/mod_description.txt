@@ -1,5 +1,5 @@
-2 engines for all trucks with 1000hp 5000nm @1400-2000rpm (auto) 1400-2300rpm (manual)
-with CAT sound
+2 engines for all trucks with 1000hp 5550nm @1400-2000rpm (auto) 1400-2300rpm (manual)
+with cummins sound
 8 speed allison transmission
 
 2 variants of the engine tuned slightly different for auto or manual gears

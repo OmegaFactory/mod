@@ -2,11 +2,11 @@ SiiNunit
 {
 	mod_package : .package_name
 	{
-		package_version:	"1.0"
+		package_version:	"1.2"
 		display_name:		""
-		author:				"OmegaFactoryEngine"
+		author:				"Johnny Cash"
 
-		icon: "logo_omega.jpg"
+		icon: "jc_eng_mod_icon.jpg"
 		description_file: "jc_mod_description.txt"
 		
 		category[]: "tuning_parts"

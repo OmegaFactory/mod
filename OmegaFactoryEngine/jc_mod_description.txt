@@ -1,24 +1,45 @@
-OmegaFactoryEngine Pack 
+Johnny Cash's Amateur Engine Pack 
 
 Place This engine mod above any truck mods
 
 This Mod is available on the steam workshop. Please only download through the workshop 
 Kindly do not re-upload to any third party sites. 
 
-OmegaFactoryEngine Pack. All Sounds have been completely re-worked. It will conflict with my previous "standalone engines" so remove them all and just use this pack
+JC's Amateur Engine Pack. All Sounds have been completely re-worked. It will conflict with my previous "standalone engines" so remove them all and just use this pack
 
 It contains 7 different engines with various HP and options
 
-Cummins N14 with Lope Idle or Standard Idle - 550hp, 810hp, 1355hp
-
+Cummins N14 with Lope Idle or Standard Idle - 550hp, 810hp, 1088hp
 Caterpillar 3408 V8 with Air Start or Key Start - 505hp, 625hp, 810hp, 1066hp 
-
 Caterpillar 1693 TA with Cat Brake Saver or Engine Brake - 325hp, 375hp, 425hp, 500hp
-
 Scania DC-16 V8 "Custom" with Lope Idle & Standard Idle - 520hp, 580hp, 650hp, 730hp, 845hp
-
 Scania DC-16 V8 - 520hp, 580hp, 650hp, 730hp
-
 Mack E9 V8 - 400hp, 450hp, 500hp, 620hp, 990hp
-
 Paccar Mx-13 - 455hp, 510hp, 710hp, 1044hp 
+
+If you've enjoyed my engines and would like some new ones created, please send us a few bucks so I can make that happen by upgrading the equipment and hiring better trucks 
+https://www.paypal.com/donate/?business=ZW5SMS965EA22&no_recurring=0&item_name=Thank+you+For+Supporting+me+to+provide+better+engine+sounds+&currency_code=AUD
+
+Currently Working on hearing mod engines of others in 1.42 convoy mode 
+
+Truck Modders - Please dont add this engine directly to your truck without my knowledge. Please contact me first, Its a courtesy thing.
+Youtubers & Streamers - Kindly give us a shout out & link to the steamworkshop for your veiwers. I always like seeing the engines being used by others so share your vid with me too.
+Compatilable with over 110+ trucks full list can be found here
+https://docs.google.com/document/d/1khPq3dUeua98-UP5kH7MXafIoGXSO_Gm/edit?usp=sharing&ouid=101870790939292339808&rtpof=true&sd=true
+
+Further Credits 
+To Mortal. Its his fault I started engine mods. his pre fmod sounds motivated me to learn how to mod engines. We have now becaome buddies so cheers and thanks & For some of the lope and redline sounds in the N14 
+To Zeemods for some of the great fmod tips you have shown me and setting the bar so high with your sounds. You sir are the master  
+To Kriechbaum for the permission to use some of your original samples and for the great sounds you do.
+To LarryA & Easystevey for the endless hours of testing and feedback they provide me 
+To Robinicus for sharing your wealth of knowledge in the SCS forums for all to use and your awesome engine pack.
+To Harven, for sharing/creating your videos, & tutorials on how to update engines into fmod and create engine mods.
+To VsTerminus for the sounds in the Cat 1693 , and his previous work with the 3408 torque curves.
+To Alex Swift for the DC-16 engine sounds  
+SCS software team for all your on going hard work, making such an enjoyable experience of a game.
+
+Your all a bunch of bloody legends, keep up the great work.
+
+Cheers
+
+JC
