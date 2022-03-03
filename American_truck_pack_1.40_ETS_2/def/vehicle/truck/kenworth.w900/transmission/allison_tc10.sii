@@ -33,7 +33,6 @@ accessory_transmission_data : allison_tc10.kenworth.w900.transmission
 	ratios_forward[8]: 1.0
 	ratios_forward[9]: 0.86
     ratios_forward[10]: 0.70
-    ratios_forward[11]: 0.65
     
 @include "sound.sui"
 }

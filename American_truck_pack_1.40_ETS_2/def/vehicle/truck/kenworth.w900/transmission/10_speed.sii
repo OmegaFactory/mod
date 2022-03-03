@@ -10,7 +10,7 @@ accessory_transmission_data : 10_speed.kenworth.w900.transmission
 	# UltraShift PLUS LAS 10B
 	# Differential Ratio: 2.64, 2.85, 2.93, 3.08, 3.25, 3.36, 3.40?, 3.42, 3.55, 3.58(single) 3.70, 3.73?, 3.78, 3.91, 4.10
 
-	differential_ratio: 2.85
+	differential_ratio: 2.64
 
 	# reverse gear
 	ratios_reverse[0]: -18.18
@@ -27,6 +27,7 @@ accessory_transmission_data : 10_speed.kenworth.w900.transmission
 	ratios_forward[7]: 1.83
 	ratios_forward[8]: 1.34
 	ratios_forward[9]: 1.0
+	ratios_forward[10]: 0.75
 
 @include "sound.sui"
 }

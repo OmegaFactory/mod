@@ -1,0 +1,27 @@
+SiiNunit
+{
+# ".package_name" does not matter as the dot at the beginning of the file means that this unit is anonymous. 
+# Please keep this form to not make any conflicts with other mod packages (name collisions).
+mod_package : mod_sislsmp {
+
+    # Package version can be any string with any length.
+    package_version: ""
+
+    # Display name can be any string with any length.
+    display_name: "No Speed limits"
+
+    # Author can be any string with any length.
+    author: "27C"
+
+    # Categories is an array of strings.
+    category[]:	"tuning_parts"
+		category[]:	"PAINT JOB"
+
+    # Icon inside the root directory of the mod.
+    icon: "27c.jpg"
+
+    # Description file inside the root directory of the mod.
+    description_file: "27c.txt"
+  
+}
+}
