@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.piko.alldir.rfx" {
+	texture[0] : "/vehicle/trailer/truck_transporter/color.tobj"
+	texture_name[0] : "texture_base"
+}

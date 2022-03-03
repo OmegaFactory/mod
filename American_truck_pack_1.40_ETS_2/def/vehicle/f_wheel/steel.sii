@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_wheel_data : steel.fwheel
+{
+	name: "Simple Front Wheels"
+	price: 1890
+	unlock: 0
+	icon: "wf_steel"
+	model: "/vehicle/wheel/steel/front.pmd"
+}
+}

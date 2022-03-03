@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : paint09.volvo.vnl.paint_job
+{
+	name: "Burning Skull"
+	price: 33000
+	unlock: 23
+	icon: "volvo_vnl/paintjob09"
+	airbrush: false
+	mask_r_color: (0.1529, 0.0122, 0.0109)
+	mask_r_locked: false
+	mask_g_color: (0.2746, 0.063, 0)
+	mask_g_locked: false
+	mask_b_color: (0.8549, 0.3564, 0.0251)
+	mask_b_locked: false
+	base_color: (0.004, 0.003, 0.0012)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_09.tobj"
+	stock: false
+
+}
+}

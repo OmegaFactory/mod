@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_paint_job_data : paint02_ab.kenworth.t680.paint_job
+{
+	name: "Hawaiian Beauty"
+	price: 31000
+	unlock: 21
+	icon: "kenworth_t680/paint_hbeauty"
+
+	airbrush: true
+
+	base_color: (0.592, 0.588, 0.576)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_02_ab.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "standard.kenworth.t680.cabin"
+	suitable_for[]: "duty.kenworth.t680.cabin"
+}
+}

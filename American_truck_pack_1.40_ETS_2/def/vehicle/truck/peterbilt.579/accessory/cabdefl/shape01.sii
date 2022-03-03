@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : shape01.peterbilt.579.cabdefl
+{
+	name: "Daycab Roof Deflector"
+	price: 1150
+	unlock: 6
+	icon: "peterbilt_579/cab_defl"
+	exterior_model: "/vehicle/truck/upgrade/cabdefl/peterbilt_579/cabdefl.pmd"
+//	collision: "/vehicle/truck/upgrade/cabdefl/peterbilt_579/cabdefl.pmc"
+	conflict_with[]: "shape01.peterbilt.579.horns"
+	conflict_with[]: "shape01.peterbilt.579.cabflares"
+	conflict_with[]: "shape1.peterbilt.579.beacon"
+}
+}

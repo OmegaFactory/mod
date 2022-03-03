@@ -1,0 +1,13 @@
+	name: "Midnight"
+	price: 3900
+	unlock: 0
+	base_color: (0.003347, 0.003347, 0.003347)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.135633, 0.135633, 0.194618)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.012983, 0.014444, 0.019382)
+	flip_strength: 0.930000
+	flipflake: true
+	stock: true

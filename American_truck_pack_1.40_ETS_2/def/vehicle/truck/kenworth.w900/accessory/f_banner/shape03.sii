@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape03.kenworth.w900.f_banner
+{
+	name: "@@oversize_load@@"
+	price: 50
+	unlock: 0
+	icon: "sign_os/sign_os"
+	exterior_model: "/vehicle/truck/upgrade/f_banner/kenworth_w900/sign_os03.pmd"
+
+	suitable_for[]: "shape05.kenworth.w900.bumper"
+}
+}

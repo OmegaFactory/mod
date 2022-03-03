@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 02_legacy.rnuts
+{
+	name: "Cap Shadow"
+	price: 90
+	unlock: 4
+	model: "/vehicle/truck/upgrade/wheel/nuts/rear_nuts_02_legacy.pmd"
+	icon: "nuts/nuts_02_legacy"
+}
+}

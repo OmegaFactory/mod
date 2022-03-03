@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : elite.freightliner.cascadia2019.steering_w
+{
+	name: "@@elite@@"
+	price: 360
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/steering_w/swheel_elite"
+	interior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/steering_w/swheel_ch.pmd"
+}
+}

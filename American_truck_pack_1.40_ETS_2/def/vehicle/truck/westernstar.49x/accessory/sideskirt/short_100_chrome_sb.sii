@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shr100_chsb.westernstar.49x.sideskirt
+{
+	name: "@@chrom@@"
+	price: 4080
+	unlock: 8
+	icon: "truck/westernstar_49x/accessory/sideskirt/chrmc100day_sb"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/sideskirt/chrmc100day_sb.pmd"
+
+	suitable_for[]: "6x2s_100sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4s_100sb.westernstar.49x.chassis"
+	suitable_for[]: "8x6s_100sb.westernstar.49x.chassis"
+}
+}

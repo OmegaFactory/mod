@@ -1,0 +1,7 @@
+SiiNunit
+{
+accessory_addon_data : lng200_aero.freightliner.cascadia2019.sideflares
+{
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideflares/sl72_aero_mid.pmd"
+}
+}

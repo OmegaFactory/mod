@@ -1,0 +1,252 @@
+vehicle: start.truck
+{
+
+ fuel_relative: &3f000000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+ accessories[]: .int_lone0.data
+ accessories[]: .int_lone0.chassis
+ accessories[]: .int_lone0.cabin
+ accessories[]: .int_lone0.interior
+ accessories[]: .int_lone0.engine
+ accessories[]: .int_lone0.transm
+ accessories[]: .int_lone0.headl
+ accessories[]: .int_lone0.ftire
+ accessories[]: .int_lone0.fdisc
+ accessories[]: .int_lone0.fhub
+ accessories[]: .int_lone0.fnuts
+ accessories[]: .int_lone0.fcover
+ accessories[]: .int_lone0.rtire1
+ accessories[]: .int_lone0.rdisc1
+ accessories[]: .int_lone0.rhub1
+ accessories[]: .int_lone0.rnuts1
+ accessories[]: .int_lone0.rcover1
+ accessories[]: .int_lone0.rtire2
+ accessories[]: .int_lone0.rdisc2
+ accessories[]: .int_lone0.rhub2
+ accessories[]: .int_lone0.rnuts2
+ accessories[]: .int_lone0.rcover2
+ accessories[]: .int_lone0.paint
+ accessories[]: .int_lone0.mirror
+ accessories[]: .int_lone0.bumper
+ accessories[]: .int_lone0.exhaust
+ accessories[]: .int_lone0.mudflaps
+ accessories[]: .int_lone0.mudguard
+ accessories[]: .int_lone0.doorhndl
+ accessories[]: .int_lone0.filters
+ accessories[]: .int_lone0.sunshield
+ accessories[]: .int_lone0.sideflares
+ accessories[]: .int_lone0.swheel
+ accessories[]: .int_lone0.trlr_cables
+ accessories[]: .int_lone0.grill
+ accessories[]: .int_lone0.hood
+ accessories[]: .int_lone0.sideskirt
+
+ odometer: 6829678
+ odometer_float_part: &3c2ea71b
+}
+
+vehicle_accessory : .int_lone0.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/data.sii"
+}
+
+vehicle_accessory : .int_lone0.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/chassis/6x4_mid_120.sii"
+}
+
+vehicle_accessory : .int_lone0.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/cabin/hirise.sii"
+}
+
+vehicle_accessory : .int_lone0.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/interior/hi_lux.sii"
+}
+
+vehicle_accessory : .int_lone0.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/engine/x15_500.sii"
+}
+
+vehicle_accessory : .int_lone0.transm {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/transmission/18_speed_retarder.sii"
+}
+
+vehicle_accessory : .int_lone0.headl {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.ftire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.fcover {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rtire1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rdisc1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rhub1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rnuts1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rcover1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rtire2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rdisc2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rhub2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rnuts2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .int_lone0.rcover2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+
+vehicle_paint_job_accessory : .int_lone0.paint {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/paint_job/color10.sii"
+
+}
+
+vehicle_addon_accessory : .int_lone0.mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/mirror/chrome.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.bumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/bumper/sensor.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.exhaust {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/exhaust/big_double_a.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.mudflaps {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/mudflaps/logo.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.mudguard {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/mudguard/logo.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.doorhndl {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/doorhndl/chrome.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.filters {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/filters/flare_small.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.sunshield {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/sunshield/chrome.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.sideflares {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/sideflares/hi_chrome.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.swheel {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/steering_w/default.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.trlr_cables {
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/trlr_cables/stock.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.grill {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/grill/standard.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.hood {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/hood/standard.sii"
+}
+
+vehicle_addon_accessory : .int_lone0.sideskirt {
+ wear: 0
+ data_path: "/def/vehicle/truck/intnational.lonestar/accessory/sideskirt/mid_120_alu.sii"
+}

@@ -1,0 +1,17 @@
+	name: "Red Liner"
+	price: 21000
+	unlock: 11
+	base_color: (0.010963, 0.010963, 0.010963)
+	base_color_locked: false
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.791268, 0.791268, 0.791268)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.045186, 0.045186, 0.045186)
+	flip_strength: 0.930000
+	icon: "westernstar_49x/ws_str"
+	mask_g_color: (0.991068, 0.391552, 0.001519)
+	mask_g_locked: false
+	mask_r_color: (0.356400, 0.000000, 0.000000)
+	mask_r_locked: false

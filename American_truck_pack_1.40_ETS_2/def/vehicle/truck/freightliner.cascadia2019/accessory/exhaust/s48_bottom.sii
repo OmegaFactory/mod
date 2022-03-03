@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s48_bottom.freightliner.cascadia2019.exhaust
+{
+	name: "@@bottom@@"
+	price: 3760
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/exhaust/sl48_stock"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/exhaust/sl48_stock.pmd"
+
+	suitable_for[]: "s48.freightliner.cascadia2019.cabin"
+}
+}

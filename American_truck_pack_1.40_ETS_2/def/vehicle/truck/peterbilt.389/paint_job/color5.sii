@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color5.peterbilt.389.paint_job
+{
+	name: "Sunny Yellow"
+	price: 2900
+	unlock: 0
+	base_color: (0.575, 0.375, 0.01)
+	base_color_locked: true
+	stock: true
+}
+}

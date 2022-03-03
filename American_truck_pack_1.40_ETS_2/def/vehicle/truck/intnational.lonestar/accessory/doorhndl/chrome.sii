@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : chrome.intnational.lonestar.doorhndl
+{
+	name: "@@chrom@@"
+	price: 520
+	unlock: 9
+	icon: "international_lonestar/doorhndl_b"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/doorhndl/doorhandle_cr.pmd"
+}
+}

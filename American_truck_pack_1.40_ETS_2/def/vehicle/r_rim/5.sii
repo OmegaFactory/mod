@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 5.rrim
+{
+	name: "Dynamic"
+	price: 1470
+	unlock: 21
+	icon: "wr_5"
+	model: "/vehicle/truck/upgrade/wheel/rim/rear_5.pmd"
+}
+}

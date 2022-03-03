@@ -1,0 +1,13 @@
+	name: "Slate"
+	price: 3900
+	unlock: 0
+	base_color: (0.201556, 0.234551, 0.291771)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.545194, 0.638670, 0.807353)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.026220, 0.029859, 0.036304)
+	flip_strength: 0.930000
+	flipflake: true
+	stock: true

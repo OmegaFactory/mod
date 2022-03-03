@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_patch_data : warning.intnational.lonestar.flag_f_r
+{
+	name: "@@warning_flag@@"
+	price: 10
+	unlock: 0
+	icon: "flag/warning"
+
+	exterior_model: "/vehicle/truck/upgrade/flag/flag_warning_right.pmd"
+	interior_model: "/vehicle/truck/upgrade/flag/flag_warning_right.pmd"
+	data: .red_flag
+}
+
+@include "/def/vehicle/truck/common_red_flag_data.sui"
+
+}

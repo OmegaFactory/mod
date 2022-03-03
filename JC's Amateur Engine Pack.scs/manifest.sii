@@ -1,0 +1,20 @@
+SiiNunit
+{
+	mod_package : .package_name
+	{
+		package_version:	"1.2"
+		display_name:		""
+		author:				"Johnny Cash"
+
+		icon: "jc_eng_mod_icon.jpg"
+		description_file: "jc_mod_description.txt"
+		
+		category[]: "tuning_parts"
+category[]: "sound"
+
+
+		
+
+		
+	}
+}

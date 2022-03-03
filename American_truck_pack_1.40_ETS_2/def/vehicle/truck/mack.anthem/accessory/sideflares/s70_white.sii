@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s70_w.mack.anthem.sideflares
+{
+	name: "White Side Flares"
+	price: 250
+	unlock: 7
+	icon: "mack_anthem/sflr_white"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideflares/sflr_1_2_2.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

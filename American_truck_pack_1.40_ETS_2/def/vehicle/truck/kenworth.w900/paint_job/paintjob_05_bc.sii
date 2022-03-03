@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_paint_job_data : paint_05_bc.kenworth.w900.paint_job
+{
+	name: "Rattlesnake"
+	price: 29000
+	unlock: 19
+	icon: "kenworth_w900/paint_05"
+	airbrush: true
+	base_color: (0.4, 0.4, 0.4)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_w900/paintjob_05_bc.tobj"
+	stock: false
+	alternate_uvset: true
+	suitable_for[]: "standard.kenworth.w900.cabin"
+	suitable_for[]: "exclusive.kenworth.w900.cabin"
+}
+}

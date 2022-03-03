@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape03.peterbilt.579.bumper
+{
+	name: "Chromed"
+	price: 2030
+	unlock: 7
+	icon: "peterbilt_579/bumper_03"
+	exterior_model: "/vehicle/truck/upgrade/bumper/peterbilt_579/bumper03.pmd"
+}
+}

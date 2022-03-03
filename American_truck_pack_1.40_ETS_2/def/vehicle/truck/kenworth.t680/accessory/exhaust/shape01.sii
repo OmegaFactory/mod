@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.t680.exhaust
+{
+	name: "Single Exhaust"
+	price: 6840
+	unlock: 5
+	icon: "kenworth_t680/exhaust_01"
+
+	exterior_model: "/vehicle/truck/upgrade/exhaust/kenworth_t680/exhaust01.pmd"
+	interior_model: "/vehicle/truck/upgrade/exhaust/kenworth_t680/exhaust01.pmd"
+
+	suitable_for[]: "short.kenworth.t680.chassis"
+	suitable_for[]: "short_6x2.kenworth.t680.chassis"
+	suitable_for[]: "short_6x2_m.kenworth.t680.chassis"
+	suitable_for[]: "short_4x2.kenworth.t680.chassis"
+	suitable_for[]: "short2.kenworth.t680.chassis"
+	suitable_for[]: "short2_6x2.kenworth.t680.chassis"
+	suitable_for[]: "short2_6x2_m.kenworth.t680.chassis"
+	suitable_for[]: "short2_4x2.kenworth.t680.chassis"
+}
+}

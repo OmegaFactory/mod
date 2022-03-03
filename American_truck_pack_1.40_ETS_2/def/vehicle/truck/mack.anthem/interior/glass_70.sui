@@ -1,0 +1,8 @@
+glass_pane_data : .mack.anthem.r.pane.back_70
+{
+	locator: back_70
+	size: (0.33, 0.25)
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

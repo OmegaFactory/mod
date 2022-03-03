@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape04.kenworth.t680.sideflares
+{
+	name: "Round Side Flares"
+	price: 250
+	unlock: 7
+	icon: "kenworth_t680/sideflares_02"
+	exterior_model: "/vehicle/truck/upgrade/sideflares/kenworth_t680/sideflares04.pmd"
+	suitable_for[]: "duty.kenworth.t680.cabin"
+
+}
+}

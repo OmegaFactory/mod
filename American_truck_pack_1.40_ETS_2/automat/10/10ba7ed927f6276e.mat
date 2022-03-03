@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.nofresnel.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyhang/colorado_gem.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/interior_decors/toyhang/colorado_gem_nm.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/interior_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0.5
+	diffuse : { 0.42521 , 0.42521 , 0.42521 }
+	env_factor : { 0.35778 , 0.35778 , 0.35778 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.749071 , 0.749071 , 0.749071 }
+}

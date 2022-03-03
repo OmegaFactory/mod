@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_paint_job_data : paint04_c.kenworth.t680.paint_job
+{
+	name: "Cityscape"
+	price: 33000
+	unlock: 23
+	icon: "kenworth_t680/paint_city"
+	airbrush: true
+	base_color: (0.518, 0.549, 0.725)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_04_c.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "exclusive.kenworth.t680.cabin"
+}
+}

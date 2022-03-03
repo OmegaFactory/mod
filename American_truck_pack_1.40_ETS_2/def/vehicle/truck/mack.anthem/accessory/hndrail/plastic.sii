@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : plastic.mack.anthem.hndrail
+{
+	name: "@@standard@@"
+	price: 250
+	unlock: 0
+	icon: "mack_anthem/hndrail_plstc"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/hndrail/handrail_0_1_2.pmd"
+}
+}

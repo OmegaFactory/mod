@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "hopetrucker.tobj"
+	texture_name : "texture"
+}

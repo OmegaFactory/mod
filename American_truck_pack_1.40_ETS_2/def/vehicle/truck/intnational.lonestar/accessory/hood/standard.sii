@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : standard.intnational.lonestar.hood
+{
+	name: "@@standard@@"
+	price: 1000
+	unlock: 0
+	icon: "international_lonestar/hood"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/hood/hood.pmd"
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/hood/hood_int.pmd"
+}
+}

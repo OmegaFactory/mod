@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape03.kenworth.t680.doorhndl
+{
+	name: "Door Handle Chrome"
+	price: 520
+	unlock: 9
+	icon: "kenworth_t680/doorhndl_03"
+	exterior_model: "/vehicle/truck/upgrade/doorhandlers/kenworth_t680/doorhndl03.pmd"
+}
+
+}

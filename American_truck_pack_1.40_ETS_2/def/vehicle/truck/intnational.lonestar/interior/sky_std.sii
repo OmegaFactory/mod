@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_interior_data	: sky_std.intnational.lonestar.interior
+{
+	name: "Classic"
+	price: 15180
+	unlock: 0
+	icon: "international_lonestar/int_std"
+
+	model: "/vehicle/truck/intnational_lonestar/interior/model/skyrise.pmd"
+	animated_model: "/vehicle/truck/intnational_lonestar/interior/animation/animation.pmd"
+	collision: "/vehicle/truck/intnational_lonestar/interior/model/skyrise.pmc"
+	look: int_std
+	variant: int_std
+
+	ext_model: "/vehicle/truck/intnational_lonestar/interior/external/external_skyrise.pmd"
+	ext_variant: default
+	ext_look: int_std
+
+	defaults[]: "/def/vehicle/truck/intnational.lonestar/accessory/steering_w/default.sii"
+
+	suitable_for[]: "skyrise.intnational.lonestar.cabin"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+	glass_panes[]: .intlonestar.r.pane.front
+	glass_panes[]: .intlonestar.r.pane.close
+	glass_panes[]: .intlonestar.r.pane.far
+	glass_panes[]: .intlonestar.r.pane.back_sky
+
+@include "seat.sui"
+
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_sky.sui"
+}

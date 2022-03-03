@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : plastic.intnational.lonestar.doorhndl
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "international_lonestar/doorhndl_a"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/doorhndl/doorhandle_pl.pmd"
+}
+}

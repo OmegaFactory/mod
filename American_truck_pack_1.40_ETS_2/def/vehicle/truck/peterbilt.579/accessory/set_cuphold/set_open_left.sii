@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : open_l.peterbilt.579.set_cuphold
+{
+	name: "@@cup_holder_open_left@@"
+	price: 1
+	unlock: 0
+	icon: "cup_holder_open_l"
+
+	interior_model: "/vehicle/truck/upgrade/cup_holder/cup_holder_open_l.pmd"
+	exterior_model: "/vehicle/truck/upgrade/cup_holder/cup_holder_open_l_ext.pmd"
+}
+}

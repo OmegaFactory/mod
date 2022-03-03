@@ -1,0 +1,12 @@
+	name: "Triple Cut"
+	price: 23000
+	unlock: 13
+	base_color: (0.745375, 0.323125, 0.001821)
+	base_color_locked: false
+	icon: "westernstar_49x/ws_arr"
+	mask_b_color: (0.001519, 0.000305, 0.000607)
+	mask_b_locked: false
+	mask_g_color: (0.300544, 0.000305, 0.000305)
+	mask_g_locked: false
+	mask_r_color: (0.806922, 0.806922, 0.806922)
+	mask_r_locked: false

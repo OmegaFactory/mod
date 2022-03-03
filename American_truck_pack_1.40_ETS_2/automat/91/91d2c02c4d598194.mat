@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/f_banner/sign.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/f_banner/sign_n.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.555836 , 0.555836 , 0.555836 }
+	reflection : 0
+	shininess : 20
+	specular : { 0.341176 , 0.341176 , 0.341176 }
+}

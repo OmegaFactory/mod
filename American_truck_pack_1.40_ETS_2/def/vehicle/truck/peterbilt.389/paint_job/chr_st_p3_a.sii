@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : chr_st_p3_a.peterbilt.389.paint_job
+{
+@include "chr_st_p3_settings.sui"
+	suitable_for[]: "duty.peterbilt.389.cabin"
+}
+}

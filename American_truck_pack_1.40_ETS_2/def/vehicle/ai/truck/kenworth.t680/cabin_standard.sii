@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_chassis_data : chassis_c.kenworth.t680.ai
+{
+	name: "Stand Up Sleeper"
+	price: 0
+	unlock: 0
+	model: "/vehicle/truck/kenworth_t680/ai/ai_b.pmd"
+	lods[]: "/vehicle/truck/kenworth_t680/ai/ai_b_lod1.pmd"
+	lods[]: "/vehicle/truck/kenworth_t680/ai/ai_b_lod2.pmd"
+	collision: "/vehicle/truck/kenworth_t680/ai/ai_b.pmc"
+	variant: default
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/kenworth_t680/shadow.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+
+}
+}

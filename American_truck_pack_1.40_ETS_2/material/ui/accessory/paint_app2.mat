@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "paint_app2.tobj"
+	texture_name : "texture"
+}

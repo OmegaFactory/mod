@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : slots4x.westernstar.49x.horns
+{
+	name: "Horn Adapter, 4x"
+	price: 75
+	unlock: 0
+	icon: "horns"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/horns/slots4x.pmd"
+
+	conflict_with[]: "slots.westernstar.49x.cabflares"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

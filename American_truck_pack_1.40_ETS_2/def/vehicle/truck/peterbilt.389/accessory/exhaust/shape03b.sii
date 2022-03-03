@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape03b.peterbilt.389.exhaust
+{
+	name: "Exclusive Exhaust"
+	price: 11540
+	unlock: 0
+	icon: "peterbilt_389/exhaust03"
+	exterior_model: "/vehicle/truck/upgrade/exhaust/peterbilt_389/exhaust03b.pmd"
+	suitable_for[]: "duty.peterbilt.389.cabin"
+}
+}

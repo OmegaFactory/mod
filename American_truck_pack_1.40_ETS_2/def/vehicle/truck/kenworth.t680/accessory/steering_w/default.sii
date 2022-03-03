@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : default.kenworth.t680.steering_w
+{
+	name: "Kenworth Gray"
+	price: 165
+	unlock: 0
+	icon: "kenworth_t680/steering_w_def"
+	interior_model: "/vehicle/truck/upgrade/steering_w/kenworth_t680/default.pmd"
+
+}
+}

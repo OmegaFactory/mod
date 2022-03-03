@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_interior_data	: day_prem_t.mack.anthem.interior
+{
+	name: "Premium Tan"
+	price: 20250
+	unlock: 10
+	icon: "mack_anthem/int_prem_tan"
+
+	model: "/vehicle/truck/mack_anthem/interior/model/dc_premium_tan.pmd"
+	animated_model: "/vehicle/truck/mack_anthem/interior/animation/animation.pmd"
+	collision: "/vehicle/truck/mack_anthem/interior/model/dc_premium_tan.pmc"
+	variant: default
+	look: default
+
+	ext_model: "/vehicle/truck/mack_anthem/interior/external/day_prem_tan.pmd"
+	ext_variant: default
+	ext_look: default
+
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/steering_w/premium.sii"
+
+	suitable_for[]: "day.mack.anthem.cabin"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+	glass_panes[]: .mack.anthem.r.pane.front
+	glass_panes[]: .mack.anthem.r.pane.close
+	glass_panes[]: .mack.anthem.r.pane.far
+	glass_panes[]: .mack.anthem.r.pane.back_day
+	glass_panes[]: .mack.anthem.r.pane.back_b
+
+@include "seat.sui"
+
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_day.sui"
+}

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "var2_ch.tobj"
+	texture_name : "texture"
+}

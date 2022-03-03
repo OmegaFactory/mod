@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : chrome.freightliner.cascadia2019.doorhndl
+{
+	name: "@@elite@@"
+	price: 520
+	unlock: 9
+	icon: "truck/freightliner_cascadia2019/accessory/doorhndl/chrome"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/doorhndl/chrome.pmd"
+}
+}

@@ -1,0 +1,35 @@
+SiiNunit
+{
+accessory_addon_data : pnt_log_sb.westernstar.49x.bumper
+{
+	name: "Painted Logger"
+	price: 2540
+	unlock: 11
+	icon: "truck/westernstar_49x/accessory/bumper/sb_logger_p"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/bumper/sb_logger_p.pmd"
+	look: Default
+
+	suitable_for[]: "6x4s_75sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4s_100sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2s_75sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2s_100sb.westernstar.49x.chassis"
+
+	suitable_for[]: "6x4m_125sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4m_100sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2m_125sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2m_100sb.westernstar.49x.chassis"
+
+	suitable_for[]: "6x4l_125sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4l_150sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2l_125sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2l_150sb.westernstar.49x.chassis"
+
+	suitable_for[]: "8x4s_75sb.westernstar.49x.chassis"
+	suitable_for[]: "8x6s_100sb.westernstar.49x.chassis"
+	suitable_for[]: "8x4m_100sb.westernstar.49x.chassis"
+	suitable_for[]: "8x6m_125sb.westernstar.49x.chassis"
+	suitable_for[]: "8x4l_125sb.westernstar.49x.chassis"
+	suitable_for[]: "8x6l_150sb.westernstar.49x.chassis"
+}
+}

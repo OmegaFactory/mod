@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : paint05_ab.kenworth.t680.paint_job
+{
+	name: "Stars and Stripes"
+	price: 25000
+	unlock: 15
+	icon: "kenworth_t680/paint_stars"
+	airbrush: true
+	base_color: (0.027, 0.082, 0.278)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_05_ab.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "standard.kenworth.t680.cabin"
+	suitable_for[]: "duty.kenworth.t680.cabin"
+}
+}

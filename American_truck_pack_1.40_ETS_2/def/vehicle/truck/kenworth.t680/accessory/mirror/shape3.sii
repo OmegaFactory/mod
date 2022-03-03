@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape3.kenworth.t680.mirror
+{
+	name: "@@exclusive@@"
+	price: 440
+	unlock: 7
+	icon: "kenworth_t680/mirrors_02"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/kenworth_t680/mirror_02.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/kenworth_t680/mirror_02_interior.pmd"
+}
+}

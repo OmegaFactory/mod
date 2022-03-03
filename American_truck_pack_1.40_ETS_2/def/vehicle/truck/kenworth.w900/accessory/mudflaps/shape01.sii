@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.w900.mudflaps
+{
+	name: "Standard Mudflaps"
+	price: 50
+	unlock: 0
+	icon: "kenworth_w900/mudflaps_01"
+	exterior_model: "/vehicle/truck/upgrade/mudflaps/kenworth_w900/mudflaps01.pmd"
+
+	suitable_for[]: "long1.kenworth.w900.chassis"
+	suitable_for[]: "long1_6x2.kenworth.w900.chassis"
+	suitable_for[]: "long1_6x2_m.kenworth.w900.chassis"
+	suitable_for[]: "long2.kenworth.w900.chassis"
+	suitable_for[]: "long2_6x2.kenworth.w900.chassis"
+	suitable_for[]: "long2_6x2_m.kenworth.w900.chassis"
+}
+}

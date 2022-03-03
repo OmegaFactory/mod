@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : oversize_02.mack.anthem.f_banner
+{
+	name: "@@oversize_load@@"
+	price: 50
+	unlock: 0
+	icon: "sign_os/sign_os"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/f_banner/f_banner_0_2_1.pmd"
+
+	suitable_for[]: "chrome_big.mack.anthem.bumper"
+}
+}

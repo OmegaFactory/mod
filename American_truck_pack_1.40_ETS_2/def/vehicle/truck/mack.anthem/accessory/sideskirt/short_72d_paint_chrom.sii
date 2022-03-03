@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : shr72d_pc.mack.anthem.sideskirt
+{
+	name: "@@paint_chrom@@, @@d_shape@@"
+	price: 2910
+	unlock: 3
+	icon: "mack_anthem/sdskrt_cvrd_chrm_dtnk"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_3_2_2.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_3_2_2.pmc"
+
+	suitable_for[]: "6x4s_72.mack.anthem.chassis"
+	suitable_for[]: "6x2s_72.mack.anthem.chassis"
+	suitable_for[]: "4x2s_72.mack.anthem.chassis"
+}
+}

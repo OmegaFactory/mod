@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_engine_data : mp7_345.mack.anthem.engine
+{
+	name: "Mack MP7 345C"
+	price: 37650
+	unlock: 0
+	info[]: "345 @@hp@@ (257@@kw@@)"
+	info[]: "1@@dg@@360 @@lb_ft@@ (1845@@nm@@)"
+	info[]: "1@@dg@@000 @@rpm@@"
+
+	icon: "engine_mack_mp7"
+
+	torque: 1845
+	volume: 10.8	# 659 cu in
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1000, 1)
+	torque_curve[]: (1300, 1)
+	torque_curve[]: (1950, 0.63)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 650
+	rpm_limit: 2000
+	rpm_limit_neutral: 1400
+	rpm_range_low_gear: (800, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1300, 1800)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+
+// Mack MP7 345 MaxiCruise
+// https://www.macktrucks.com/powertrain-and-suspensions/engines/mp7/
+
+}
+}

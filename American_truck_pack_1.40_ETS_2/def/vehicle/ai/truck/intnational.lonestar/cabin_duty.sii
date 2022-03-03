@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_chassis_data : chassis_a.intnational.lonestar.ai
+{
+
+	model: "/vehicle/truck/intnational_lonestar/ai/ai_a.pmd"
+	lods[]: "/vehicle/truck/intnational_lonestar/ai/ai_a_lod1.pmd"
+	lods[]: "/vehicle/truck/intnational_lonestar/ai/ai_a_lod2.pmd"
+	collision: "/vehicle/truck/intnational_lonestar/ai/ai_a.pmc"
+	variant: Default
+	look: Default
+
+	extended_shadow_texture: "/vehicle/truck/intnational_lonestar/ui_shadow_s.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+
+}
+}

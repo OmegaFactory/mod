@@ -1,0 +1,25 @@
+SiiNunit
+{
+accessory_chassis_data : .chassis
+{
+	model: "/vehicle/trailer/truck_transporter/trailer2.pmd"
+	#lods[]: "/vehicle/trailer/truck_transporter/lod_01.pmd"
+	collision: "/vehicle/trailer/truck_transporter/trailer2.pmc"
+	variant: mid
+	look: default
+
+	#trailer_brace_model: "/vehicle/trailer/truck_transporter/trailer_brace.pmd"
+	#trailer_brace_anim: "/vehicle/trailer/truck_transporter/trailer_brace.pma"
+
+	extended_shadow_texture: "/vehicle/trailer/truck_transporter/trailer2_shadow.tobj"
+	extended_shadow_intensity: 1.45
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+
+	ui_shadow: "/vehicle/trailer/truck_transporter/trailer2_shadow.pmd"
+
+	trailer_mass: 50.0	# saddle-mount
+
+	residual_travel[]: 0.12
+}
+}

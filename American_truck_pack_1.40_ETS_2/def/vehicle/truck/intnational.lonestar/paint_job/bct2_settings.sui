@@ -1,0 +1,6 @@
+	name: "Night Cityscape"
+	price: 27000
+	unlock: 23
+	airbrush: true
+	base_color: (0.000000, 0.009724, 0.030718)
+	icon: "international_lonestar/pnt_bct2"

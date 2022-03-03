@@ -1,0 +1,25 @@
+	name: "Eagle Patriot"
+	price: 27000
+	unlock: 17
+	airbrush: true
+	base_color: (0.070367, 0.000000, 0.000000)
+	base_color_locked: false
+	color_variant[]: (0.266356, 0.337164, 0.450786)
+	color_variant[]: (0.025187, 0.015212, 0.008570)
+	color_variant[]: (0.332433, 0.590593, 0.723055)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.846873, 0.417885, 0.000000)
+	color_variant[]: (0.052867, 0.022178, 0.004391)
+	color_variant[]: (0.991068, 0.571125, 0.000000)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.991068, 0.000000, 0.000000)
+	flake_color_locked: false
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.012289, 0.005607, 0.005607)
+	flip_color_locked: false
+	flip_strength: 0.930000
+	flipflake: true
+	icon: "freightliner_cascadia2019/fci_usa"

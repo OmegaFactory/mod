@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "color_custom_metallic_icon.tobj"
+	texture_name : "texture"
+}

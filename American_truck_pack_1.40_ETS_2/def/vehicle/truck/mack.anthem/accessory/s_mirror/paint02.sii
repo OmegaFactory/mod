@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : paint02.mack.anthem.s_mirror
+{
+	name: "@@paint@@"
+	price: 210
+	unlock: 6
+	icon: "mack_anthem/s_mrror_pntdblck"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/s_mirror/s_mirror_0_1_4.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/s_mirror/s_mirror_0_1_1_int.pmd"
+}
+}

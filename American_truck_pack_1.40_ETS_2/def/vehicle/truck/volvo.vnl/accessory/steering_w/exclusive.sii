@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : exclusive.volvo.vnl.steering_w
+{
+	name: "Volvo exclusive"
+	price: 360
+	unlock: 10
+	icon: "volvo_vnl/steering_w02"
+	interior_model: "/vehicle/truck/upgrade/steering_w/volvo_vnl/exclusive.pmd"
+
+}
+}

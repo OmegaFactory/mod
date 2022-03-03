@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "fci_usa.tobj"
+	texture_name : "texture"
+}

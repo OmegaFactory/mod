@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : btrorgb_c.intnational.lonestar.paint_job
+{
+@include "btrorgb_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/intnational_lonestar/btrorgb/pjm_at_0x2048_size_2048x2048.tobj"
+	suitable_for[]: "skyrise.intnational.lonestar.cabin"
+}
+}

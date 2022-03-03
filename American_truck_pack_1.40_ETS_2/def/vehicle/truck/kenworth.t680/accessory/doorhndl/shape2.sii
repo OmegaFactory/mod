@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape02.kenworth.t680.doorhndl
+{
+	name: "Door Handle Trim"
+	price: 210
+	unlock: 2
+	icon: "kenworth_t680/doorhndl_02"
+	exterior_model: "/vehicle/truck/upgrade/doorhandlers/kenworth_t680/doorhndl02.pmd"
+}
+
+}

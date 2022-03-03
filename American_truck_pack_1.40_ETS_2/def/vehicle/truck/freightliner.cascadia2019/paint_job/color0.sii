@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_paint_job_data : color0.freightliner.cascadia2019.paint_job
+{
+    # This is mandatory fallback paintjob. Defined as white color,
+    # with base color unlocked so it can be used in company trucks.
+
+    name: "@@custom_color@@"
+    price: 4500
+    unlock: 0
+    icon: "color_custom_icon"
+
+    base_color: (1.0, 1.0, 1.0)
+    base_color_locked: false
+    stock: false
+}
+}

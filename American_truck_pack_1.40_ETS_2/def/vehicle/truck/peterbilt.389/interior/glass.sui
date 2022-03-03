@@ -1,0 +1,71 @@
+glass_pane_data : .peterbilt389.r.pane.frontl
+{
+	locator: frnt_glass_0
+	size: (0.85, 0.55)
+	edge_angle: 0
+	wipers[]: .peterbilt389.r.pane.wiper1
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+glass_pane_data : .peterbilt389.r.pane.frontr
+{
+	locator: frnt_glass_1
+	size: (0.85, 0.55)
+	edge_angle: 0
+	
+	wipers[]: .peterbilt389.r.pane.wiper2
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+wiper_data : .peterbilt389.r.pane.wiper1
+{
+	center_bone: wiper_l_tip
+	length: 0.4
+}
+
+wiper_data : .peterbilt389.r.pane.wiper2
+{
+	center_bone: wiper_r_tip
+	length: 0.4
+}
+
+glass_pane_data : .peterbilt389.r.pane.close
+{
+	locator: l_glasspane
+	size: (0.74, 0.48)
+
+	openable_window_bone: win_open_l
+	openable_window_mask: "/vehicle/truck/peterbilt_389/interior/win_mask_l.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+glass_pane_data : .peterbilt389.r.pane.far
+{
+	locator: r_glasspane
+	size: (0.74, 0.48)
+
+	openable_window_bone: win_open_r
+	openable_window_mask: "/vehicle/truck/peterbilt_389/interior/win_mask_r.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+glass_pane_data : .peterbilt389.r.pane.door
+{
+	locator: door_glass
+	size: (0.25, 0.5)
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+
+
+

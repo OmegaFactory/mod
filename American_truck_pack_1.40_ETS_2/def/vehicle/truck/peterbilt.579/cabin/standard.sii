@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_cabin_data : standard.peterbilt.579.cabin
+{
+	name: "Stand Up Sleeper"
+	price: 27590
+	unlock: 10
+	icon: "peterbilt_579/cab_std"
+
+	model: "/vehicle/truck/peterbilt_579/truck.pmd"
+	collision: "/vehicle/truck/peterbilt_579/truck.pmc"
+	variant: cab_b
+	look: default
+
+	windows_model: "/vehicle/truck/peterbilt_579/win_open.pmd"
+	left_window_anim: "/vehicle/truck/peterbilt_579/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/peterbilt_579/win_open_r.pma"
+
+	wiper_model: "/vehicle/truck/peterbilt_579/wipers.pmd"
+	wiper_anim: "/vehicle/truck/peterbilt_579/wipers.pma"
+	suspension: false
+
+	defaults[]: "/def/vehicle/truck/peterbilt.579/chassis/long_6x2.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.579/interior/standard.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.579/paint_job/color2.sii"
+
+	conflict_with[]: "short.peterbilt.579.chassis"
+	conflict_with[]: "short_6x2.peterbilt.579.chassis"
+	conflict_with[]: "short_6x2_m.peterbilt.579.chassis"
+	conflict_with[]: "short_4x2.peterbilt.579.chassis"
+	conflict_with[]: "short2.peterbilt.579.chassis"
+	conflict_with[]: "short2_6x2.peterbilt.579.chassis"
+	conflict_with[]: "short2_6x2_m.peterbilt.579.chassis"
+	conflict_with[]: "short2_4x2.peterbilt.579.chassis"
+
+@include "sound.sui"
+}
+}

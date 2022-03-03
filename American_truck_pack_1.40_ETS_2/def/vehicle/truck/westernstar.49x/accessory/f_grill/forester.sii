@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_addon_data : forester.westernstar.49x.f_grill
+{
+	name: "Forester"
+	price: 4080
+	unlock: 13
+	icon: "truck/westernstar_49x/accessory/f_grill/forester"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/f_grill/forester.pmd"
+
+	suitable_for[]: "for_log.westernstar.49x.bumper"
+	suitable_for[]: "pnt_log.westernstar.49x.bumper"
+	suitable_for[]: "stck_log.westernstar.49x.bumper"
+	suitable_for[]: "for_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "for2_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "pnt_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "pnt2_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "stck_log_sb.westernstar.49x.bumper"
+	suitable_for[]: "stck2_log_sb.westernstar.49x.bumper"
+}
+}

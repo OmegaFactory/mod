@@ -1,0 +1,45 @@
+traffic_vehicle : traffic.kw_w900_c
+{
+	accessories[]: .kw_w900_c.chassis
+	accessories[]: .kw_w900_c.fwheel
+	accessories[]: .kw_w900_c.rwheel
+	accessories[]: .kw_w900_c.rwheel2
+	accessories[]: .kw_w900_c.trlr_cables
+
+	max_speed: 128
+	trailer_chains[]: "truck_semi"
+
+	sound_move[]: "/sound/traffic/truck_us_2.soundref"
+	sound_horn[]: "/sound/traffic/truck_horn_3.soundref"
+
+	vehicle_mass: 9200
+	engine_power: 373
+
+	lod_dist[]: 53
+	lod_dist[]: 70
+
+	color[]: (0.009721, 0.046665, 0.174647)
+	color[]: (0.180000, 0.003000, 0.003000)
+	color[]: (0.600000, 0.600000, 0.600000)
+	color[]: (0.003347, 0.003347, 0.003347)
+	color[]: (0.057805, 0.004025, 0.004025)
+	color[]: (0.258183, 0.258183, 0.258183)
+	color[]: (0.527115, 0.266356, 0.038204)
+}
+
+vehicle_accessory : .kw_w900_c.chassis {
+	data_path: "/def/vehicle/ai/truck/kenworth.w900/cabin_exclusive.sii"
+}
+vehicle_wheel_accessory : .kw_w900_c.fwheel {
+	data_path: "/def/vehicle/f_wheel/chrome.sii"
+}
+vehicle_wheel_accessory : .kw_w900_c.rwheel {
+	data_path: "/def/vehicle/r_wheel/chrome.sii"
+}
+vehicle_wheel_accessory : .kw_w900_c.rwheel2 {
+	data_path: "/def/vehicle/r_wheel/chrome.sii"
+	offset: 2
+}
+vehicle_addon_accessory : .kw_w900_c.trlr_cables {
+	data_path: "/def/vehicle/ai/truck/kenworth.w900/accessory/trlr_cables/stock.sii"
+}

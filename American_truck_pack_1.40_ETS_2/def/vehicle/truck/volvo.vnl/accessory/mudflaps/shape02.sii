@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.mudflaps
+{
+	name: "Advanced Mudflaps"
+	price: 150
+	unlock: 5
+	icon: "volvo_vnl/mudflaps02"
+	exterior_model: "/vehicle/truck/upgrade/mudflaps/volvo_vnl/mudflaps02.pmd"
+}
+}

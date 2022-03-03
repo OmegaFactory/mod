@@ -1,0 +1,31 @@
+SiiNunit
+{
+accessory_transmission_data : heavy.scania.t4.transmission
+{
+	name: "allison_heavy"
+	price: 12000
+	unlock: 15
+	icon: "transmission_generic"
+
+	# Torque Converter: 2.42, 2.34, 1.9, 1.79, 1.58
+	stall_torque_ratio: 2.42
+
+	# Differential Ratio: 2.64, 2.85, 2.93, 3.08, 3.25, 3.36, 3.40?, 3.42, 3.55, 3.58(single) 3.70, 3.73?, 3.78, 3.91, 4.10
+	differential_ratio: 3.91
+
+	ratios_reverse[0]: -4.00
+
+	ratios_forward[0]: 4.00
+	ratios_forward[1]: 2.7
+	ratios_forward[2]: 1.89
+	ratios_forward[3]: 1.37
+	ratios_forward[4]: 1.03
+	ratios_forward[5]: 0.79
+	ratios_forward[6]: 0.63
+	ratios_forward[7]: 0.52
+
+	retarder: 3
+	
+@include "sound.sui"
+}
+}

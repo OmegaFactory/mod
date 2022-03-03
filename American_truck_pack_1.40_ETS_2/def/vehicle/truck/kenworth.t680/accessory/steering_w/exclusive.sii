@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : exclusive.kenworth.t680.steering_w
+{
+	name: "Kenworth Exclusive"
+	price: 360
+	unlock: 10
+	icon: "kenworth_t680/steering_w_excl"
+	interior_model: "/vehicle/truck/upgrade/steering_w/kenworth_t680/exclusive.pmd"
+
+}
+}

@@ -1,0 +1,15 @@
+# Common red flag physical data.
+
+physics_patch_data : .red_flag
+{
+	material: "/vehicle/truck/upgrade/flag/red.mat"
+	area_density: 0.1
+	linear_stiffness: 0.9
+	drag_coefficient: 3.0
+	lift_coefficient: 5.0
+	aero_model_type: "AT_two_side_lift_drag"
+	x_res: 6
+	y_res: 6
+	x_size: 0.45
+	y_size: 0.45
+}

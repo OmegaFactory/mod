@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "paint_city.tobj"
+	texture_name : "texture"
+}

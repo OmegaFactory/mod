@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_chassis_data : 6x2s_160.freightliner.cascadia2019.chassis
+{
+	name: "Short 6x2 160@@gal@@"
+	price: 21350
+	unlock: 5
+	info[]: "6x2"
+	info[]: "80/80 @@gal@@"
+	icon: "truck/freightliner_cascadia2019/chassis/dc_6x2"
+
+	model: "/vehicle/truck/freightliner_cascadia2019/chassis/dc_6x2.pmd"
+	collision: "/vehicle/truck/freightliner_cascadia2019/chassis/dc_6x2.pmc"
+	variant: default
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/freightliner_cascadia2019/ui_shadow_s.tobj"
+	extended_shadow_intensity: 1
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/freightliner_cascadia2019/ui_shadow/ui_shadow_s.pmd"
+
+	tank_size: 606
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: false
+	powered_axle[]: true
+
+	kerb_weight[]: 4082	# 9000 lb
+	kerb_weight[]: 1216	# 2680 lb
+	kerb_weight[]: 1615	# 3560 lb
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/cabin/day.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/mudflaps/standard.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideskirt/short_160_uncover_alu.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/trlr_cables/stock.sii"
+
+	conflict_with[]: "s48.freightliner.cascadia2019.cabin"
+	conflict_with[]: "s72_rr.freightliner.cascadia2019.cabin"
+	conflict_with[]: "s72_xt.freightliner.cascadia2019.cabin"
+
+@include "sound.sui"
+}
+}

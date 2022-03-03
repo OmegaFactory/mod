@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shr100_al.westernstar.49x.sideskirt
+{
+	name: "@@alu@@"
+	price: 3640
+	unlock: 5
+	icon: "truck/westernstar_49x/accessory/sideskirt/alu100day"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/sideskirt/alu100day.pmd"
+
+	suitable_for[]: "6x2s_100.westernstar.49x.chassis"
+	suitable_for[]: "6x4s_100.westernstar.49x.chassis"
+	suitable_for[]: "8x6s_100.westernstar.49x.chassis"
+}
+}

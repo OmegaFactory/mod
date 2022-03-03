@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	texture[0] : "/vehicle/truck/volvo_vnl/interior/aluminium.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/interior_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.401978 , 0.401978 , 0.401978 }
+	env_factor : { 0.250545 , 0.250545 , 0.250545 }
+	reflection : 0
+	shininess : 95
+	specular : { 0.710962 , 0.710962 , 0.710962 }
+}

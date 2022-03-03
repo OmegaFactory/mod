@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : paint08_b.peterbilt.389.paint_job
+{
+	name: "Cougar"
+	price: 29000
+	unlock: 19
+	icon: "peterbilt_389/paint_cougar"
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/paintjob_08_b.tobj"
+	stock: false
+	alternate_uvset: false
+
+	suitable_for[]: "standard.peterbilt.389.cabin"
+
+}
+}

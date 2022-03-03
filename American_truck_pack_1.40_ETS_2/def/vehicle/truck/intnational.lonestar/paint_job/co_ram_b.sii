@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : co_ram_b.intnational.lonestar.paint_job
+{
+@include "co_ram_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/intnational_lonestar/co_ram/pjm_at_0x4096_size_2048x2048.tobj"
+	suitable_for[]: "hirise.intnational.lonestar.cabin"
+}
+}

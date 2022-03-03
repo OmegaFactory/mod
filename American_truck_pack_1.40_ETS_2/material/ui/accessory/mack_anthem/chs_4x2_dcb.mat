@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "chs_4x2_dcb.tobj"
+	texture_name : "texture"
+}

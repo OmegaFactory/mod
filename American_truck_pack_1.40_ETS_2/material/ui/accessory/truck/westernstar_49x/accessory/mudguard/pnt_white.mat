@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "pnt_white.tobj"
+	texture_name : "texture"
+}

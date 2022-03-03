@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_interior_data	: s70_prem_e.mack.anthem.interior
+{
+	name: "Premium Exclusive"
+	price: 22960
+	unlock: 10
+	icon: "mack_anthem/int_prem_e"
+
+	model: "/vehicle/truck/mack_anthem/interior/model/sl70_premium_extras.pmd"
+	animated_model: "/vehicle/truck/mack_anthem/interior/animation/animation.pmd"
+	collision: "/vehicle/truck/mack_anthem/interior/model/sl70_premium_extras.pmc"
+	variant: default
+	look: default
+
+	ext_model: "/vehicle/truck/mack_anthem/interior/external/s70_prem_e.pmd"
+	ext_variant: default
+	ext_look: default
+
+	defaults[]: "/def/vehicle/truck/mack.anthem/accessory/steering_w/premium.sii"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+	glass_panes[]: .mack.anthem.r.pane.front
+	glass_panes[]: .mack.anthem.r.pane.close
+	glass_panes[]: .mack.anthem.r.pane.far
+	glass_panes[]: .mack.anthem.r.pane.back_70
+	glass_panes[]: .mack.anthem.r.pane.back_b
+
+@include "seat.sui"
+
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_70.sui"
+}

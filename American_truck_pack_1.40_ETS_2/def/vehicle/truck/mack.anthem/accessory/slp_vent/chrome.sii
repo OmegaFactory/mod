@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : chrome.mack.anthem.slp_vent
+{
+	name: "@@chrom@@"
+	price: 520
+	unlock: 9
+	icon: "mack_anthem/slp_vnt_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/slp_vent/slp_vent_2_1_1.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

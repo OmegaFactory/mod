@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 5.frim
+{
+	name: "Dynamic"
+	price: 1100
+	unlock: 21
+	icon: "wf_5"
+	model: "/vehicle/truck/upgrade/wheel/rim/front_5.pmd"
+
+	tire_shift: -0.02
+}
+}

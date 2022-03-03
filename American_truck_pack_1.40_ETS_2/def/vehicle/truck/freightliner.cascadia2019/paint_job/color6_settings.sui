@@ -1,0 +1,13 @@
+	name: "Viper Blue"
+	price: 3900
+	unlock: 0
+	base_color: (0.004777, 0.068478, 0.381326)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.009721, 0.391573, 0.964687)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.001214, 0.008023, 0.127438)
+	flip_strength: 0.930000
+	flipflake: true
+	stock: true

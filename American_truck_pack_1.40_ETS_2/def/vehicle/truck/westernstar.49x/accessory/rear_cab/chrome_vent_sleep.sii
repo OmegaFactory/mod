@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : ch_vent_slp.westernstar.49x.rear_cab
+{
+	name: "Chrome Vent"
+	price: 420
+	unlock: 9
+	icon: "truck/westernstar_49x/accessory/rear_cab/chrmc_23"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/rear_cab/chrmc_23.pmd"
+
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s48sb.westernstar.49x.cabin"
+	suitable_for[]: "s72.westernstar.49x.cabin"
+	suitable_for[]: "s72sb.westernstar.49x.cabin"
+}
+}

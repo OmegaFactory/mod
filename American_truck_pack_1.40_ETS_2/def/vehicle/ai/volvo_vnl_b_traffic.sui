@@ -1,0 +1,37 @@
+traffic_vehicle : traffic.volvo_vnl_b
+{
+	accessories[]: .volvo_vnl_b.chassis
+	accessories[]: .volvo_vnl_b.fwheel
+	accessories[]: .volvo_vnl_b.rwheel
+	accessories[]: .volvo_vnl_b.rwheel2
+	accessories[]: .volvo_vnl_b.trlr_cables
+
+	max_speed: 120
+	trailer_chains[]: "truck_semi"
+
+	sound_move[]: "/sound/traffic/truck_us_1.soundref"
+	sound_horn[]: "/sound/traffic/truck_horn_3.soundref"
+
+	vehicle_mass: 9200
+	engine_power: 336
+
+	lod_dist[]: 70
+	lod_dist[]: 100
+}
+
+vehicle_accessory : .volvo_vnl_b.chassis {
+	data_path: "/def/vehicle/ai/truck/volvo.vnl/cabin_standard.sii"
+}
+vehicle_wheel_accessory : .volvo_vnl_b.fwheel {
+	data_path: "/def/vehicle/f_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .volvo_vnl_b.rwheel {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .volvo_vnl_b.rwheel2 {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+	offset: 2
+}
+vehicle_addon_accessory : .volvo_vnl_b.trlr_cables {
+	data_path: "/def/vehicle/ai/truck/volvo.vnl/accessory/trlr_cables/stock.sii"
+}

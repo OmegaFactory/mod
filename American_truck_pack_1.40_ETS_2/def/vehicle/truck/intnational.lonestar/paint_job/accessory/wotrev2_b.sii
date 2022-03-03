@@ -1,0 +1,10 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/intnational_lonestar/wotrev2/shared_000000ff.tobj"
+	acc_list[]: "bumper.sensor"
+	acc_list[]: "bumper.standard"
+	acc_list[]: "sunshield.standard"
+}
+}

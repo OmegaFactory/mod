@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "undrfrm.tobj"
+	texture_name : "texture"
+}

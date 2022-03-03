@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape05a.peterbilt.389.sideskirt
+{
+	name: "Exclusive Sideskirts"
+	price: 4920
+	unlock: 8
+	icon: "peterbilt_389/sideskirt05_a"
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/peterbilt_389/sideskirt05_a.pmd"
+
+	suitable_for[]: "duty.peterbilt.389.cabin"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape03.peterbilt.579.sunshield
+{
+	name: "Exclusive Chrome Sunshield"
+	price: 920
+	unlock: 13
+	icon: "peterbilt_579/sunshield_03"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_579/sunshield03.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/peterbilt_579/sunshield03.pmd"
+	conflict_with[]: "shape01.peterbilt.579.cabflares"
+}
+}

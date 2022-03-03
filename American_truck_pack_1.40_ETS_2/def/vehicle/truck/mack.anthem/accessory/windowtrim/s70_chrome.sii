@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s70_chrome.mack.anthem.windowtrim
+{
+	name: "@@chrom@@"
+	price: 520
+	unlock: 9
+	icon: "mack_anthem/wndwtrm_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/windowtrim/windowtrim_1_1_1.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

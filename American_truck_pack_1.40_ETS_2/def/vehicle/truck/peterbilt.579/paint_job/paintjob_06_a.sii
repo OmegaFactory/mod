@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : paint06_a.peterbilt.579.paint_job
+{
+	name: "Hot Ride"
+	price: 25000
+	unlock: 15
+	icon: "peterbilt_579/paint_hot"
+	mask_r_color: (0.8549, 0.2746, 0)
+	mask_r_locked: false
+	mask_g_color: (0.3967, 0.0065, 0.0065)
+	mask_g_locked: false
+	mask_b_color: (0.0006, 0.0033, 0.1529)
+	mask_b_locked: false
+	base_color: (0.0091, 0.0085, 0.0085)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/paintjob_06_a.tobj"
+	stock: false
+
+	suitable_for[]: "duty.peterbilt.579.cabin"
+}
+}

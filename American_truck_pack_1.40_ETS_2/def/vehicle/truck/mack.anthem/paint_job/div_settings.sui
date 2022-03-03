@@ -1,0 +1,12 @@
+	name: "Divided"
+	price: 19000
+	unlock: 9
+	base_color: (0.258190, 0.258190, 0.258190)
+	base_color_locked: false
+	icon: "mack_anthem/paint_div"
+	mask_b_color: (0.076183, 0.076183, 0.076183)
+	mask_b_locked: false
+	mask_g_color: (0.018503, 0.018503, 0.018503)
+	mask_g_locked: false
+	mask_r_color: (0.258190, 0.258190, 0.258190)
+	mask_r_locked: false

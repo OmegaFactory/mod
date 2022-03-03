@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : premium.mack.anthem.steering_w
+{
+	name: "Mack Premium"
+	price: 360
+	unlock: 0
+	icon: "mack_anthem/swheell_prem"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/steering_w/premium.pmd"
+}
+}

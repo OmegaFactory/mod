@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : s48.freightliner.cascadia2019.beacon
+{
+	name: "Double Radiant"
+	price: 600
+	unlock: 5
+	icon: "beacon/beacon"
+
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon_fc_sl72xt.pmd"
+
+	suitable_for[]: "s48.freightliner.cascadia2019.cabin"
+
+	conflict_with[]: "s48_aero.freightliner.cascadia2019.cabdefl"
+}
+}

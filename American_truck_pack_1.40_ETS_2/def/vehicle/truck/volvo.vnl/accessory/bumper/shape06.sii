@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape06.volvo.vnl.bumper
+{
+	name: "Chromed III"
+	price: 3210
+	unlock: 17
+	icon: "volvo_vnl/bumper06"
+	exterior_model: "/vehicle/truck/upgrade/bumper/volvo_vnl/bumper22.pmd"
+}
+}

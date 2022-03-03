@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color10.volvo.vnl.paint_job
+{
+	name: "P3285 Violet"
+	price: 2800
+	unlock: 0
+	base_color: (0.0722, 0.0179, 0.0483)
+	base_color_locked: true
+	stock: true
+}
+}

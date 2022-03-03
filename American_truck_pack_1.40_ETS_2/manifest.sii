@@ -1,0 +1,13 @@
+SiiNunit 
+{ 
+mod_package : .package_name
+{
+package_version: "1.40.x"
+display_name: "American truck pack 1.40 ETS 2"
+author: "SCS,Provinat"
+category[]:	"truck"
+icon: "mod_image.jpg"
+description_file: "mod_description.txt"
+
+}
+}

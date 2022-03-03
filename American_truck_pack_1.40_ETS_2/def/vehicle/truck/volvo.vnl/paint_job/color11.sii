@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color11.volvo.vnl.paint_job
+{
+	name: "L6411 Autumn Red"
+	price: 2900
+	unlock: 0
+	base_color: (0.1881, 0.01, 0.0155)
+	base_color_locked: true
+	stock: true
+}
+}

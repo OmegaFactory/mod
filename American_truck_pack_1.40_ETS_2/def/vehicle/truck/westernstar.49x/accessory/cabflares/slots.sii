@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : slots.westernstar.49x.cabflares
+{
+	name: "Light Adapter"
+	price: 50
+	unlock: 0
+	icon: "lights"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/cabflares/slots.pmd"
+
+	conflict_with[]: "slots4x.westernstar.49x.horns"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

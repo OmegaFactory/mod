@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s48_exc_ch.mack.anthem.s_deflector
+{
+	name: "Exclusive Side Fairings Chrome"
+	price: 2120
+	unlock: 16
+	icon: "mack_anthem/s_defl_s48_chrmextndr"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/s_deflector/s_deflector_2_1_3.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/s_deflector/s_deflector_2_1_3.pmc"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

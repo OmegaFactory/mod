@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s72_rr_ax.freightliner.cascadia2019.cabdefl
+{
+	name: "@@aerox@@"
+	price: 2540
+	unlock: 13
+	icon: "truck/freightliner_cascadia2019/accessory/cabdefl/sl72_rr_aerox"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/cabdefl/sl72_rr_aerox.pmd"
+	coll: "/vehicle/truck/freightliner_cascadia2019/accessory/cabdefl/sl72_rr_aerox.pmc"
+
+	suitable_for[]: "s72_rr.freightliner.cascadia2019.cabin"
+}
+}

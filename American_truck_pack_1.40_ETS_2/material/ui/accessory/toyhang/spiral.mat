@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "spiral.tobj"
+	texture_name : "texture"
+}

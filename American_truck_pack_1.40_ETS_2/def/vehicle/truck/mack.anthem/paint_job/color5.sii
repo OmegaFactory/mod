@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color5.mack.anthem.paint_job
+{
+	name: "Cobalt Blue"
+	price: 2900
+	unlock: 0
+	icon: "mack_anthem/metalic_5"
+
+	flipflake: true
+	flip_color: (0, 0, 0.0331)
+	flip_strength: 0.93
+	flake_color: (0.5225, 0.5526, 1)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.0002, 0, 0.4145)
+	stock: false
+}
+}

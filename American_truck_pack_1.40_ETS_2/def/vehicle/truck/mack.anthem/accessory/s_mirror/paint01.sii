@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : paint01.mack.anthem.s_mirror
+{
+	name: "@@paint_chrom@@"
+	price: 275
+	unlock: 8
+	icon: "mack_anthem/s_mrror_pntdchrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/s_mirror/s_mirror_0_1_3.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/s_mirror/s_mirror_0_1_1_int.pmd"
+}
+}

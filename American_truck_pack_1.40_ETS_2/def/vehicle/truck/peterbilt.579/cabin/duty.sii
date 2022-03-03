@@ -1,0 +1,36 @@
+SiiNunit
+{
+accessory_cabin_data : duty.peterbilt.579.cabin
+{
+	name: "Duty Cabin"
+	price: 16600
+	unlock: 0
+	icon: "peterbilt_579/cab_duty"
+
+	model: "/vehicle/truck/peterbilt_579/truck.pmd"
+	collision: "/vehicle/truck/peterbilt_579/truck.pmc"
+	variant: cab_a
+	look: default
+
+	windows_model: "/vehicle/truck/peterbilt_579/win_open.pmd"
+	left_window_anim: "/vehicle/truck/peterbilt_579/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/peterbilt_579/win_open_r.pma"
+
+	wiper_model: "/vehicle/truck/peterbilt_579/wipers.pmd"
+	wiper_anim: "/vehicle/truck/peterbilt_579/wipers.pma"
+	suspension: false
+
+	defaults[]: "/def/vehicle/truck/peterbilt.579/chassis/short_6x2.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.579/interior/standard_short.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.579/paint_job/color2.sii"
+
+	conflict_with[]: "long.peterbilt.579.chassis"
+	conflict_with[]: "long_6x2.peterbilt.579.chassis"
+	conflict_with[]: "long_6x2_m.peterbilt.579.chassis"
+	conflict_with[]: "long2.peterbilt.579.chassis"
+	conflict_with[]: "long2_6x2.peterbilt.579.chassis"
+	conflict_with[]: "long2_6x2_m.peterbilt.579.chassis"
+
+@include "sound.sui"
+}
+}

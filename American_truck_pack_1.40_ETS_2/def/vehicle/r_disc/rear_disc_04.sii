@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 04.double.rdisc
+{
+	name: "Seagul"
+	price: 1210
+	unlock: 6
+	model: "/vehicle/truck/upgrade/wheel/disc/rear_disc_04.pmd"
+	icon: "disc/rear_disc_04"
+
+	defaults[]: "/def/vehicle/r_tire/1.sii"
+}
+}

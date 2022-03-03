@@ -1,0 +1,16 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "brand_volvo_vnl"		
+	val[]: "Volvo"
+
+	key[]: "series_volvo_vnl"
+	val[]: "VNL"
+
+	key[]: "truck_browser_brand_volvo_vnl"
+	val[]: "Volvo VNL"
+
+}
+}

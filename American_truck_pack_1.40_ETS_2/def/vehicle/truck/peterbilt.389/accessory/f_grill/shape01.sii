@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : shape01.peterbilt.389.f_grill
+{
+	name: "Bull Bar"
+	price: 3310
+	unlock: 5
+	icon: "peterbilt_389/frontgrill01"
+
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/peterbilt_389/frontgrill01.pmd"
+	interior_model: "/vehicle/truck/upgrade/frontgrill/peterbilt_389/frontgrill01_int.pmd"
+	coll: "/vehicle/truck/upgrade/frontgrill/peterbilt_389/frontgrill01.pmc"
+
+	suitable_for[]: "shape01.peterbilt.389.bumper"
+	suitable_for[]: "shape02.peterbilt.389.bumper"
+}
+}

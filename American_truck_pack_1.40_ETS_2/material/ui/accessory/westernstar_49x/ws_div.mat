@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "ws_div.tobj"
+	texture_name : "texture"
+}

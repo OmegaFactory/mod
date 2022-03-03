@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : plastic.mack.anthem.filters
+{
+	name: "@@standard@@"
+	price: 100
+	unlock: 0
+	icon: "mack_anthem/fltr_blck"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/filters/filter_0_1_2.pmd"
+}
+}

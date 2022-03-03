@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_interior_data	: ce.volvo.vnl.interior
+{
+	name: "Elite Interior"
+	price: 22960
+	unlock: 10
+	icon: "volvo_vnl/int_elite"
+	model: "/vehicle/truck/volvo_vnl/interior/model.pmd"
+	animated_model: "/vehicle/truck/volvo_vnl/interior/anim.pmd"
+	collision: "/vehicle/truck/volvo_vnl/interior/model.pmc"
+	look: default
+	variant: cab_ce
+
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+
+
+	ext_model: "/vehicle/truck/upgrade/ext_interior/volvo_vnl/stock.pmd"
+	ext_variant: cab_c
+	ext_look: exclusive
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+
+	glass_panes[]: .volvo.vnl.r.pane.front
+	glass_panes[]: .volvo.vnl.r.pane.close
+	glass_panes[]: .volvo.vnl.r.pane.far
+	glass_panes[]: .volvo.vnl.r.pane.back_c1
+	glass_panes[]: .volvo.vnl.r.pane.back_c2
+	glass_panes[]: .volvo.vnl.r.pane.back_c3
+
+@include "seat.sui"
+@include "dashboard_color.sui"
+}
+@include "glass.sui"
+@include "glass_c.sui"
+}

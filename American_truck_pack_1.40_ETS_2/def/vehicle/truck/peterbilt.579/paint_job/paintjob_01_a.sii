@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : paint01_a.peterbilt.579.paint_job
+{
+	name: "Cowboys"
+	price: 33000
+	unlock: 23
+	icon: "peterbilt_579/paint_cowboys"
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/paintjob_01_a.tobj"
+	stock: false
+
+	alternate_uvset: true
+
+	suitable_for[]: "duty.peterbilt.579.cabin"
+}
+}

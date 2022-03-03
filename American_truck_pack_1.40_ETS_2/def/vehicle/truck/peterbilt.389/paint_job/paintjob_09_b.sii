@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : paint09_b.peterbilt.389.paint_job
+{
+	name: "Wave"
+	price: 33000
+	unlock: 23
+	icon: "peterbilt_389/paint_wave"
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/paintjob_09_b.tobj"
+	stock: false
+	alternate_uvset: false
+
+	suitable_for[]: "standard.peterbilt.389.cabin"
+
+}
+}

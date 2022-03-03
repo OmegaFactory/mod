@@ -1,0 +1,17 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	flake_uvscale: 4.000000
+	flake_vratio: 0.250000
+	acc_list[]: "bumper.sensor"
+	acc_list[]: "bumper.standard"
+}
+
+simple_paint_job_data : .ovr1
+{
+	flake_uvscale: 2.000000
+	flake_vratio: 0.250000
+	acc_list[]: "sunshield.standard"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape06.volvo.vnl.s_deflector
+{
+	name: "@@standard@@"
+	price: 1850
+	unlock: 7
+	icon: "volvo_vnl/sidedefl07"
+	exterior_model: "/vehicle/truck/upgrade/s_deflector/volvo_vnl/s_defl21.pmd"
+
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+}
+}

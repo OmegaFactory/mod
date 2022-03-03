@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.grill
+{
+	name: "@@classic@@"
+	price: 2500
+	unlock: 0
+	icon: "volvo_vnl/grill02"
+	exterior_model: "/vehicle/truck/upgrade/grill/volvo_vnl/grill02.pmd"
+}
+}

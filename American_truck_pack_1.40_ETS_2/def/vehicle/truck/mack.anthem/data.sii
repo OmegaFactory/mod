@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.mack.anthem
+{
+	info[]: "@@brand_mack@@"
+	info[]: "@@series_mack_anthem@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.mack.anthem
+	interior_camera_oculus: camera.interior.mack.anthem.oculus
+	bumper_camera: camera.bumper.basic
+
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|6x2_short_72.sii"
+	fallback[]: "cabin|day.sii"
+	fallback[]: "interior|day_standard_grey.sii"
+	fallback[]: "engine|mp7_345.sii"
+	fallback[]: "transmission|10_speed.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_04.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_04.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "paint_job|color1.sii"
+
+	require[]: bumper
+	require[]: grill
+	require[]: mirror
+	require[]: exhaust
+	require[]: mudflaps
+	require[]: doorhndl
+	require[]: steering_w
+	require[]: sideskirt
+	require[]: filters
+	require[]: hood
+	require[]: f_light_chs
+    require[]: s_mirror	
+}
+}

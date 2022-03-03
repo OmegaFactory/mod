@@ -1,0 +1,8 @@
+glass_pane_data : .volvo.vnl.r.pane.back_b
+{
+	locator: back_cL_gls
+	size: (0.7, 0.35)
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

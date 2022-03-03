@@ -1,0 +1,25 @@
+	name: "Red Wave"
+	price: 33000
+	unlock: 23
+	airbrush: true
+	base_color: (0.000000, 0.082291, 0.230725)
+	base_color_locked: false
+	color_variant[]: (0.679542, 0.768151, 0.904628)
+	color_variant[]: (0.111932, 0.084376, 0.072272)
+	color_variant[]: (0.617180, 0.502863, 0.356400)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	color_variant[]: (0.381306, 0.000000, 0.000000)
+	color_variant[]: (0.011612, 0.000000, 0.000000)
+	color_variant[]: (0.991068, 0.008570, 0.008570)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.078195, 0.168269, 0.577555)
+	flake_color_locked: false
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.014444, 0.014444, 0.015996)
+	flip_color_locked: false
+	flip_strength: 0.930000
+	flipflake: true
+	icon: "freightliner_cascadia2019/fci_frs"

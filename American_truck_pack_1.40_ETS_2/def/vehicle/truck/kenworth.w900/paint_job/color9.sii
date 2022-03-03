@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color9.kenworth.w900.paint_job
+{
+	name: "Satin Gray"
+	price: 2800
+	unlock: 0
+	base_color: (0.258183, 0.258183, 0.258183)
+	base_color_locked: true
+	stock: true
+}
+}

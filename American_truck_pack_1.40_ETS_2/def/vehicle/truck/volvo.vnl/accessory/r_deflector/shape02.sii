@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.r_deflector
+{
+	name: "@@standard@@"
+	price: 1150
+	unlock: 7
+	icon: "volvo_vnl/cabdefl02"
+
+	exterior_model: "/vehicle/truck/upgrade/r_deflector/volvo_vnl/r_defl02.pmd"
+//	collision: "/vehicle/truck/upgrade/r_deflector/volvo_vnl/r_defl02.pmc"
+
+	suitable_for[]: "duty.volvo.vnl.cabin"
+	overrides[]: "/def/vehicle/truck/volvo.vnl/accessory/s_deflector/shape01.sii"
+}
+}

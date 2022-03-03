@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "icon_8x4_125lng_sb.tobj"
+	texture_name : "texture"
+}

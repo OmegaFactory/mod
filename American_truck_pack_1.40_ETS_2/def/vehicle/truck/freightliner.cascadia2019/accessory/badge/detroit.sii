@@ -1,0 +1,7 @@
+SiiNunit
+{
+accessory_addon_data : detroit.freightliner.cascadia2019.badge
+{
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/badge/detroit.pmd"
+}
+}

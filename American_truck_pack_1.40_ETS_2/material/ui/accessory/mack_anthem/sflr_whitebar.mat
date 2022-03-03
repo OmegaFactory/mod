@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sflr_whitebar.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,16 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "brand_freightliner"		
+	val[]: "Freightliner Cascadia"
+
+	key[]: "series_freightliner_cascadia2019"
+	val[]: ""
+
+	key[]: "truck_browser_brand_freightliner_cascadia2019"
+	val[]: "Freightliner Cascadia"
+
+}
+}

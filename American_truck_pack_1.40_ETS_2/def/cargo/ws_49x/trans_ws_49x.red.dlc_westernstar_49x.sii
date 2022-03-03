@@ -1,0 +1,17 @@
+SiiNunit
+{
+trailer_def : trailer_def.ws_49x.trans_ws_49x.red
+{
+	trailer: trailer.trans_ws_49x.red
+	gross_trailer_weight_limit: 23914.9
+	chassis_mass: 200
+	body_mass: 0
+	axles: 4
+	volume: 100
+	body_type: _tranredws9x
+
+	mass_ratio[]: 0.34
+	mass_ratio[]: 0.33
+	mass_ratio[]: 0.33
+}
+}

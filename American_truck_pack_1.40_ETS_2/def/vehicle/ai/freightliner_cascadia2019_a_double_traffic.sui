@@ -1,0 +1,53 @@
+traffic_vehicle : traffic.frl_c2019_al
+{
+	accessories[]: .frl_c2019_al.chassis
+	accessories[]: .frl_c2019_al.fwheel
+	accessories[]: .frl_c2019_al.rwheel
+	accessories[]: .frl_c2019_al.rwheel2
+	accessories[]: .frl_c2019_al.trlr_cables
+
+		max_speed: 110
+	trailer_chains[]: "truck_long"
+
+	sound_move[]: "/sound/traffic/truck_us_4.soundref"
+	sound_horn[]: "/sound/traffic/truck_horn_5.soundref"
+
+	vehicle_mass: 7200
+	engine_power: 298
+
+	lod_dist[]: 53
+	lod_dist[]: 70
+
+	tags[]: dealer
+
+	color[]: (0.800000, 0.800000, 0.800000)
+	color[]: (0.174647, 0.332452, 0.603828)
+	color[]: (0.201556, 0.234551, 0.291771)
+	color[]: (0.814847, 0.814847, 0.814847)
+	color[]: (0.003347, 0.003347, 0.003347)
+	color[]: (0.009134, 0.278894, 0.603828)
+	color[]: (0.004777, 0.068478, 0.381326)
+	color[]: (0.021219, 0.084376, 0.686686)
+	color[]: (0.005605, 0.005605, 0.005605)
+	color[]: (0.380048, 0.341977, 0.301309)
+	color[]: (1.000000, 0.040032, 0.027210)
+
+	spawn_ratio: 2
+}
+
+vehicle_accessory : .frl_c2019_al.chassis {
+	data_path: "/def/vehicle/ai/truck/freightliner.cascadia2019/cabin_daycab.sii"
+}
+vehicle_wheel_accessory : .frl_c2019_al.fwheel {
+	data_path: "/def/vehicle/f_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .frl_c2019_al.rwheel {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+}
+vehicle_wheel_accessory : .frl_c2019_al.rwheel2 {
+	data_path: "/def/vehicle/r_wheel/steel.sii"
+	offset: 2
+}
+vehicle_addon_accessory : .frl_c2019_al.trlr_cables {
+	data_path: "/def/vehicle/ai/truck/freightliner.cascadia2019/accessory/trlr_cables/stock.sii"
+}

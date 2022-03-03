@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "doorhndl_03.tobj"
+	texture_name : "texture"
+}

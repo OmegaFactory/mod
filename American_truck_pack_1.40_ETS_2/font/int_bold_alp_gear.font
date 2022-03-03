@@ -1,0 +1,36 @@
+# SCS Font
+# Max width: 66
+# Max advance: 65
+# Typical height 'above the line': 48 (height of letter 'M')
+# Max pixels 'above the line': 50
+# Max pixels 'below the line': 18
+
+vert_span:68  # max difference between lowest and highest pixel in any two glyphs
+line_spacing:2  # suggested number of pixels to put between lines
+
+default_scale:1.000000  # default font scale in reference resolution
+
+image:/font/int_bold_alp_0.mat, 256, 512
+
+# P_x: starting column of glyph rectangle in the font bitmap
+# P_y: starting row of glyph rectangle in the font bitmap
+# W: width of the glyph rectangle
+# H: height of the glyph rectangle
+# L: left offset of the rectangle when placing it relative to current 'pen position'
+#    (negative value can be thought of as 'hard' kerning, but is used at the beginning of line too!)
+# T: top offset of the rectangle when placing it relative to current 'pen position'
+#    (the 'pen' is expected to be at the level of topmost pixel of highest glyph)
+# A: advance of the 'pen' for rendering of the following glyph
+# I: image index
+
+#NUM,    P_x, P_y,  W,  H,  L,  T,  A,  I     # character / glyph name
+
+x0020,  252,    1,  2,  2,  0, 50, 17,  0     # ' ' / 'SPACE'
+#x0041,    1,  117, 49, 49, -1,- 4, 46,  0     # 'A' / 'LATIN CAPITAL LETTER A'
+x0041,   73,  167, 43, 48,  5, -136, 50,  0     # 'D' / 'LATIN CAPITAL LETTER D'
+x0043,   73,  167, 43, 48,  5, -136, 50,  0     # 'C' / 'LATIN CAPITAL LETTER C'
+x004e,   84,  217, 42, 48,  5,  17, 51,  0     # 'N' / 'LATIN CAPITAL LETTER N'
+x0052,  169,  117, 36, 49,  9, 176, 41,  0     # 'R' / 'LATIN CAPITAL LETTER R'
+
+# kerning...
+

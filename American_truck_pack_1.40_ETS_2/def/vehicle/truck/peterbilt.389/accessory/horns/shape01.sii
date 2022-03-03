@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape01.peterbilt.389.horns
+{
+	name: "Horn Adapter"
+	price: 50
+	unlock: 0
+	icon: "horns"
+	exterior_model: "/vehicle/truck/upgrade/horns/peterbilt_389/horns01.pmd"
+	suitable_for[]: "duty.peterbilt.389.cabin"
+	suitable_for[]: "standard.peterbilt.389.cabin"
+
+}
+}

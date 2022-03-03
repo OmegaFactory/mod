@@ -1,0 +1,12 @@
+	name: "Flying Thunder"
+	price: 29000
+	unlock: 19
+	base_color: (0.679542, 0.679542, 0.679542)
+	base_color_locked: false
+	icon: "westernstar_49x/ws_sprt"
+	mask_b_color: (0.012289, 0.012289, 0.012289)
+	mask_b_locked: false
+	mask_g_color: (0.088656, 0.088656, 0.088656)
+	mask_g_locked: false
+	mask_r_color: (0.144128, 0.000000, 0.000000)
+	mask_r_locked: false

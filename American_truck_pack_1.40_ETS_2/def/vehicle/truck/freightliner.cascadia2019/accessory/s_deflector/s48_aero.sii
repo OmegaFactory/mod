@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s48_aero.freightliner.cascadia2019.s_deflector
+{
+	name: "@@aero@@"
+	price: 1350
+	unlock: 7
+	icon: "truck/freightliner_cascadia2019/accessory/s_deflector/sl48_base"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/s_deflector/sl48_base.pmd"
+	coll: "/vehicle/truck/freightliner_cascadia2019/accessory/s_deflector/sl48_base.pmc"
+
+	suitable_for[]: "s48.freightliner.cascadia2019.cabin"
+}
+}

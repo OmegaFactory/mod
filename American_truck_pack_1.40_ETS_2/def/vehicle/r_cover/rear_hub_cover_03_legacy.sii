@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 03_legacy.rcover
+{
+	name: "Premium Shadow"
+	price: 345
+	unlock: 13
+	model: "/vehicle/truck/upgrade/wheel/cover/rear_hub_cover_03_legacy.pmd"
+	icon: "cover/rear_hub_cover_03_legacy"
+}
+}

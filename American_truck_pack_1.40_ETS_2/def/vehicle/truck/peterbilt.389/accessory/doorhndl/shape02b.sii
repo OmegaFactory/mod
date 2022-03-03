@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape02b.peterbilt.389.doorhndl
+{
+	name: "@@paint@@"
+	price: 210
+	unlock: 2
+	icon: "peterbilt_389/doorhandle02"
+	exterior_model: "/vehicle/truck/upgrade/doorhandle/peterbilt_389/doorhandle02_b.pmd"
+
+	suitable_for[]: "standard.peterbilt.389.cabin"
+}
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape01.volvo.vnl.sideskrt_bar
+{
+	name: "Basic"
+	price: 100
+	unlock: 0
+	icon: "volvo_vnl/s_bar07"
+	exterior_model: "/vehicle/truck/upgrade/sideskrt_bar/volvo_vnl/stripe01_short.pmd"
+	suitable_for[]: "shape01.volvo.vnl.sideskirt"
+
+
+}
+}

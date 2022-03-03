@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "f_light_blck.tobj"
+	texture_name : "texture"
+}

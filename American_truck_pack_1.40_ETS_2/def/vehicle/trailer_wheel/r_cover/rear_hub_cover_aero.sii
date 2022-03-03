@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : ftlaero.rcover
+{
+	name: "@@aerox@@"
+	price: 285
+	unlock: 9
+	model: "/vehicle/truck/upgrade/wheel/cover/rear_hub_cover_aerox.pmd"
+	icon: "truck/freightliner_cascadia2019/accessory/r_cover/aerox"
+}
+}

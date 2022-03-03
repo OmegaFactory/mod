@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape07.volvo.vnl.bumper
+{
+	name: "Modern I"
+	price: 820
+	unlock: 0
+	icon: "volvo_vnl/bumper07"
+	exterior_model: "/vehicle/truck/upgrade/bumper/volvo_vnl/bumper30.pmd"
+}
+}

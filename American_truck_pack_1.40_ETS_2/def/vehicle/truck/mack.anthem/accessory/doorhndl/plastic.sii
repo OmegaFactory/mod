@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : plastic.mack.anthem.doorhndl
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "mack_anthem/hndl_plstc"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/doorhndl/doorhandle_0_1_2.pmd"
+}
+}

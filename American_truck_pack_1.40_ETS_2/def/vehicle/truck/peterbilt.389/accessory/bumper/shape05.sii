@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape05.peterbilt.389.bumper
+{
+	name: "Modern Flares II"
+	price: 3210
+	unlock: 17
+	icon: "peterbilt_389/bumper05"
+	exterior_model: "/vehicle/truck/upgrade/bumper/peterbilt_389/bumper05.pmd"
+}
+}

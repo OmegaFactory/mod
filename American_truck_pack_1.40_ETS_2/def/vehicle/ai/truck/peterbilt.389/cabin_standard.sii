@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_chassis_data : chassis_b.peterbilt.389.ai
+{
+	name: "Standard Sleeper"
+	price: 0
+	unlock: 0
+	model: "/vehicle/truck/peterbilt_389/ai/ai_b.pmd"
+	lods[]: "/vehicle/truck/peterbilt_389/ai/ai_b_lod1.pmd"
+	lods[]: "/vehicle/truck/peterbilt_389/ai/ai_b_lod2.pmd"
+	collision: "/vehicle/truck/peterbilt_389/ai/ai_b.pmc"
+	variant: cab_b
+	look: default
+
+	extended_shadow_texture:"/vehicle/truck/peterbilt_389/shadow_bc.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+
+}
+}

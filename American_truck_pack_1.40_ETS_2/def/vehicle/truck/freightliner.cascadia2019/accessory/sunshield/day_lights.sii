@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : day_none.freightliner.cascadia2019.sunshield
+{
+	name: "Standard Lights"
+	price: 50
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/sunshield/dc_empty"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sunshield/dc_empty.pmd"
+
+	suitable_for[]: "day.freightliner.cascadia2019.cabin"
+}
+}

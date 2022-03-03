@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s48_std.freightliner.cascadia2019.cabdefl
+{
+	name: "@@aero2@@"
+	price: 510
+	unlock: 6
+	icon: "truck/freightliner_cascadia2019/accessory/cabdefl/sl48_base"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/cabdefl/sl48_base.pmd"
+	coll: "/vehicle/truck/freightliner_cascadia2019/accessory/cabdefl/sl48_base.pmc"
+
+	suitable_for[]: "s48.freightliner.cascadia2019.cabin"
+}
+}

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.bumper
+{
+	name: "Classic II"
+	price: 2250
+	unlock: 6
+	icon: "volvo_vnl/bumper02"
+	exterior_model: "/vehicle/truck/upgrade/bumper/volvo_vnl/bumper11.pmd"
+}
+}

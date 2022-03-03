@@ -1,0 +1,47 @@
+SiiNunit
+{
+accessory_engine_data : dd13_400_idp.freightliner.cascadia2019.engine
+{
+	name: "Integrated Detroit Powertrain DD13 400"
+	price: 41170
+	unlock: 4
+	info[]: "400 @@hp@@ (299@@kw@@)"
+	info[]: "1@@dg@@750 @@lb_ft@@ (2373@@nm@@)"
+	info[]: "1@@dg@@075 @@rpm@@"
+	icon: "engine_detroit_dd13"
+
+	torque: 2373
+	volume: 12.8
+
+	torque_curve[]: (300, 0.0)
+	torque_curve[]: (440, 0.5)
+	torque_curve[]: (1075, 1.0)
+	torque_curve[]: (1475, 0.8)
+	torque_curve[]: (1625, 0.74)
+	torque_curve[]: (1800, 0.57)
+	torque_curve[]: (2400, 0.0)
+
+	rpm_idle: 650
+	rpm_limit: 1900
+	rpm_range_low_gear: (750, 1400)
+	rpm_range_high_gear: (900, 1300)
+	rpm_range_power: (1250, 1700)
+	rpm_range_engine_brake: (1800, 2300)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 1
+	engine_brake_positions: 3
+
+	no_adblue_power_limit: 0.6
+
+@include "sound.sui"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/transmission/dt12_da.sii"
+
+	overrides[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/badge/detroit.sii"
+
+# 2017 Detroit DD13 400/1750
+# https://demanddetroit.com/engines/dd13/
+
+}
+}

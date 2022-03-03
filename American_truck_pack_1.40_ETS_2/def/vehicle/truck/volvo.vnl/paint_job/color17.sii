@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color17.volvo.vnl.paint_job
+{
+	name: "775829 Gunmetal Gray"
+	price: 2900
+	unlock: 0
+	icon: "volvo_vnl/metalic06"
+
+	flipflake: true
+	flip_color: (0.0226, 0.0255, 0.0272)
+	flip_strength: 0.93
+	flake_color: (0.6349, 0.7341, 0.7953)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.0761, 0.0822, 0.0886)
+	stock: false
+}
+}

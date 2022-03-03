@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : paint02_bc.volvo.vnl.paint_job
+{
+	name: "Stars and Stripes"
+	price: 23000
+	unlock: 13
+	icon: "volvo_vnl/paintjob02"
+
+	airbrush: true
+	base_color: (0.4677, 0.4677, 0.4677)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_02_bc.tobj"
+	stock: false
+
+	suitable_for[]: "standard.volvo.vnl.cabin"
+	suitable_for[]: "exclusive.volvo.vnl.cabin"
+}
+}

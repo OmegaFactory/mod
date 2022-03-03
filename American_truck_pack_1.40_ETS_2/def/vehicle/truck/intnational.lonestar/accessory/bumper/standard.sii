@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : standard.intnational.lonestar.bumper
+{
+	name: "Standard"
+	price: 820
+	unlock: 0
+	icon: "international_lonestar/bumper_a"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/bumper/bumper_a.pmd"
+}
+}

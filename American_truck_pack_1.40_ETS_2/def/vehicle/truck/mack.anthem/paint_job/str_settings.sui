@@ -1,0 +1,10 @@
+	name: "Elegance"
+	price: 20500
+	unlock: 11
+	base_color: (0.896269, 0.752942, 0.520996)
+	base_color_locked: false
+	icon: "mack_anthem/paint_str"
+	mask_g_color: (0.913099, 0.104626, 0.012983)
+	mask_g_locked: false
+	mask_r_color: (0.152938, 0.008023, 0.008023)
+	mask_r_locked: false

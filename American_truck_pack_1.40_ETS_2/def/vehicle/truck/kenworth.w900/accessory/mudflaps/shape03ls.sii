@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : shape03ls.kenworth.w900.mudflaps
+{
+	name: "SCS Mudflaps"
+	price: 150
+	unlock: 9
+	icon: "kenworth_w900/mudflaps_03"
+
+	exterior_model: "/vehicle/truck/upgrade/mudflaps/kenworth_w900/mudflaps03ls.pmd"
+
+	suitable_for[]: "short1_8x4.kenworth.w900.chassis"
+	suitable_for[]: "short2_8x6.kenworth.w900.chassis"
+}
+}

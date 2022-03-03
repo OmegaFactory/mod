@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : bs2kw680_a.kenworth.t680.paint_job
+{
+@include "bs2kw680_settings.sui"
+	suitable_for[]: "duty.kenworth.t680.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/bs2kw680/cabin1.tobj"
+}
+}

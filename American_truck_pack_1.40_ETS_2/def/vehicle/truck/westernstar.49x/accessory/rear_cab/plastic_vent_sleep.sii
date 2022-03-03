@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : pl_vent_slp.westernstar.49x.rear_cab
+{
+	name: "Standard Vent"
+	price: 120
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/rear_cab/plstc_23"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/rear_cab/plstc_23.pmd"
+
+	suitable_for[]: "s48.westernstar.49x.cabin"
+	suitable_for[]: "s48sb.westernstar.49x.cabin"
+	suitable_for[]: "s72.westernstar.49x.cabin"
+	suitable_for[]: "s72sb.westernstar.49x.cabin"
+}
+}

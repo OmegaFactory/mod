@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.w900.filters
+{
+	name: "Basic Air Filters"
+	price: 500
+	unlock: 0
+	icon: "kenworth_w900/filters_01"
+	exterior_model: "/vehicle/truck/upgrade/filters/kenworth_w900/filters01.pmd"
+	interior_model: "/vehicle/truck/upgrade/filters/kenworth_w900/filters01_interior.pmd"
+}
+}

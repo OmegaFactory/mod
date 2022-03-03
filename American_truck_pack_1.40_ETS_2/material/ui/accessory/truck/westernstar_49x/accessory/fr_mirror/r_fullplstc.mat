@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "r_fullplstc.tobj"
+	texture_name : "texture"
+}

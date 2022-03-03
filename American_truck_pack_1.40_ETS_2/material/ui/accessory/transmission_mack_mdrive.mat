@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "transmission_mack_mdrive.tobj" 
+	texture_name : "texture" 
+} 

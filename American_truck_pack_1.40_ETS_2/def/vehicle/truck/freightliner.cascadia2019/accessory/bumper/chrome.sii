@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : chrome.freightliner.cascadia2019.bumper
+{
+	name: "@@chrom@@"
+	price: 2540
+	unlock: 13
+	icon: "truck/freightliner_cascadia2019/accessory/bumper/chrome"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/bumper/chrome.pmd"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/grill/plastic2.sii"
+}
+}

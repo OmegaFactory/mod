@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_wheel_data : single.rwheel
+{
+	name: "Standard"
+	model: "/vehicle/wheel/steel/rear.pmd"
+}
+}
+
+

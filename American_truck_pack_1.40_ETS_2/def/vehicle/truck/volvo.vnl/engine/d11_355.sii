@@ -1,0 +1,37 @@
+SiiNunit
+{
+accessory_engine_data : d11_355.volvo.vnl.engine
+{
+	name: "Volvo D11 355"
+	price: 37650
+	unlock: 0
+	info[]: "355 @@hp@@ (265@@kw@@)"
+	info[]: "1@@dg@@250 @@lb_ft@@ (1695@@nm@@)"
+	info[]: "1@@dg@@050 @@rpm@@"
+
+	icon: "engine_volvo_d11"
+
+	torque: 1695
+	volume: 10.8
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1000, 1)
+	torque_curve[]: (1500, 1)
+	torque_curve[]: (1800, 0.8)
+	torque_curve[]: (2100, 0.6)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 600
+	rpm_limit: 2100
+	rpm_range_low_gear: (750, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1400, 1900)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+}
+}

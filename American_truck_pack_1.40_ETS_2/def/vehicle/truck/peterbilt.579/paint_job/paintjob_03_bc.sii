@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_paint_job_data : paint03_bc.peterbilt.579.paint_job
+{
+	name: "Monument Valley"
+	price: 29000
+	unlock: 19
+	icon: "peterbilt_579/paint_valley"
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/paintjob_03_bc.tobj"
+	stock: false
+
+	alternate_uvset: true
+
+	suitable_for[]: "standard.peterbilt.579.cabin"
+	suitable_for[]: "exclusive.peterbilt.579.cabin"
+}
+}

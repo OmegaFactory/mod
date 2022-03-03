@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : paint.westernstar.49x.fl_mirror
+{
+	name: "@@paint@@"
+	price: 320
+	unlock: 5
+	icon: "truck/westernstar_49x/accessory/fl_mirror/l_pnt"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/fl_mirror/l_pnt.pmd"
+	interior_model: "/vehicle/truck/westernstar_49x/accessory/fl_mirror/l_pnt_int.pmd"
+}
+}

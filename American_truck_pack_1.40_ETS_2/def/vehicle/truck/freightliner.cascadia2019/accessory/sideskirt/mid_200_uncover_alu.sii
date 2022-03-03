@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : mid200_eal.freightliner.cascadia2019.sideskirt
+{
+	name: "@@alu_tank@@"
+	price: 3100
+	unlock: 10
+	icon: "truck/freightliner_cascadia2019/accessory/sideskirt/sl48_mid_e_alu"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideskirt/sl48_mid_e_alu.pmd"
+
+	overrides[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideflares/mid_standard.sii"
+
+	suitable_for[]: "6x2m_200.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4m_200.freightliner.cascadia2019.chassis"
+}
+}

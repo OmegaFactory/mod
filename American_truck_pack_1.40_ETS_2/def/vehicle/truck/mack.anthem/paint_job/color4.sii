@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color4.mack.anthem.paint_job
+{
+	name: "Liquid Silver"
+	price: 2900
+	unlock: 0
+	icon: "mack_anthem/metalic_4"
+
+	flipflake: true
+	flip_color: (0.0346, 0.03, 0.03)
+	flip_strength: 0.93
+	flake_color: (0.8543, 0.8543, 0.8543)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.3411, 0.3351, 0.3351)
+	stock: false
+}
+}

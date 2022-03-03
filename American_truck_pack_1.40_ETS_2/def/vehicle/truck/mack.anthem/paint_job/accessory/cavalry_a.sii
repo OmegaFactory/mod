@@ -1,0 +1,44 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mack_anthem/cavalry/pjm_at_2048x6144_size_1024x1024.tobj"
+	flake_uvscale: 10.000000
+	acc_list[]: "cabdefl.cabdefl_38"
+}
+
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mack_anthem/cavalry/shared_000000ff.tobj"
+	flake_uvscale: 10.000000
+	acc_list[]: "cabdefl.cabdefl_28"
+}
+
+simple_paint_job_data : .ovr2
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mack_anthem/cavalry/pjm_at_2048x2048_size_1024x1024.tobj"
+	flake_uvscale: 10.000000
+	acc_list[]: "cabdefl.cabdefl_16"
+}
+
+simple_paint_job_data : .ovr3
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mack_anthem/cavalry/pjm_at_2048x7168_size_1024x1024.tobj"
+	flake_uvscale: 10.000000
+	acc_list[]: "sideskirt.sideskirt_11"
+	acc_list[]: "sideskirt.sideskirt_12"
+	acc_list[]: "sideskirt.sideskirt_13"
+	acc_list[]: "sideskirt.sideskirt_14"
+	acc_list[]: "sideskirt.sideskirt_15"
+	acc_list[]: "sideskirt.sideskirt_16"
+	acc_list[]: "sideskirt.sideskirt_22"
+	acc_list[]: "sideskirt.sideskirt_23"
+}
+
+simple_paint_job_data : .ovr4
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mack_anthem/cavalry/pjm_at_3072x7168_size_1024x1024.tobj"
+	flake_uvscale: 10.000000
+	acc_list[]: "sideskirt.sideskirt_21"
+}
+}

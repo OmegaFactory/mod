@@ -1,0 +1,17 @@
+	name: "Hot Ride"
+	price: 20500
+	unlock: 15
+	airbrush: true
+	base_color: (0.088653, 0.000000, 0.000000)
+	base_color_locked: false
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (1.000000, 0.021218, 0.021240)
+	flake_color_locked: false
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.039545, 0.000000, 0.006884)
+	flip_color_locked: false
+	flip_strength: 0.930000
+	flipflake: true
+	icon: "international_lonestar/pnt_bflm"

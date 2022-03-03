@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : ribbed.westernstar.49x.grill
+{
+	name: "@@exclusive@@"
+	price: 3400
+	unlock: 8
+	icon: "truck/westernstar_49x/accessory/grill/ribbed"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/grill/ribbed.pmd"
+}
+}

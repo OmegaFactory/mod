@@ -1,0 +1,47 @@
+traffic_vehicle : traffic.mck_ant_dcb
+{
+	accessories[]: .mck_ant_dcb.chassis
+	accessories[]: .mck_ant_dcb.fwheel
+	accessories[]: .mck_ant_dcb.rwheel
+	accessories[]: .mck_ant_dcb.rwheel2
+	accessories[]: .mck_ant_dcb.trlr_cables
+
+	max_speed: 128
+	trailer_chains[]: "truck_semi"
+
+	sound_move[]: "/sound/traffic/truck_us_4.soundref"
+	sound_horn[]: "/sound/traffic/truck_horn_5.soundref"
+
+	vehicle_mass: 9200
+	engine_power: 373
+
+	lod_dist[]: 55
+	lod_dist[]: 90
+
+	color[]: (0.009721, 0.046665, 0.174647)
+	color[]: (0.180000, 0.003000, 0.003000)
+	color[]: (0.600000, 0.600000, 0.600000)
+	color[]: (0.003347, 0.003347, 0.003347)
+	color[]: (0.057805, 0.004025, 0.004025)
+	color[]: (0.258183, 0.258183, 0.258183)
+	color[]: (0.527115, 0.266356, 0.038204)
+
+	spawn_ratio: 0.5
+}
+
+vehicle_accessory : .mck_ant_dcb.chassis {
+	data_path: "/def/vehicle/ai/truck/mack.anthem/dcb.sii"
+}
+vehicle_wheel_accessory : .mck_ant_dcb.fwheel {
+	data_path: "/def/vehicle/f_wheel/chrome.sii"
+}
+vehicle_wheel_accessory : .mck_ant_dcb.rwheel {
+	data_path: "/def/vehicle/r_wheel/chrome.sii"
+}
+vehicle_wheel_accessory : .mck_ant_dcb.rwheel2 {
+	data_path: "/def/vehicle/r_wheel/chrome.sii"
+	offset: 2
+}
+vehicle_addon_accessory : .mck_ant_dcb.trlr_cables {
+	data_path: "/def/vehicle/ai/truck/mack.anthem/accessory/trlr_cables/stock.sii"
+}

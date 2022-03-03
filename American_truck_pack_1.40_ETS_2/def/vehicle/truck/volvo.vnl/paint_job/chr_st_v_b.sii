@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data : chr_st_v_b.volvo.vnl.paint_job
+{
+@include "chr_st_v_settings.sui"
+	suitable_for[]: "standard.volvo.vnl.cabin"
+}
+}

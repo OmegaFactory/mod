@@ -1,0 +1,107 @@
+	engine_start_anim: "/vehicle/truck/westernstar_49x/interior/animation/eng_start.pma"
+
+	wheel_anim: "/vehicle/truck/westernstar_49x/interior/animation/sw_rotation.pma"
+	wheel_updown_anim: "/vehicle/truck/westernstar_49x/interior/animation/sw_updown.pma"
+	wheel_frontback_anim: "/vehicle/truck/westernstar_49x/interior/animation/sw_frontback.pma"
+	wheel_updown_anim_default: 0.5
+	wheel_frontback_anim_default: 0.5
+
+	left_window_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/win_btn_l.pma"
+	right_window_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/win_btn_r.pma"
+	left_window_anim: "/vehicle/truck/westernstar_49x/interior/animation/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/westernstar_49x/interior/animation/win_open_r.pma"
+
+	wiper_anim: "/vehicle/truck/westernstar_49x/interior/animation/wipers.pma"
+	wiper_duration_and_delay[]: (2.0, 2.0)
+	wiper_duration_and_delay[]: (2.0, 0.0)
+	wiper_duration_and_delay[]: (1.0, 0.0)
+	blinker_delay: 0.4
+	blinker_anim: "/vehicle/truck/westernstar_49x/interior/animation/turn_st.pma"
+	lights_anim: "/vehicle/truck/westernstar_49x/interior/animation/lights_btn.pma"
+	high_beam_anim: "/vehicle/truck/westernstar_49x/interior/animation/hibeam_st.pma"
+	light_horn_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/lighthorn_st.pma"
+	wiper_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/wiper_st.pma"
+	parking_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/prk_brk_st.pma"
+//	retarder_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/eng_brk_st.pma"
+	auto_transmission_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/automat_st.pma"
+	trailer_air_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/trl_air_st.pma"
+	trailer_brake_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/trl_brk_st.pma"
+	engine_brake_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/eng_brk_st.pma"
+
+	oil_pressure_anim: "/vehicle/truck/westernstar_49x/interior/animation/oil_p.pma"
+	oil_pressure_anim_min: 0
+	oil_pressure_anim_max: 6.9	# 6.9bar = 100psi
+
+	water_temp_anim: "/vehicle/truck/westernstar_49x/interior/animation/water_p.pma"
+	water_temp_anim_min: 38
+	water_temp_anim_max: 121
+
+	battery_anim: "/vehicle/truck/westernstar_49x/interior/animation/battery_p.pma"
+	battery_anim_min: 10
+	battery_anim_max: 16
+
+	tachometer_anim: "/vehicle/truck/westernstar_49x/interior/animation/rpm_p.pma"
+	tachometer_anim_min: 0
+	tachometer_anim_max: 2500
+
+	speedometer_anim: "/vehicle/truck/westernstar_49x/interior/animation/speed_p.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 144
+
+	air_pressure_anim: "/vehicle/truck/westernstar_49x/interior/animation/air_p.pma"
+	air_pressure_anim_min: 0
+	air_pressure_anim_max: 10	# 10bar = 145psi
+
+//	brake_pressure_anim: "/vehicle/truck/westernstar_49x/interior/animation/brake_p.pma"
+//	brake_pressure_anim_min: 0
+//	brake_pressure_anim_max: 6.9	# 6.9bar = 100psi
+
+//	diff_temp_anim: "/vehicle/truck/westernstar_49x/interior/animation/dif_temp_p.pma"
+//	diff_temp_anim_min: 38		# 38*C = 100*F
+//	diff_temp_anim_max: 149		# 149*C = 300*F
+
+//	suspension_load_anim: "/vehicle/truck/westernstar_49x/interior/animation/susp_load_p.pma"
+//	suspension_load_anim_min: 0	
+//	suspension_load_anim_max: 150000	# 150 kN
+
+//	trailer_air_press_anim: "/vehicle/truck/westernstar_49x/interior/animation/tr_supply_p.pma"
+//	trailer_air_press_anim_min: 0
+//	trailer_air_press_anim_max: 10		# 10bar = 145psi
+
+	oil_temp_anim: "/vehicle/truck/westernstar_49x/interior/animation/oil_temp_p.pma"
+	oil_temp_anim_min: 38
+	oil_temp_anim_max: 149
+
+	fuel_anim: "/vehicle/truck/westernstar_49x/interior/animation/fuel_p.pma"
+	ad_blue_anim: "/vehicle/truck/westernstar_49x/interior/animation/adblue_p.pma"
+
+//	generic_anim: "/vehicle/truck/westernstar_49x/interior/animation/generic.pma"
+
+	button_4way: "/vehicle/truck/westernstar_49x/interior/animation/flsh_4w_btn.pma"
+//	flasher_4way_anim: "/vehicle/truck/westernstar_49x/interior/animation/flsh_4w_btn.pma"
+
+	button_left_blinker: "/vehicle/truck/westernstar_49x/interior/animation/left_i.pma"
+	button_right_blinker: "/vehicle/truck/westernstar_49x/interior/animation/right_i.pma"
+	button_high_beam_lights: "/vehicle/truck/westernstar_49x/interior/animation/hibeam_i.pma"
+	button_low_fuel: "/vehicle/truck/westernstar_49x/interior/animation/fuel_i.pma"
+//	button_water_temp: "/vehicle/truck/westernstar_49x/interior/animation/water_i.pma"
+//	button_battery_warning: "/vehicle/truck/westernstar_49x/interior/animation/battery_i.pma"
+	button_jakebrake: "/vehicle/truck/westernstar_49x/interior/animation/eng_brk_i.pma"
+	button_parking_brake: "/vehicle/truck/westernstar_49x/interior/animation/prk_brk_i.pma"
+
+	turbo_anim: "/vehicle/truck/westernstar_49x/interior/animation/turbo_p.pma"
+	turbo_anim_min: 0
+	turbo_anim_max: 1.6
+	differential_lock_stick_anim: "/vehicle/truck/westernstar_49x/interior/animation/dif_lck_btn.pma"
+
+	indicator_differential_lock: "/vehicle/truck/westernstar_49x/interior/animation/dif_lck_i.pma"
+//	indicator_cruise_control: "/vehicle/truck/westernstar_49x/interior/animation/cruise_i.pma"
+	indicator_low_adblue: "/vehicle/truck/westernstar_49x/interior/animation/adblue_i.pma"
+	indicator_low_air_pressure: "/vehicle/truck/westernstar_49x/interior/animation/brk_warn_i.pma"
+//	indicator_low_oil_pressure: "/vehicle/truck/westernstar_49x/interior/animation/oil_i.pma"
+//	indicator_retarder: "/vehicle/truck/westernstar_49x/interior/animation/eng_brk_i.pma"
+	indicator_generic: "/vehicle/truck/westernstar_49x/interior/animation/generic_i.pma"
+	indicator_warning: "/vehicle/truck/westernstar_49x/interior/animation/warning_i.pma"
+	indicator_stop: "/vehicle/truck/westernstar_49x/interior/animation/stop_i.pma"
+	indicator_weigh_green: "/vehicle/truck/westernstar_49x/interior/animation/wp_in_g.pma"
+	indicator_weigh_red: "/vehicle/truck/westernstar_49x/interior/animation/wp_in_r.pma"

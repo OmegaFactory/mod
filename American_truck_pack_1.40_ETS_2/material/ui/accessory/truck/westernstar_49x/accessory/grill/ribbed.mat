@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "ribbed.tobj"
+	texture_name : "texture"
+}

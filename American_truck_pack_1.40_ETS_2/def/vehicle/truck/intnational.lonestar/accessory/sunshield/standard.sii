@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : standard.intnational.lonestar.sunshield
+{
+	name: "Standard Sunshield"
+	price: 480
+	unlock: 4
+	icon: "international_lonestar/sunshld_a"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/sunshield/sunshield_a.pmd"
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/sunshield/sunshield_a_int.pmd"
+}
+}

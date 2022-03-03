@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sb_flat_s.tobj"
+	texture_name : "texture"
+}

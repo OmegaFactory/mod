@@ -1,0 +1,6 @@
+SiiNunit
+{
+@include "units/interior_westernstar_49x.sui"
+}
+
+

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 02_steel.rnuts
+{
+	name: "Cap"
+	price: 80
+	unlock: 3
+	model: "/vehicle/truck/upgrade/wheel/nuts/rear_nuts_02_steel.pmd"
+	icon: "nuts/nuts_02_steel"
+}
+}

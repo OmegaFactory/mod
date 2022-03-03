@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_engine_data : mx13_510.kenworth.t680.engine
+{
+	name: "Paccar MX-13 510"
+	price: 48210
+	unlock: 12
+	info[]: "510 @@hp@@ (380@@kw@@)"
+	info[]: "1@@dg@@850 @@lb_ft@@ (2508@@nm@@)"
+	info[]: "1@@dg@@000 @@rpm@@"
+
+	icon: "engine_paccar_mx13"
+
+	torque: 2508
+	volume: 12.9
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1000, 1)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1600, 0.905)
+	torque_curve[]: (1900, 0.72)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 650
+	rpm_limit: 2200
+	rpm_range_low_gear: (800, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1350, 1850)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+
+// 2017 Paccar MX-13 510
+// https://paccarpowertrain.com/products/engines/paccar-mx-13/
+
+}
+}

@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : mid_aero.freightliner.cascadia2019.sideskrt_bar
+{
+	name: "@@aero@@"
+	price: 1200
+	unlock: 8
+	icon: "truck/freightliner_cascadia2019/accessory/sideskrt_bar/sl48_aero"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideskrt_bar/sl48_aero.pmd"
+
+	suitable_for[]: "mid220_pt_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid220_pl_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pt_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pl_a.freightliner.cascadia2019.sideskirt"
+}
+}

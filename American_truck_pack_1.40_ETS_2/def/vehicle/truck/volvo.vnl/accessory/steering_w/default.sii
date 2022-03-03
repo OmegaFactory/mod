@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : default.volvo.vnl.steering_w
+{
+	name: "Volvo default"
+	price: 165
+	unlock: 0
+	icon: "volvo_vnl/steering_w01"
+	interior_model: "/vehicle/truck/upgrade/steering_w/volvo_vnl/default.pmd"
+
+}
+}

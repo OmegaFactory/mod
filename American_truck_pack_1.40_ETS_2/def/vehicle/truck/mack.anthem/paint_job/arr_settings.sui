@@ -1,0 +1,12 @@
+	name: "Refined Standards"
+	price: 20500
+	unlock: 11
+	base_color: (0.242281, 0.300544, 0.356400)
+	base_color_locked: false
+	icon: "mack_anthem/paint_arr"
+	mask_b_color: (0.054480, 0.162029, 0.366253)
+	mask_b_locked: false
+	mask_g_color: (0.000000, 0.059518, 0.111932)
+	mask_g_locked: false
+	mask_r_color: (0.165144, 0.351514, 0.558340)
+	mask_r_locked: false

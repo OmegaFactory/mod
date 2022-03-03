@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : standard.westernstar.49x.steering_w
+{
+	name: "@@premium@@"
+	price: 360
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/steering_w/standard"
+	interior_model: "/vehicle/truck/westernstar_49x/accessory/steering_w/steering_w.pmd"
+}
+}

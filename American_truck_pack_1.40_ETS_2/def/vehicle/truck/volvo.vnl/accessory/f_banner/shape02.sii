@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.f_banner
+{
+	name: "@@oversize_load@@"
+	price: 50
+	unlock: 0
+	icon: "sign_os/sign_os"
+	exterior_model: "/vehicle/truck/upgrade/f_banner/volvo_vnl/sign_os02.pmd"
+
+	suitable_for[]: "shape04.volvo.vnl.bumper"
+	suitable_for[]: "shape05.volvo.vnl.bumper"
+	suitable_for[]: "shape06.volvo.vnl.bumper"
+
+
+	conflict_with[]: "shape01.volvo.vnl.f_grill"
+	conflict_with[]: "shape02.volvo.vnl.f_grill"
+	conflict_with[]: "shape03.volvo.vnl.f_grill"
+}
+}

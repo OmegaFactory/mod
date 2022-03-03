@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape02.kenworth.w900.sunshield
+{
+	name: "Blind Mount Visor"
+	price: 620
+	unlock: 9
+	icon: "kenworth_w900/sunshield_02"
+	exterior_model: "/vehicle/truck/upgrade/sunshield/kenworth_w900/sunshield02.pmd"
+	interior_model: "/vehicle/truck/upgrade/sunshield/kenworth_w900/sunshield02_interior.pmd"
+}
+}

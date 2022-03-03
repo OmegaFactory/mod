@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : wos_c.westernstar.49x.paint_job
+{
+@include "wos_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/wos/pjm_at_0x2048_size_2048x2048.tobj"
+	suitable_for[]: "s72.westernstar.49x.cabin"
+}
+}

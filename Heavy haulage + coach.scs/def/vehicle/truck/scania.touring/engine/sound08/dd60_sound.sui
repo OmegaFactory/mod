@@ -1,0 +1,6 @@
+# Configuration of the engine sounds for the specific truck.
+	sounds:4
+	sounds[]: "engine|/def/vehicle/sound08/z_dd60_sound_engine.soundref"
+	sounds[]: "exhaust|/def/vehicle/sound08/z_dd60_sound_exhaust.soundref"
+	sounds[]: "start_bad|/def/vehicle/sound08/z_dd60_sound_start_bad.soundref"
+	sounds[]: "turbo|/def/vehicle/sound08/z_dd60_sound_turbo.soundref"

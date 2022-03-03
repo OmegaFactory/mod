@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.kenworth.t680.bumper
+{
+	name: "Painted"
+	price: 1750
+	unlock: 4
+	icon: "kenworth_t680/bumper_01"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth_t680/bumper01.pmd"
+}
+}

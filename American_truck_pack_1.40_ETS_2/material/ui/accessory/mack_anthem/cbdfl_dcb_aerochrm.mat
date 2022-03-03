@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cbdfl_dcb_aerochrm.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.kenworth.w900.bumper
+{
+	name: "Shield"
+	price: 2030
+	unlock: 7
+	icon: "kenworth_w900/bumper_02"
+	exterior_model: "/vehicle/truck/upgrade/bumper/kenworth_w900/bumper02.pmd"
+}
+}

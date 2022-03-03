@@ -1,0 +1,19 @@
+[normal]Volvo D13K FH4 Sound & Engine Pack
+==================================================
+
+[red]Thank you for purchasing this pack and supporting my venture to record and implement the best possible audio for ETS/ATS.
+
+[normal]Changelog
+==================================================
+
+v1.0
+==================================================
+- Release.
+
+==================================================
+
+[blue]Author(s):
+[normal]Zeemod
+
+[blue]Compatible with:
+[normal]ETS2 v1.41+

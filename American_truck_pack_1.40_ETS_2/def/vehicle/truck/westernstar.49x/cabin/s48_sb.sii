@@ -1,0 +1,95 @@
+SiiNunit
+{
+accessory_cabin_data : s48sb.westernstar.49x.cabin
+{
+	name: "48@@unit_in@@ Sleeper"
+	price: 27590
+	unlock: 10
+	icon: "truck/westernstar_49x/cabin/s48_sb"
+
+	model: "/vehicle/truck/westernstar_49x/cabin/s48_sb.pmd"
+	collision: "/vehicle/truck/westernstar_49x/cabin/s48_sb.pmc"
+	variant: default
+	look: default
+
+	wiper_model: "/vehicle/truck/westernstar_49x/cabin/wiper.pmd"
+	wiper_anim: "/vehicle/truck/westernstar_49x/cabin/wiper_anim.pma"
+	suspension: false
+
+	windows_model: "/vehicle/truck/westernstar_49x/cabin/win_open.pmd"
+	left_window_anim: "/vehicle/truck/westernstar_49x/cabin/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/westernstar_49x/cabin/win_open_r.pma"
+
+	defaults[]: "/def/vehicle/truck/westernstar.49x/chassis/6x2_mid_100_sb.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/interior/s48_bsc.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/paint_job/color0.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/doorhndl/stock.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/exhaust/stock_sleep.sii"
+//	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/f_fender/stock_sb.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/f_light_chs/stock_sb.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/filters/chrome.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/grill/stock.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/hood/stock.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/mirror/plastic.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/rear_cab/plastic_vent_sleep.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/sideflares/paint_s48.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/slp_vent/paint.sii"
+	defaults[]: "/def/vehicle/truck/westernstar.49x/accessory/sunshield/lights.sii"
+
+	conflict_with[]: "6x2l_125.westernstar.49x.chassis"
+	conflict_with[]: "6x2l_125sb.westernstar.49x.chassis"
+	conflict_with[]: "6x2l_150.westernstar.49x.chassis"
+	conflict_with[]: "6x2l_150sb.westernstar.49x.chassis"
+	conflict_with[]: "6x4l_125.westernstar.49x.chassis"
+	conflict_with[]: "6x4l_125sb.westernstar.49x.chassis"
+	conflict_with[]: "6x4l_150.westernstar.49x.chassis"
+	conflict_with[]: "6x4l_150sb.westernstar.49x.chassis"
+	conflict_with[]: "8x4l_125.westernstar.49x.chassis"
+	conflict_with[]: "8x4l_125sb.westernstar.49x.chassis"
+	conflict_with[]: "8x6l_150.westernstar.49x.chassis"
+	conflict_with[]: "8x6l_150sb.westernstar.49x.chassis"
+
+	conflict_with[]: "6x2s_75.westernstar.49x.chassis"
+	conflict_with[]: "6x2s_75sb.westernstar.49x.chassis"
+	conflict_with[]: "6x2s_100.westernstar.49x.chassis"
+	conflict_with[]: "6x2s_100sb.westernstar.49x.chassis"
+	conflict_with[]: "6x4s_75.westernstar.49x.chassis"
+	conflict_with[]: "6x4s_75sb.westernstar.49x.chassis"
+	conflict_with[]: "6x4s_100.westernstar.49x.chassis"
+	conflict_with[]: "6x4s_100sb.westernstar.49x.chassis"
+	conflict_with[]: "8x4s_75.westernstar.49x.chassis"
+	conflict_with[]: "8x4s_75sb.westernstar.49x.chassis"
+	conflict_with[]: "8x6s_100.westernstar.49x.chassis"
+	conflict_with[]: "8x6s_100sb.westernstar.49x.chassis"
+
+	conflict_with[]: "6x4m_125.westernstar.49x.chassis"
+	conflict_with[]: "6x4m_100.westernstar.49x.chassis"
+	conflict_with[]: "6x2m_125.westernstar.49x.chassis"
+	conflict_with[]: "6x2m_100.westernstar.49x.chassis"
+	conflict_with[]: "8x4m_100.westernstar.49x.chassis"
+	conflict_with[]: "8x6m_125.westernstar.49x.chassis"
+
+	suitable_for[]: "6x2s_75sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2s_100sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4s_75sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4s_100sb.westernstar.49x.chassis"
+	suitable_for[]: "8x4s_75sb.westernstar.49x.chassis"
+	suitable_for[]: "8x6s_100sb.westernstar.49x.chassis"
+
+	suitable_for[]: "6x2m_100sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2m_125sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4m_100sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4m_125sb.westernstar.49x.chassis"
+	suitable_for[]: "8x4m_100sb.westernstar.49x.chassis"
+	suitable_for[]: "8x6m_125sb.westernstar.49x.chassis"
+
+	suitable_for[]: "6x2l_125sb.westernstar.49x.chassis"
+	suitable_for[]: "6x2l_150sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4l_125sb.westernstar.49x.chassis"
+	suitable_for[]: "6x4l_150sb.westernstar.49x.chassis"
+	suitable_for[]: "8x4l_125sb.westernstar.49x.chassis"
+	suitable_for[]: "8x6l_150sb.westernstar.49x.chassis"
+
+@include "sound.sui"
+}
+}

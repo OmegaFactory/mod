@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_addon_data : mid_aerox.freightliner.cascadia2019.sideskrt_bar
+{
+	name: "@@aerox@@"
+	price: 1600
+	unlock: 11
+	icon: "truck/freightliner_cascadia2019/accessory/sideskrt_bar/sl48_aerox"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideskrt_bar/sl48_aerox.pmd"
+
+	suitable_for[]: "mid220_pt_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid220_pl_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pt_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pl_a.freightliner.cascadia2019.sideskirt"
+
+	suitable_for[]: "aero_pl.freightliner.cascadia2019.bumper"
+	suitable_for[]: "aero_pt.freightliner.cascadia2019.bumper"
+	suitable_for[]: "fog_aero_pl.freightliner.cascadia2019.bumper"
+	suitable_for[]: "fog_aero_pt.freightliner.cascadia2019.bumper"
+}
+}

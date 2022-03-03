@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_addon_data : shape01.peterbilt.579.cabflares
+{
+	name: "Light Adapter"
+	price: 50
+	unlock: 0
+	icon: "lights"
+	exterior_model: "/vehicle/truck/upgrade/cabflares/peterbilt_579/cabflares01.pmd"
+
+	conflict_with[]: "shape01.peterbilt.579.cabdefl"
+	conflict_with[]: "shape01.peterbilt.579.sunshield"
+	conflict_with[]: "shape02.peterbilt.579.sunshield"
+	conflict_with[]: "shape03.peterbilt.579.sunshield"
+	conflict_with[]: "shape04.peterbilt.579.sunshield"
+	conflict_with[]: "shape05.peterbilt.579.sunshield"
+
+	suitable_for[]: "duty.peterbilt.579.cabin"
+
+}
+}

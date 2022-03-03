@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cbdfl_s70_aero.tobj"
+	texture_name : "texture"
+}

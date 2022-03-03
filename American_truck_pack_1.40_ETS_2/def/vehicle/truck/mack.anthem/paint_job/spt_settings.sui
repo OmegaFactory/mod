@@ -1,0 +1,11 @@
+	name: "Calico Contrast"
+	price: 25500
+	unlock: 15
+	base_color: (0.000000, 0.000000, 0.000000)
+	icon: "mack_anthem/paint_spt"
+	mask_b_color: (0.021219, 0.016811, 0.016811)
+	mask_b_locked: false
+	mask_g_color: (0.904628, 0.152938, 0.000000)
+	mask_g_locked: false
+	mask_r_color: (0.630731, 0.630731, 0.630731)
+	mask_r_locked: false

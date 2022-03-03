@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "big_sur_excavator_exclusive.tobj"
+	texture_name : "texture"
+}

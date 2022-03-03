@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : upper.westernstar.49x.beacon
+{
+	name: "Double Radiant II"
+	price: 600
+	unlock: 5
+	icon: "beacon/beacon"
+
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon_ws49x_o.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

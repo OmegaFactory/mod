@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "snshld_dcb48_stndrdpntd.tobj"
+	texture_name : "texture"
+}

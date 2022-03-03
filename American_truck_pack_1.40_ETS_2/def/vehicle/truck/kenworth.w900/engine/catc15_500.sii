@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_engine_data : c15_500.kenworth.w900.engine
+{
+	name: "Caterpillar C15 500"
+	price: 46450
+	unlock: 10
+	info[]: "500 @@hp@@ (373@@kw@@)"
+	info[]: "1@@dg@@850 @@lb_ft@@ (2508@@nm@@)"
+	info[]: "1@@dg@@200 @@rpm@@"
+
+	icon: "engine_cat_c15"
+
+	torque: 2508
+	volume: 15.2
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1000, 1)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1500, 0.95)
+	torque_curve[]: (2100, 0.67)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 650
+	rpm_limit: 2100
+	rpm_range_low_gear: (800, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1500, 2000)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+
+// 2007 CAT C-15 500 (real power 515)
+// http://www.performancediesels.co.nz/vdb/document/6
+
+}
+}

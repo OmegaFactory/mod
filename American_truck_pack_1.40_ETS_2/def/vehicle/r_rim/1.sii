@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 1.rrim
+{
+	name: "Shadow"
+	price: 1760
+	unlock: 24
+	icon: "wr_black"
+	model: "/vehicle/truck/upgrade/wheel/rim/rear_1.pmd"
+}
+}

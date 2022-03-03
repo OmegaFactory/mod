@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape04.peterbilt.579.f_grill
+{
+	name: "Bull Bar Extra Large"
+	price: 4080
+	unlock: 9
+	icon: "peterbilt_579/frontgrill_04"
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/peterbilt_579/frontgrill04.pmd"
+}
+}

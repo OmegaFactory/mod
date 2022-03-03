@@ -1,0 +1,31 @@
+SiiNunit
+{
+accessory_addon_data : plastic.freightliner.cascadia2019.doorstep
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/doorstep/plastic"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/doorstep/plastic.pmd"
+
+	suitable_for[]: "shr160_pl.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "shr160_pt.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pl.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pt.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pl_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid200_pt_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid220_pl.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid220_pt.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid220_pl_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "mid220_pt_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng200_pl.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng200_pt.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng200_pl_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng200_pt_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng240_pl.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng240_pt.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng240_pl_a.freightliner.cascadia2019.sideskirt"
+	suitable_for[]: "lng240_pt_a.freightliner.cascadia2019.sideskirt"
+}
+}

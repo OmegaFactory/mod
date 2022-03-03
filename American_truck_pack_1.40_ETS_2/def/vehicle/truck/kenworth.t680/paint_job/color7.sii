@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_paint_job_data : color7.kenworth.t680.paint_job
+{
+	name: "Sky Blue Metallic"
+	price: 6900
+	unlock: 0
+	icon: "kenworth_t680/color_sbluem"
+
+	flipflake: true
+	flip_color: (0.0069, 0.0097, 0.0612)
+	flip_strength: 0.93
+	flake_color: (0.3419, 0.7379, 1)
+	flake_uvscale: 20
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.0802, 0.1094, 0.491)
+	stock: false
+}
+
+}

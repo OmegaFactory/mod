@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : mid125_al.westernstar.49x.sideskirt
+{
+	name: "@@alu@@"
+	price: 4300
+	unlock: 15
+	icon: "truck/westernstar_49x/accessory/sideskirt/alu125mid"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/sideskirt/alu125mid.pmd"
+
+	suitable_for[]: "6x2m_125.westernstar.49x.chassis"
+	suitable_for[]: "6x4m_125.westernstar.49x.chassis"
+	suitable_for[]: "8x6m_125.westernstar.49x.chassis"
+}
+}

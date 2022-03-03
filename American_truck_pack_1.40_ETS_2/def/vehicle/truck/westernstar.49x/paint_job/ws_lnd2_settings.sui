@@ -1,0 +1,10 @@
+	name: "Sunset Trail"
+	price: 31000
+	unlock: 21
+	base_color: (0.830770, 0.093059, 0.024162)
+	base_color_locked: false
+	icon: "westernstar_49x/ws_lnd"
+	mask_g_color: (0.982251, 0.617180, 0.337164)
+	mask_g_locked: false
+	mask_r_color: (0.040921, 0.014444, 0.000305)
+	mask_r_locked: false

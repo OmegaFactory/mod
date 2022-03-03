@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : over_flatsb.westernstar.49x.f_banner
+{
+	name: "@@oversize_load@@"
+	price: 50
+	unlock: 0
+	icon: "sign_os/sign_os"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/f_banner/flat_sb.pmd"
+
+	suitable_for[]: "flat_sb.westernstar.49x.bumper"
+}
+}

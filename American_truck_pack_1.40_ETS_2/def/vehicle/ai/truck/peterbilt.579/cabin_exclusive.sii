@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_chassis_data : chassis_c.peterbilt.579.ai
+{
+	name: "Hi Rise Sleeper"
+	price: 0
+	unlock: 0
+	model: "/vehicle/truck/peterbilt_579/ai/ai_c.pmd"
+	lods[]: "/vehicle/truck/peterbilt_579/ai/ai_c_lod1.pmd"
+	lods[]: "/vehicle/truck/peterbilt_579/ai/ai_c_lod2.pmd"
+	collision: "/vehicle/truck/peterbilt_579/ai/ai_c.pmc"
+	variant: default
+	
+
+	extended_shadow_texture: "/vehicle/truck/peterbilt_579/shadow.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+
+}
+}

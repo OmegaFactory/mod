@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 6.frim
+{
+	name: "Aero"
+	price: 960
+	unlock: 15
+	icon: "wf_6"
+	model: "/vehicle/truck/upgrade/wheel/rim/front_6.pmd"
+
+	tire_shift: -0.02
+}
+}

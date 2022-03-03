@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.t680.doorhndl
+{
+	name: "Door Handle Standard"
+	price: 150
+	unlock: 0
+	icon: "kenworth_t680/doorhndl_01"
+	exterior_model: "/vehicle/truck/upgrade/doorhandlers/kenworth_t680/doorhndl01.pmd"
+}
+}

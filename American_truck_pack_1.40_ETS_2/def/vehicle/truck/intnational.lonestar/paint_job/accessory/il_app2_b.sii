@@ -1,0 +1,19 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/intnational_lonestar/il_app2/shared_666666ff.tobj"
+	flake_uvscale: 10.000000
+	flake_vratio: 0.250000
+	acc_list[]: "bumper.sensor"
+	acc_list[]: "bumper.standard"
+}
+
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/intnational_lonestar/il_app2/shared_00000000.tobj"
+	flake_uvscale: 5.000000
+	flake_vratio: 0.250000
+	acc_list[]: "sunshield.standard"
+}
+}

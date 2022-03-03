@@ -1,0 +1,6 @@
+# Configuration of the engine sounds for the specific truck.
+
+	sounds[]: "engine|/def/vehicle/truck/westernstar.49x/engine/sound_engine.soundref"
+	sounds[]: "exhaust|/def/vehicle/truck/westernstar.49x/engine/sound_exhaust.soundref"
+	sounds[]: "start_bad|/def/vehicle/truck/westernstar.49x/engine/sound_start_bad.soundref"
+	sounds[]: "turbo|/def/vehicle/truck/westernstar.49x/engine/sound_turbo.soundref"

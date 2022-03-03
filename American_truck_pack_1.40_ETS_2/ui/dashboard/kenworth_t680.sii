@@ -1,0 +1,681 @@
+SiiNunit
+{
+ui::window : _nameless.06caf7540 {
+ window_handler: null
+ clip_children: true
+ keep_aspect: none
+ user_string_data: ""
+ fitting: false
+ my_children: 7
+ my_children[0]: _nameless._.kgroundunlit
+ my_children[1]: _nameless._.ackgroundlit
+ my_children[2]: _nameless._.display0
+ my_children[3]: _nameless._.display1
+ my_children[4]: _nameless._.sharedisplay
+ my_children[5]: _nameless._.warning
+ my_children[6]: _nameless._.display2
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: null
+}
+
+ui::text : _nameless._.kgroundunlit {
+ text: "<ret><offset hshift=0 vshift=0><img src=/material/ui/dashboard/kenworth_t680/display.mat height=600 width=800 right=1 top=0 bottom=0.75>"
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 210
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 10
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.06caf7540
+}
+
+ui::text : _nameless._.ackgroundlit {
+ text: "<ret><offset hshift=0 vshift=0><img src=/material/ui/dashboard/kenworth_t680/display.mat height=600 width=800 right=1 top=0 bottom=0.75>\r\n\r\n"
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 210
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 20
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.06caf7540
+}
+
+ui::group : _nameless._.display0 {
+ fitting: false
+ my_children: 3
+ my_children[0]: _nameless._.consumption
+ my_children[1]: _nameless.06d042b31
+ my_children[2]: _nameless.06d042b32
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 100
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.06caf7540
+}
+
+ui::text_common : _nameless._.consumption {
+ value: "9.2|MPG"
+ look_template: txt.kenwortht680.val_num1
+ text: ""
+ coords_l: 34
+ coords_r: 771
+ coords_t: 403
+ coords_b: 278
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1170
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display0
+}
+
+ui::text_common : _nameless.06d042b31 {
+ value: "Fuel Economy:"
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: -298
+ coords_r: 476
+ coords_t: 521
+ coords_b: 414
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display0
+}
+
+ui::text : _nameless.06d042b32 {
+ text: "<ret>\r\n<offset hshift=0 vshift=0><img src=/material/ui/dashboard/kenworth_t680/display.mat height=125 width=600 top=0.85 left=0.21>"
+ coords_l: 73
+ coords_r: 193
+ coords_t: 407
+ coords_b: 292
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display0
+}
+
+ui::group : _nameless._.display1 {
+ fitting: false
+ my_children: 6
+ my_children[0]: _nameless.06d042b33
+ my_children[1]: _nameless.06d042b34
+ my_children[2]: _nameless._.oil.temperature
+ my_children[3]: _nameless._.watertemp
+ my_children[4]: _nameless.06d042b37
+ my_children[5]: _nameless.06d042b38
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 200
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.06caf7540
+}
+
+ui::text : _nameless.06d042b33 {
+ text: "<ret>\r\n<offset hshift=0 vshift=0><img src=/material/ui/dashboard/kenworth_t680/display.mat height=170 width=500 top=0.74 left=0.19>"
+ coords_l: 78
+ coords_r: 201
+ coords_t: 385
+ coords_b: 314
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+ui::text_common : _nameless.06d042b34 {
+ value: "Oil Temp."
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: -130
+ coords_r: 490
+ coords_t: 342
+ coords_b: 235
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+ui::text_common : _nameless._.oil.temperature {
+ value: "99|F"
+ look_template: txt.kenwortht680.val_num
+ text: ""
+ coords_l: 449
+ coords_r: 761
+ coords_t: 342
+ coords_b: 222
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1010
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+ui::text_common : _nameless._.watertemp {
+ value: "99|F"
+ look_template: txt.kenwortht680.val_num
+ text: ""
+ coords_l: 516
+ coords_r: 762
+ coords_t: 434
+ coords_b: 347
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1090
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+ui::text_common : _nameless.06d042b37 {
+ value: "Water Temp."
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: -21
+ coords_r: 597
+ coords_t: 433
+ coords_b: 326
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+ui::text_common : _nameless.06d042b38 {
+ value: "Gauges:"
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: -328
+ coords_r: 290
+ coords_t: 522
+ coords_b: 415
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display1
+}
+
+ui::group : _nameless._.sharedisplay {
+ fitting: false
+ my_children: 7
+ my_children[0]: _nameless._.odometer
+ my_children[1]: _nameless._.outtemp
+ my_children[2]: _nameless._.gear
+ my_children[3]: _nameless._.time
+ my_children[4]: _nameless._.engine.brake.icon
+ my_children[5]: _nameless._.cc.indicator.on
+ my_children[6]: _nameless._.cc_memory
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 950
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.06caf7540
+}
+
+ui::text_common : _nameless._.odometer {
+ value: "123456|mi"
+ look_template: txt.kenwortht680.val_num1
+ text: ""
+ coords_l: 138
+ coords_r: 594
+ coords_t: 622
+ coords_b: 497
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1030
+ layer: 2
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text_common : _nameless._.outtemp {
+ value: "999|F"
+ look_template: txt.kenwortht680.val_num
+ text: ""
+ coords_l: -26
+ coords_r: 182
+ coords_t: 737
+ coords_b: 617
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1000
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text_common : _nameless._.gear {
+ value: D12
+ look_template: txt.kenwortht680.text1
+ text: ""
+ coords_l: 511
+ coords_r: 769
+ coords_t: 658
+ coords_b: 569
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1040
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text_common : _nameless._.time {
+ value: "12:12"
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: 568
+ coords_r: 776
+ coords_t: 775
+ coords_b: 655
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1050
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text : _nameless._.engine.brake.icon {
+ text: "<img src=/material/ui/dashboard/kenworth_t680/display.mat xscale=stretch yscale=stretch top=0.83 bottom=0.99 left=0.595 right=0.84 color=ff9cf19e>"
+ coords_l: 218
+ coords_r: 341
+ coords_t: 762
+ coords_b: 684
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1230
+ layer: 4
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::group : _nameless._.cc.indicator.on {
+ fitting: false
+ my_children: 2
+ my_children[0]: _nameless._.cc_icon
+ my_children[1]: _nameless._.cc_value
+ coords_l: 192
+ coords_r: 541
+ coords_t: 787
+ coords_b: 605
+ area_l: 192
+ area_r: 541
+ area_t: 787
+ area_b: 605
+ id: 1240
+ layer: 5
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::text : _nameless._.cc_icon {
+ text: "<img src=/material/ui/dashboard/kenworth_t680/display.mat height=160 width=380 top=0.74 left=0.385 color=ff9cf19e>"
+ coords_l: 355
+ coords_r: 486
+ coords_t: 787
+ coords_b: 670
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 2
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.cc.indicator.on
+}
+
+ui::text_common : _nameless._.cc_value {
+ value: "60|mph"
+ look_template: txt.kenwortht680.val_num_gr
+ text: ""
+ coords_l: 192
+ coords_r: 541
+ coords_t: 684
+ coords_b: 605
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1100
+ layer: 4
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.cc.indicator.on
+}
+
+ui::text : _nameless._.cc_memory {
+ text: "<img src=/material/ui/dashboard/kenworth_t680/display.mat height=160 width=380 top=0.74 left=0.385 color=ffffffff>"
+ coords_l: 355
+ coords_r: 486
+ coords_t: 787
+ coords_b: 670
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1250
+ layer: 2
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.sharedisplay
+}
+
+ui::group : _nameless._.warning {
+ fitting: false
+ my_children: 3
+ my_children[0]: _nameless.06d042b3d
+ my_children[1]: _nameless.06d042b3e
+ my_children[2]: _nameless.06d042b3f
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 900
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.06caf7540
+}
+
+ui::text_common : _nameless.06d042b3d {
+ value: "SERVICE!\r\n"
+ look_template: txt.kenwortht680.test_wrn
+ text: ""
+ coords_l: 170
+ coords_r: 874
+ coords_t: 377
+ coords_b: 275
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 4
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.warning
+}
+
+ui::text_common : _nameless.06d042b3e {
+ value: "Visit\r\n"
+ look_template: txt.kenwortht680.test_wrn
+ text: ""
+ coords_l: 285
+ coords_r: 989
+ coords_t: 479
+ coords_b: 377
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 4
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.warning
+}
+
+ui::text : _nameless.06d042b3f {
+ text: "<ret><offset hshift=0 vshift=262><img src=/material/ui/dashboard/kenworth_t680/display_warning.mat height=400 width=800>"
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 3
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.warning
+}
+
+ui::group : _nameless._.display2 {
+ fitting: false
+ my_children: 6
+ my_children[0]: _nameless.06d042b310
+ my_children[1]: _nameless._.fuel
+ my_children[2]: _nameless.06d042b312
+ my_children[3]: _nameless._.fuel.dist
+ my_children[4]: _nameless.06d042b314
+ my_children[5]: _nameless.06d042b315
+ coords_l: 0
+ coords_r: 800
+ coords_t: 800
+ coords_b: 0
+ area_l: 0
+ area_r: 800
+ area_t: 800
+ area_b: 0
+ id: 300
+ layer: -1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless.06caf7540
+}
+
+ui::text_common : _nameless.06d042b310 {
+ value: Fuel
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: -276
+ coords_r: 342
+ coords_t: 433
+ coords_b: 326
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless._.fuel {
+ value: "99|gal"
+ look_template: txt.kenwortht680.val_num
+ text: ""
+ coords_l: 183
+ coords_r: 766
+ coords_t: 434
+ coords_b: 293
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1060
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless.06d042b312 {
+ value: Distance
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: -149
+ coords_r: 471
+ coords_t: 343
+ coords_b: 236
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless._.fuel.dist {
+ value: "9999|km"
+ look_template: txt.kenwortht680.val_num
+ text: ""
+ coords_l: 164
+ coords_r: 762
+ coords_t: 342
+ coords_b: 222
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 1080
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text_common : _nameless.06d042b314 {
+ value: "Gauges:"
+ look_template: txt.kenwortht680.text0
+ text: ""
+ coords_l: -328
+ coords_r: 290
+ coords_t: 522
+ coords_b: 415
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 0
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+ui::text : _nameless.06d042b315 {
+ text: "<ret>\r\n<offset hshift=0 vshift=0><img src=/material/ui/dashboard/kenworth_t680/display.mat height=170 width=500 top=0.74 left=0.19>"
+ coords_l: 78
+ coords_r: 198
+ coords_t: 385
+ coords_b: 314
+ area_l: 1
+ area_r: 0
+ area_t: 0
+ area_b: 1
+ id: 0
+ layer: 1
+ tab: -1
+ pointer: -1
+ my_parent: _nameless._.display2
+}
+
+}

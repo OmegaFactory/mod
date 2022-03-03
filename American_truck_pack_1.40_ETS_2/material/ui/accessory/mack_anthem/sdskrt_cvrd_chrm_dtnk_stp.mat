@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sdskrt_cvrd_chrm_dtnk_stp.tobj"
+	texture_name : "texture"
+}

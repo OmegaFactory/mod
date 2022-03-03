@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.weight.add.env.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyhang/spiral/spiral_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/brushed_reflection/brushed_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/upgrade/interior_decors/toyhang/spiral/spiral_n.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.214041 , 0.214041 , 0.214041 }
+	env_factor : { 0.603827 , 0.603827 , 0.603827 }
+	fresnel : { 0.5 , 1 }
+	reflection : 0
+	shininess : 32
+	specular : { 1 , 1 , 1 }
+}

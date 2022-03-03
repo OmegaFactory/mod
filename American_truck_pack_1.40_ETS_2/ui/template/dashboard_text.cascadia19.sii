@@ -1,0 +1,78 @@
+﻿SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "dashboard" for "/ui/template/dashboard.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+#
+# Daimler
+#
+ui::text_template : txt.cascadia19.odo {
+	name: "zDB  Cascadia 2019 Odometer (Right)"
+	text: "<align hstyle=right><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0 </font><offset vshift=-2><font face=/font/big.font xscale=3.85 yscale=4.4>%1</font></align>"
+}
+
+ui::text_template : txt.cascadia19.gear {
+	name: "zDB  Cascadia 2019 Gear (Right)"
+	text: "<align hstyle=right><font face=/font/corporatesbold.font xscale=3.8 yscale=3.8>%0</font></align>"
+}
+
+ui::text_template : txt.cascadia19.temp {
+	name: "zDB  Cascadia 2019 Temperature (Right)"
+	text: "<align hstyle=right><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0 °%1</font><ret></align>"
+}
+
+ui::text_template : txt.cascadia19.avg_eco {
+	name: "zDB  Cascadia 2019 Average Fuel Economy (Double)"
+	text: "<align hstyle=left left=70><font face=/font/corporates.font xscale=2.0 yscale=2.0>Trip </font><offset vshift=-2><font face=/font/big.font xscale=3.85 yscale=4.4>%1: </font></align><ret><align hstyle=right right=-45><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0</font></align><ret><offset vshift=94><align hstyle=right right=-306><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0</font></align><ret><offset vshift=98><align hstyle=left left=305><offset vshift=-6><font face=/font/big.font xscale=3.85 yscale=4.4>%1</font></align>"
+}
+
+ui::text_template : txt.cascadia19.cc {
+	name: "zDB  Cascadia 2019 Cruise Control (Center)"
+	text: "<align hstyle=center><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0</font></align><ret><offset vshift=60><align hstyle=center><font face=/font/big.font xscale=2.9 yscale=3.3>%1</align></font>"
+}
+
+ui::text_template : txt.cascadia19.cc_tol {
+	name: "zDB  Cascadia 2019 CC Tolerance"
+	text: "<font face=/font/corporates.font xscale=2.0 yscale=2.0><color value=FF00FB4E>+%0</font>"
+}
+
+ui::text_template : txt.cascadia19.bigspeed {
+	name: "zDB  Cascadia 2019 Speed (Big)"
+	text: "<align hstyle=right right=-205><font face=/font/corporates.font xscale=5 yscale=5>%0</font></align><ret><offset vshift=103><align hstyle=left left=380><font face=/font/big.font xscale=3.5 yscale=4.0>%1</font></align>"
+}
+
+ui::text_template : txt.cascadia19.trip {
+	name: "zDB  Cascadia 2019 Trip Distance (FixedCenter)"
+	text: "<align hstyle=right right=192><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0</font></align><ret><align hstyle=left left=217><offset vshift=-2><font face=/font/big.font xscale=3.85 yscale=4.4>%1</font></align>"
+}
+
+ui::text_template : txt.cascadia19.trip_time {
+	name: "zDB  Cascadia 2019 Trip Time (FixedCenter)"
+	text: "<align hstyle=right right=192><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0</font></align><ret><align hstyle=left left=217><offset vshift=-2><font face=/font/big.font xscale=3.85 yscale=4.4>hh:mm</font></align>"
+}
+
+ui::text_template : txt.cascadia19.enghours {
+	name: "zDB  Cascadia 2019 Engine Hours"
+	text: "<align hstyle=right><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0:00 hrs</font></align>"
+}
+
+ui::text_template : txt.cascadia19.voltage {
+	name: "zDB  Cascadia 2019 Voltage (Right)"
+	text: "<align hstyle=right><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0 </font><offset vshift=-2><font face=/font/big.font xscale=3.85 yscale=4.4>%1</font></align>"
+}
+
+ui::text_template : txt.cascadia19.compass {
+	name: "zDB  Cascadia 2019 Compass (Right)"
+	text: "<align hstyle=right><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0</font></align>"
+}
+
+ui::text_template : txt.cascadia19.clock {
+	name: "zDB  Cascadia 2019 Clock (Double)"
+	text: "<align hstyle=center><offset vshift=-25><font face=/font/corporates.font xscale=2.0 yscale=2.0>%0</font></align><ret><align hstyle=right><font face=/font/lcd_italic.font xscale=1 yscale=1>%0</font></align>"
+}
+}

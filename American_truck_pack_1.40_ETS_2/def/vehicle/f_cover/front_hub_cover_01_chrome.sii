@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 01_chrome.fcover
+{
+	name: "Star Chrome"
+	price: 400
+	unlock: 20
+	model: "/vehicle/truck/upgrade/wheel/cover/front_hub_cover_01_chrome.pmd"
+	icon: "cover/front_hub_cover_01_chrome"
+}
+}

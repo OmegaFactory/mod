@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : mid200_pt.freightliner.cascadia2019.sideskirt
+{
+	name: "@@paint@@"
+	price: 3530
+	unlock: 12
+	icon: "truck/freightliner_cascadia2019/accessory/sideskirt/sl48_mid_s"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/sideskirt/sl48_mid_s.pmd"
+
+	overrides[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/sideflares/mid_standard.sii"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/accessory/doorstep/plastic.sii"
+
+	suitable_for[]: "6x2m_200.freightliner.cascadia2019.chassis"
+	suitable_for[]: "6x4m_200.freightliner.cascadia2019.chassis"
+}
+}

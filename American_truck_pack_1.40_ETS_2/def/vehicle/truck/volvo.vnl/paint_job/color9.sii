@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : color9.volvo.vnl.paint_job
+{
+	name: "761777 Carolina Green"
+	price: 2900
+	unlock: 0
+	icon: "volvo_vnl/metalic03"
+
+	flipflake: true
+	flip_color: (0.0068, 0.0242, 0.0211)
+	flip_strength: 0.93
+	flake_color: (0.1373, 0.7736, 0.6525)
+	flake_uvscale: 30
+	flake_density: 0.6
+	flake_shininess: 30
+	flake_clearcoat_rolloff: 5
+	flake_noise: "/material/custom/flake_noise.tobj"
+	base_color: (0.0129, 0.0612, 0.0544)
+	stock: false
+}
+}

@@ -1,0 +1,44 @@
+SiiNunit
+{
+accessory_engine_data : mp8_505.mack.anthem.engine
+{
+	name: "Mack MP8 505C"
+	price: 46450
+	unlock: 10
+	info[]: "505 @@hp@@ (377@@kw@@)"
+	info[]: "1@@dg@@860 @@lb_ft@@ (2522@@nm@@)"
+	info[]: "1@@dg@@150 @@rpm@@"
+
+	icon: "engine_mack_mp8"
+
+	torque: 2522
+	volume: 12.8	# 780 cu in
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1000, 0.92)
+	torque_curve[]: (1100, 0.99)
+	torque_curve[]: (1200, 1)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1800, 0.77)
+	torque_curve[]: (1950, 0.65)
+	torque_curve[]: (2200, 0)
+
+	rpm_idle: 650
+	rpm_limit: 2100
+	rpm_limit_neutral: 1400
+	rpm_range_low_gear: (800, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1350, 1850)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+
+// Mack MP8 505 MaxiCruise
+// https://www.macktrucks.com/powertrain-and-suspensions/engines/mp8/
+
+}
+}

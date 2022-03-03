@@ -1,0 +1,35 @@
+# Configuration of the interior sounds for the specific truck interior.
+# If you need override any sound of the interior you need add string "sound_name|sound_id" to the 'sounds' array.
+#
+# The 'sound_id' parameter must be one of:
+# "" (empty string) or ("-") means 'none' sound
+# "[filename].soundref" configuration file of the sound
+# "[bank filename]#[event name]" id of the sound 
+#
+	sounds:20
+	sounds[]: "air_warning|/def/vehicle/truck/common/interior/zm_fh4_air_warning.soundref"
+	sounds[]: "blinker_off|/def/vehicle/truck/common/interior/zm_fh4_blinker_off.soundref"
+	sounds[]: "blinker_on|/def/vehicle/truck/common/interior/zm_fh4_blinker_on.soundref"
+	sounds[]: "stick_blinker|/def/vehicle/truck/common/interior/zm_fh4_stick_blinker.soundref"
+	sounds[]: "stick_blinker_off|/def/vehicle/truck/common/interior/zm_fh4_stick_blinker_off.soundref"
+	sounds[]: "stick_hazard_warning|/def/vehicle/truck/common/interior/zm_fh4_stick_hazard_warning.soundref"
+	sounds[]: "stick_high_beam|/def/vehicle/truck/common/interior//zm_fh4_stick_blinker.soundref"
+	sounds[]: "stick_light_horn|/def/vehicle/truck/common/interior/zm_fh4_stick_blinker.soundref"
+	sounds[]: "stick_lights|/def/vehicle/truck/common/interior/zm_fh4_stick_lights.soundref"
+	sounds[]: "stick_park_brake|/def/vehicle/truck/common/interior/zm_fh4_stick_park_brake.soundref"
+	sounds[]: "stick_park_brake_off|/def/vehicle/truck/common/interior/zm_fh4_stick_park_brake_off.soundref"
+	sounds[]: "stick_engine_brake|/def/vehicle/truck/common/interior/zm_fh4_stick_engine_brake.soundref"
+	sounds[]: "stick_retarder|/def/vehicle/truck/common/interior/zm_fh4_stick_retarder.soundref"
+	sounds[]: "stick_wipers|/def/vehicle/truck/common/interior/zm_fh4_stick_wiper.soundref"
+	sounds[]: "wipers_down|/def/vehicle/truck/common/interior/zm_fh4_wipers_up.soundref"
+	sounds[]: "wipers_up|/def/vehicle/truck/common/interior/zm_fh4_wipers_down.soundref"
+
+	sounds[]: "noise|/sound/truck/default/interior_noise.soundref"
+	sounds[]: "weigh_green|/sound/truck/default/interior_weigh_green.soundref"
+	sounds[]: "weigh_red|/sound/truck/default/interior_weigh_red.soundref"
+	sounds[]: "window_click|/def/vehicle/truck/common/interior/zm_fh4_window_click.soundref"
+	sounds[]: "window_move|/def/vehicle/truck/common/interior/zm_fh4_window_move.soundref"
+
+
+
+

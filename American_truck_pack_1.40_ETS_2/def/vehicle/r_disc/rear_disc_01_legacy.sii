@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_rim_data : 01_legacy.double.rdisc
+{
+	name: "Shadow"
+	price: 1760
+	unlock: 24
+	icon: "disc/rear_disc_01_legacy"
+
+	model: "/vehicle/truck/upgrade/wheel/disc/rear_disc_01_legacy.pmd"
+
+	defaults[]: "/def/vehicle/r_tire/1.sii"
+}
+}

@@ -1,0 +1,37 @@
+SiiNunit
+{
+accessory_transmission_data : dt12_da.freightliner.cascadia2019.transmission
+{
+	name: "Detroit DT12-DA"
+	price: 9760
+	unlock: 4
+	icon: "transmission_detroit_dt12"
+
+	# Detroit DT12-DA-1750 HD (DH1)
+	# Differential Ratio: 2.28 or 2.16
+	differential_ratio: 2.28
+
+	ratios_reverse[0]: -16.39
+	ratios_reverse[1]: -12.77
+	ratios_reverse[2]: -3.72
+	ratios_reverse[3]: -2.9
+
+	ratios_forward[0]: 14.93
+	ratios_forward[1]: 11.64
+	ratios_forward[2]: 9.02
+	ratios_forward[3]: 7.04
+	ratios_forward[4]: 5.64
+	ratios_forward[5]: 4.4
+	ratios_forward[6]: 3.39
+	ratios_forward[7]: 2.65
+	ratios_forward[8]: 2.05
+	ratios_forward[9]: 1.6
+	ratios_forward[10]: 1.28
+	ratios_forward[11]: 1.0
+
+	auto_mode_name: "economy"
+	manual_mode_name: "manual"
+
+@include "sound_dt.sui"
+}
+}

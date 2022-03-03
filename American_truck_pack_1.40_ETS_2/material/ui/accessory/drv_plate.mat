@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "drv_plate.tobj"
+	texture_name : "texture"
+}

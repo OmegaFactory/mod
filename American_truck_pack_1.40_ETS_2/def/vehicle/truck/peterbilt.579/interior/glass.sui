@@ -1,0 +1,47 @@
+glass_pane_data : .peterbilt579.r.pane.front
+{
+	locator: front_glass
+	size: (2.0, 0.76)
+	edge_angle: 30
+	wipers[]: .peterbilt579.r.pane.wiper1
+	wipers[]: .peterbilt579.r.pane.wiper2
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+wiper_data : .peterbilt579.r.pane.wiper1
+{
+	center_bone: joint42
+	length: 0.58
+}
+
+wiper_data : .peterbilt579.r.pane.wiper2
+{
+	center_bone: joint41
+	length: 0.58
+}
+
+glass_pane_data : .peterbilt579.r.pane.close
+{
+	locator: l_glasspane
+	size: (0.76, 0.56)
+
+	openable_window_bone: win_open_l
+	openable_window_mask: "/vehicle/truck/peterbilt_579/interior/win_mask_l.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+glass_pane_data : .peterbilt579.r.pane.far
+{
+	locator: r_glasspane
+	size: (0.76, 0.56)
+
+	openable_window_bone: win_open_r
+	openable_window_mask: "/vehicle/truck/peterbilt_579/interior/win_mask_r.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}

@@ -1,0 +1,62 @@
+	wiper_anim: "/vehicle/truck/peterbilt_579/interior/wipers.pma"
+	wiper_duration_and_delay[]: (2.0, 2.0)
+	wiper_duration_and_delay[]: (2.0, 0.0)
+	wiper_duration_and_delay[]: (1.0, 0.0)
+	wheel_anim: "/vehicle/truck/peterbilt_579/interior/s_wheel.pma"
+	wheel_updown_anim: "/vehicle/truck/peterbilt_579/interior/st_col_rot.pma"
+	wheel_frontback_anim: "/vehicle/truck/peterbilt_579/interior/st_col_ext.pma"
+	wheel_updown_anim_default: 0.5
+	wheel_frontback_anim_default: 0.61
+
+	left_window_stick_anim: "/vehicle/truck/peterbilt_579/interior/win_btn_l.pma"
+	right_window_stick_anim: "/vehicle/truck/peterbilt_579/interior/win_btn_r.pma"
+	left_window_anim: "/vehicle/truck/peterbilt_579/interior/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/peterbilt_579/interior/win_open_r.pma"
+
+	blinker_delay: 0.4
+	blinker_anim: "/vehicle/truck/peterbilt_579/interior/turn_st.pma"
+	lights_anim: "/vehicle/truck/peterbilt_579/interior/cllight_st.pma"
+	high_beam_anim: "/vehicle/truck/peterbilt_579/interior/farlight_st.pma"
+	wiper_stick_anim: "/vehicle/truck/peterbilt_579/interior/wiper_st.pma"
+	parking_stick_anim: "/vehicle/truck/peterbilt_579/interior/st_parking.pma"
+
+	differential_lock_stick_anim: "/vehicle/truck/peterbilt_579/interior/st_diff.pma"
+
+	trailer_air_stick_anim: "/vehicle/truck/peterbilt_579/interior/st_trailer.pma"
+	trailer_brake_stick_anim: "/vehicle/truck/peterbilt_579/interior/st_tr_brake.pma"
+
+	water_temp_anim: "/vehicle/truck/peterbilt_579/interior/water_temp.pma"
+	water_temp_anim_min: 27.5
+	water_temp_anim_max: 150
+	tachometer_anim: "/vehicle/truck/peterbilt_579/interior/rpm.pma"
+	tachometer_anim_min: 0
+	tachometer_anim_max: 3000
+	speedometer_anim: "/vehicle/truck/peterbilt_579/interior/speed.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 129
+	air_pressure_anim: "/vehicle/truck/peterbilt_579/interior/air_psi.pma"
+	air_pressure_anim_min: 0
+	air_pressure_anim_max: 11.25		# 11.25bar = 163psi
+	oil_pressure_anim: "/vehicle/truck/peterbilt_579/interior/oil_psi.pma"
+	oil_pressure_anim_min: 0
+	oil_pressure_anim_max: 6.9		# 6.9bar = 100psi
+	fuel_anim: "/vehicle/truck/peterbilt_579/interior/fuel.pma"
+	ad_blue_anim: "/vehicle/truck/peterbilt_579/interior/ad_blue.pma"
+
+	button_left_blinker: "/vehicle/truck/peterbilt_579/interior/blinker_l.pma"
+	button_right_blinker: "/vehicle/truck/peterbilt_579/interior/blinker_r.pma"
+	button_high_beam_lights: "/vehicle/truck/peterbilt_579/interior/farlight.pma"
+	button_low_fuel: "/vehicle/truck/peterbilt_579/interior/in_fuel.pma"
+	indicator_low_adblue: "/vehicle/truck/peterbilt_579/interior/in_adblue.pma"
+	indicator_stop: "/vehicle/truck/peterbilt_579/interior/in_stop.pma"
+	button_battery_warning: "/vehicle/truck/peterbilt_579/interior/in_battery.pma"
+	indicator_retarder: "/vehicle/truck/peterbilt_579/interior/in_retarder.pma"
+	indicator_low_oil_pressure: "/vehicle/truck/peterbilt_579/interior/in_oilpsi.pma"
+	indicator_low_air_pressure: "/vehicle/truck/peterbilt_579/interior/in_airpsi.pma"
+	indicator_generic: "/vehicle/truck/peterbilt_579/interior/generic.pma"
+	#button_jakebrake: "/vehicle/truck/peterbilt_579/interior/in_jbrake.pma"
+	button_water_temp: "/vehicle/truck/peterbilt_579/interior/in_water.pma"
+	button_parking_brake: "/vehicle/truck/peterbilt_579/interior/parking.pma"
+
+	indicator_weigh_green: "/vehicle/truck/peterbilt_579/interior/in_wp_green.pma"
+	indicator_weigh_red: "/vehicle/truck/peterbilt_579/interior/in_wp_red.pma"

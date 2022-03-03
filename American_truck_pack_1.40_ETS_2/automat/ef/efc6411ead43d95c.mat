@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.nofresnel.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyhang/star/star.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/interior_decors/toyhang/star/star_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/fuzzy_reflection/fuzzy_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.318547 , 0.130055 , 0.00747901 }
+	env_factor : { 0.791177 , 0.514766 , 0.219449 }
+	reflection : 0
+	shininess : 100
+	specular : { 2.137 , 2.137 , 1.10006 }
+}

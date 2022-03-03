@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : shape04s.kenworth.w900.mudflaps
+{
+	name: "Chrome Mudflaps"
+	price: 200
+	unlock: 14
+	icon: "kenworth_w900/mudflaps_04"
+	exterior_model: "/vehicle/truck/upgrade/mudflaps/kenworth_w900/mudflaps04s.pmd"
+
+	suitable_for[]: "short1.kenworth.w900.chassis"
+	suitable_for[]: "short1_6x2.kenworth.w900.chassis"
+	suitable_for[]: "short1_6x2_m.kenworth.w900.chassis"
+	suitable_for[]: "short2.kenworth.w900.chassis"
+	suitable_for[]: "short2_6x2.kenworth.w900.chassis"
+	suitable_for[]: "short2_6x2_m.kenworth.w900.chassis"
+}
+}

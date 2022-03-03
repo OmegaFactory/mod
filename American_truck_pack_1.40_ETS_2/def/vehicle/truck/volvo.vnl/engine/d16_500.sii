@@ -1,0 +1,39 @@
+SiiNunit
+{
+accessory_engine_data : d16_500.volvo.vnl.engine
+{
+	name: "Volvo D16 500"
+	price: 46450
+	unlock: 10
+	info[]: "500 @@hp@@ (373@@kw@@)"
+	info[]: "1@@dg@@850 @@lb_ft@@ (2508@@nm@@)"
+	info[]: "1@@dg@@050 @@rpm@@"
+
+	icon: "engine_volvo_d16"
+
+	torque: 2508
+	volume: 16.1
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (900, 0.92)
+	torque_curve[]: (1000, 1)
+	torque_curve[]: (1450, 1)
+	torque_curve[]: (1900, 0.75)
+	torque_curve[]: (1950, 0.73)
+	torque_curve[]: (2000, 0.65)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 600
+	rpm_limit: 2100
+	rpm_range_low_gear: (750, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1450, 1950)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+}
+}

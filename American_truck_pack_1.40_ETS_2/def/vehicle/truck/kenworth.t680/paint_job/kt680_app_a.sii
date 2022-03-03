@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : kt680_app_a.kenworth.t680.paint_job
+{
+@include "kt680_app_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/kt680_app/pjm_at_0x6144_size_2048x2048.tobj"
+	suitable_for[]: "duty.kenworth.t680.cabin"
+}
+}

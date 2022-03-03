@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : plastic.freightliner.cascadia2019.filters
+{
+	name: "@@standard@@"
+	price: 200
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/filters/plastic"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/filters/plastic.pmd"
+}
+}

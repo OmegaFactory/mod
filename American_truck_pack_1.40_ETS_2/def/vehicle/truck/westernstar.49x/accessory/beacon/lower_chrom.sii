@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : lower_ch.westernstar.49x.beacon
+{
+	name: "Double Radiant Chrome"
+	price: 800
+	unlock: 9
+	icon: "beacon/beacon"
+
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon_ws49x_chrm_i.pmd"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

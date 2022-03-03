@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.t680.cabdefl
+{
+	name: "Daycab Roof Deflector"
+	price: 1150
+	unlock: 6
+	icon: "kenworth_t680/cab_defl"
+	exterior_model: "/vehicle/truck/upgrade/cabdefl/kenworth_t680/cabdefl.pmd"
+//	collision: "/vehicle/truck/upgrade/cabdefl/kenworth_t680/cabdefl.pmc"
+	conflict_with[]: "shape01.kenworth.t680.cabflares"
+
+}
+}

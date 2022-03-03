@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 6.rrim
+{
+	name: "Aero"
+	price: 1240
+	unlock: 15
+	icon: "wr_6"
+	model: "/vehicle/truck/upgrade/wheel/rim/rear_6.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color8.intnational.lonestar.paint_job
+{
+	name: "Green"
+	price: 2900
+	unlock: 0
+ 	base_color: (0.013702, 0.102242, 0.056128)
+	base_color_locked: true
+	stock: true
+}
+}

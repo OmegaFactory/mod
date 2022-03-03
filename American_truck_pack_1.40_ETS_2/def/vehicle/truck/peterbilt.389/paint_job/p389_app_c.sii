@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data : p389_app_c.peterbilt.389.paint_job
+{
+@include "p389_app_settings.sui"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_389/p389_app/pjm_at_0x2048_size_2048x2048.tobj"
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+}
+}

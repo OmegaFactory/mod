@@ -1,0 +1,13 @@
+	name: "Orange"
+	price: 3900
+	unlock: 0
+	base_color: (0.502887, 0.111932, 0.015996)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.623961, 0.428691, 0.070360)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.116971, 0.009134, 0.004025)
+	flip_strength: 0.930000
+	flipflake: true
+	stock: true

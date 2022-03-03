@@ -1,0 +1,10 @@
+SiiNunit
+{
+
+
+@include "trailer/truck_trans_t680_white.sui"
+@include "trailer/truck_trans_t680_red.sui"
+@include "trailer/truck_trans_t680_black.sui"
+@include "trailer/truck_trans_t680_yellow.sui"
+@include "trailer/truck_trans_t680_blue.sui"
+}

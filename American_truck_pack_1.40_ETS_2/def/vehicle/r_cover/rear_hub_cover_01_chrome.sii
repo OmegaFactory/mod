@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 01_chrome.rcover
+{
+	name: "Exclusive Chrome"
+	price: 270
+	unlock: 8
+	model: "/vehicle/truck/upgrade/wheel/cover/rear_hub_cover_01_chrome.pmd"
+	icon: "cover/rear_hub_cover_01_chrome"
+}
+}

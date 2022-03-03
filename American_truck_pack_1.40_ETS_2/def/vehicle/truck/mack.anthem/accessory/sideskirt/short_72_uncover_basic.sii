@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : shr72_ub.mack.anthem.sideskirt
+{
+	name: "@@alu_tank@@"
+	price: 2150
+	unlock: 0
+	icon: "mack_anthem/sdskrt_uncvrd_bsc_rtnk"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_3_3_2.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_3_3_2.pmc"
+
+	suitable_for[]: "6x4s_72.mack.anthem.chassis"
+	suitable_for[]: "6x2s_72.mack.anthem.chassis"
+	suitable_for[]: "4x2s_72.mack.anthem.chassis"
+}
+}

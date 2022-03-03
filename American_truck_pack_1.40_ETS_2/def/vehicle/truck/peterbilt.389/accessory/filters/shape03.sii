@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape03.peterbilt.389.filters
+{
+	name: "Chrome Air Filters With Lights"
+	price: 750
+	unlock: 17
+	icon: "peterbilt_389/filters03"
+	exterior_model: "/vehicle/truck/upgrade/filters/peterbilt_389/filters03.pmd"
+	interior_model: "/vehicle/truck/upgrade/filters/peterbilt_389/filters03interior.pmd"
+}
+}

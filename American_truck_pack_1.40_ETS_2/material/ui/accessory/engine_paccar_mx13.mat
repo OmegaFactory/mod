@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "engine_paccar_mx13.tobj" 
+	texture_name : "texture" 
+} 

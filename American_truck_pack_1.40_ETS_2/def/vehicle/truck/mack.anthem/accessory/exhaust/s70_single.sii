@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : s70_1.mack.anthem.exhaust
+{
+	name: "Single"
+	price: 5340
+	unlock: 5
+	icon: "mack_anthem/exhst_sngl"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/exhaust/exhaust_1_2_2.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

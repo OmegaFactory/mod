@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color13.volvo.vnl.paint_job
+{
+	name: "52380 Blue"
+	price: 2900
+	unlock: 0
+	base_color: (0.0091, 0.0703, 0.1301)
+	base_color_locked: true
+	stock: true
+}
+}

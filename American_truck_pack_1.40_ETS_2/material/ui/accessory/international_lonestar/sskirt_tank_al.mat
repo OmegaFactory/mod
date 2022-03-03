@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sskirt_tank_al.tobj"
+	texture_name : "texture"
+}

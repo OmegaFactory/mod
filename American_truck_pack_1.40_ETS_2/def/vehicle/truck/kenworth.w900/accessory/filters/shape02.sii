@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape02.kenworth.w900.filters
+{
+	name: "Air Filters With Light Bars"
+	price: 650
+	unlock: 11
+	icon: "kenworth_w900/filters_02"
+	exterior_model: "/vehicle/truck/upgrade/filters/kenworth_w900/filters02.pmd"
+	interior_model: "/vehicle/truck/upgrade/filters/kenworth_w900/filters01_interior.pmd"
+}
+}

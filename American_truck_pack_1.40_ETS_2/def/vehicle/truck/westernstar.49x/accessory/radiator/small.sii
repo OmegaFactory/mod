@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_addon_data : small.westernstar.49x.radiator
+{
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/radiator/small.pmd"
+	look: default
+}
+}

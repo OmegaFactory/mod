@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : paint.mack.anthem.sunshield
+{
+	name: "Standard Sunshield"
+	price: 480
+	unlock: 4
+	icon: "mack_anthem/snshld_dcb48_stndrdpntd"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sunshield/sunshield_23_1_2.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/sunshield/sunshield_23_1_2_int.pmd"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+	suitable_for[]: "day.mack.anthem.cabin"
+}
+}

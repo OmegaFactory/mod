@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : chrome_big.mack.anthem.bumper
+{
+	name: "Chromed Large"
+	price: 2540
+	unlock: 13
+	icon: "mack_anthem/bmp_stndrd"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/bumper/bumper_0_2_1.pmd"
+}
+}

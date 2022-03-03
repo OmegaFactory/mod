@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : hi_paint.intnational.lonestar.sideflares
+{
+	name: "Side Flares Bar Paint"
+	price: 250
+	unlock: 0
+	icon: "international_lonestar/sidebar_p"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/sideflares/sideflare_b_p.pmd"
+
+	suitable_for[]: "hirise.intnational.lonestar.cabin"
+}
+}

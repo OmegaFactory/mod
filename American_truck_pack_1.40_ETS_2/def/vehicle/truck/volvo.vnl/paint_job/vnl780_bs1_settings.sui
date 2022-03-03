@@ -1,0 +1,13 @@
+	name: "Operation Big Sur"
+	price: 21250
+	unlock: 0
+	airbrush: true
+	alternate_uvset: true
+	base_color: (0.380400, 0.015700, 0.015700)
+	base_color_locked: false
+	flake_color: (0.537300, 0.494100, 0.505900)
+	flake_color_locked: false
+	flip_color: (0.121600, 0.129400, 0.211800)
+	flip_color_locked: false
+	flipflake: true
+	icon: "volvo_vnl/pnt_bsmemo"

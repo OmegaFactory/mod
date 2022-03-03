@@ -1,0 +1,49 @@
+traffic_vehicle : traffic.wst_49x_dcb
+{
+	accessories[]: .wst_49x_dcb.chassis
+	accessories[]: .wst_49x_dcb.fwheel
+	accessories[]: .wst_49x_dcb.rwheel
+	accessories[]: .wst_49x_dcb.rwheel2
+	accessories[]: .wst_49x_dcb.trlr_cables
+
+	max_speed: 128
+	trailer_chains[]: "truck_semi"
+
+	tags[]: dealer
+
+	sound_move[]: "/sound/traffic/truck_us_4.soundref"
+	sound_horn[]: "/sound/traffic/truck_horn_5.soundref"
+
+	vehicle_mass: 9200
+	engine_power: 373
+
+	lod_dist[]: 55
+	lod_dist[]: 90
+
+	color[]: (0.830770, 0.830770, 0.830770)
+	color[]: (0.337164, 0.002428, 0.002428)
+	color[]: (0.095307, 0.107023, 0.124772)
+	color[]: (0.768151, 0.099899, 0.008568)
+	color[]: (0.019382, 0.034340, 0.020289)
+	color[]: (0.485150, 0.371238, 0.095307)
+	color[]: (0.022174, 0.018500, 0.019382)
+
+	spawn_ratio: 0.2
+}
+
+vehicle_accessory : .wst_49x_dcb.chassis {
+	data_path: "/def/vehicle/ai/truck/westernstar.49x/dcb.sii"
+}
+vehicle_wheel_accessory : .wst_49x_dcb.fwheel {
+	data_path: "/def/vehicle/f_wheel/chrome.sii"
+}
+vehicle_wheel_accessory : .wst_49x_dcb.rwheel {
+	data_path: "/def/vehicle/r_wheel/chrome.sii"
+}
+vehicle_wheel_accessory : .wst_49x_dcb.rwheel2 {
+	data_path: "/def/vehicle/r_wheel/chrome.sii"
+	offset: 2
+}
+vehicle_addon_accessory : .wst_49x_dcb.trlr_cables {
+	data_path: "/def/vehicle/ai/truck/westernstar.49x/accessory/trlr_cables/stock.sii"
+}

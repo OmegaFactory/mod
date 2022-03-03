@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 04_chrome.fcover
+{
+	name: "Standard Chrome"
+	price: 175
+	unlock: 5
+	model: "/vehicle/truck/upgrade/wheel/cover/front_hub_cover_04_chrome.pmd"
+	icon: "cover/front_hub_cover_04_chrome"
+}
+}

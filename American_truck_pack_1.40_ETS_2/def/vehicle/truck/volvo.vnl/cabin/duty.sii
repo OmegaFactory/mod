@@ -1,0 +1,36 @@
+SiiNunit
+{
+accessory_cabin_data : duty.volvo.vnl.cabin
+{
+	name: "300"
+	price: 16600
+	unlock: 0
+	icon: "volvo_vnl/cab01"
+
+	model: "/vehicle/truck/volvo_vnl/truck.pmd"
+	collision: "/vehicle/truck/volvo_vnl/truck.pmc"
+	variant: cab_a
+	look: default
+
+	windows_model: "/vehicle/truck/volvo_vnl/win_open.pmd"
+	left_window_anim: "/vehicle/truck/volvo_vnl/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/volvo_vnl/win_open_r.pma"
+
+	wiper_model: "/vehicle/truck/volvo_vnl/wipers.pmd"
+	wiper_anim: "/vehicle/truck/volvo_vnl/wipers.pma"
+	suspension: false
+
+	defaults[]: "/def/vehicle/truck/volvo.vnl/chassis/short_6x2.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/interior/cab_as.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/mirror/shape03.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/grill/shape02.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/paint_job/color2.sii"
+
+	conflict_with[]: "long.volvo.vnl.chassis"
+	conflict_with[]: "long_8x4.volvo.vnl.chassis"
+	conflict_with[]: "long2.volvo.vnl.chassis"
+	conflict_with[]: "long2_8x4.volvo.vnl.chassis"
+
+@include "sound.sui"
+}
+}

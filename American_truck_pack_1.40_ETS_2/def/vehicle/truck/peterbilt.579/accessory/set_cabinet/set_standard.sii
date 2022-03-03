@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : set_std.peterbilt.579.set_cabinet
+{
+	name: "@@cabinet@@"
+	price: 1
+	unlock: 0
+	icon: "dashbrd_2.dlc_toys"
+
+	interior_model: "/vehicle/truck/upgrade/interior_set/peterbilt_579/set_cabinet_standard.pmd"
+
+	suitable_for[]: "standard.peterbilt.579.interior"
+}
+}

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sb_stock_hp.tobj"
+	texture_name : "texture"
+}

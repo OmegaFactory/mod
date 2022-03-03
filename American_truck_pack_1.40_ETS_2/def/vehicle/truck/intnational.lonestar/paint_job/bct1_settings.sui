@@ -1,0 +1,6 @@
+	name: "Sunset Cityscape"
+	price: 27000
+	unlock: 23
+	airbrush: true
+	base_color: (0.046671, 0.019382, 0.011612)
+	icon: "international_lonestar/pnt_bct1"

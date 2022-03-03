@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "chrmc125mid.tobj"
+	texture_name : "texture"
+}

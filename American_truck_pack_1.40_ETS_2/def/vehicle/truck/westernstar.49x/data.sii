@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.westernstar.49x
+{
+	info[]: "@@brand_westernstar@@"
+	info[]: "@@series_westernstar_49x@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.westernstar.49x
+	interior_camera_oculus: camera.interior.westernstar.49x.oculus
+	bumper_camera: camera.bumper.basic
+
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|6x4_short_75.sii"
+	fallback[]: "cabin|day.sii"
+	fallback[]: "engine|dd13_370.sii"
+	fallback[]: "transmission|10_speed.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_04.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_04.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "interior|day_std.sii"
+	fallback[]: "paint_job|color0.sii"
+	
+    require[]: s_mirror	
+
+	defaults[]: "/def/vehicle/truck/westernstar.49x/transmission/10_speed.sii"
+}
+} 

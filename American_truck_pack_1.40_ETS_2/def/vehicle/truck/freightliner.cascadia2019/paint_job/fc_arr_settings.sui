@@ -1,0 +1,20 @@
+	name: "Striped"
+	price: 21000
+	unlock: 11
+	base_color: (0.434132, 0.434132, 0.434132)
+	base_color_locked: false
+	color_variant[]: (0.009134, 0.009134, 0.009134)
+	color_variant[]: (0.009134, 0.009134, 0.009134)
+	color_variant[]: (0.014444, 0.018504, 0.038210)
+	color_variant[]: (0.028430, 0.165144, 0.327778)
+	color_variant[]: (0.141274, 0.009134, 0.009134)
+	color_variant[]: (0.964686, 0.871335, 0.630731)
+	color_variant[]: (0.964686, 0.871335, 0.630731)
+	color_variant[]: (0.000000, 0.000000, 0.000000)
+	icon: "freightliner_cascadia2019/fci_arr"
+	mask_b_color: (0.010963, 0.010963, 0.010963)
+	mask_b_locked: false
+	mask_g_color: (0.038210, 0.038210, 0.038210)
+	mask_g_locked: false
+	mask_r_color: (0.215846, 0.000000, 0.000000)
+	mask_r_locked: false

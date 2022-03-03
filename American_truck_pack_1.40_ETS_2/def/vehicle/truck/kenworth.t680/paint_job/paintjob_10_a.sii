@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_paint_job_data : paint10_a.kenworth.t680.paint_job
+{
+	name: "Divided"
+	price: 19000
+	unlock: 9
+	icon: "kenworth_t680/paint_bw"
+	mask_r_color: (0.0051, 0.0043, 0.0043)
+	mask_r_locked: false
+	mask_g_color: (0.2704, 0, 0)
+	mask_g_locked: false
+	mask_b_color: (0.3662, 0.0116, 0.0116)
+	mask_b_locked: false
+	base_color: (0.0409, 0.0051, 0.0116)
+	base_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_10_a.tobj"
+	stock: false
+
+	suitable_for[]: "duty.kenworth.t680.cabin"
+}
+}

@@ -1,0 +1,293 @@
+SiiNunit
+{
+vehicle: .truck
+{
+
+ fuel_relative: &3f000000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+ accessories[]: .data
+ accessories[]: .chassis
+ accessories[]: .cabin
+ accessories[]: .interior
+ accessories[]: .engine
+ accessories[]: .transm
+ accessories[]: .headl
+ accessories[]: .ftire
+ accessories[]: .fdisc
+ accessories[]: .fhub
+ accessories[]: .fnuts
+ accessories[]: .fcover
+ accessories[]: .rtire1
+ accessories[]: .rdisc1
+ accessories[]: .rhub1
+ accessories[]: .rnuts1
+ accessories[]: .rcover1
+ accessories[]: .rtire2
+ accessories[]: .rdisc2
+ accessories[]: .rhub2
+ accessories[]: .rnuts2
+ accessories[]: .rcover2
+ accessories[]: .paint
+ accessories[]: .mirror
+ accessories[]: .bumper
+ accessories[]: .exhaust
+ accessories[]: .mudflaps
+ accessories[]: .mudguard
+ accessories[]: .doorhndl
+ accessories[]: .swheel
+ accessories[]: .trlr_cables
+ accessories[]: .grill
+ accessories[]: .sideskirt
+ accessories[]: .cabdefl
+ accessories[]: .s_defl
+ accessories[]: .filters
+ accessories[]: .hood
+ accessories[]: .f_light_chs
+ accessories[]: .sunshield
+ accessories[]: .hndrail
+ accessories[]: .slp_hndl
+ accessories[]: .slp_vent
+ accessories[]: .rear_cab
+
+ odometer: 22
+ odometer_float_part: &3c2ea71b
+}
+
+vehicle_accessory : .data {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/data.sii"
+}
+
+vehicle_accessory : .chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/chassis/6x2_mid_117.sii"
+}
+
+vehicle_accessory : .cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/cabin/sleeper_48.sii"
+}
+
+vehicle_accessory : .interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/interior/s48_standard.sii"
+}
+
+vehicle_accessory : .engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/engine/mp8_415.sii"
+}
+
+vehicle_accessory : .transm {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/transmission/mdrive_ato2612f.sii"
+}
+
+vehicle_accessory : .headl {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : .ftire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .fcover {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+}
+
+vehicle_wheel_accessory : .rtire1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .rdisc1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .rhub1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .rnuts1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .rcover1 {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+
+vehicle_wheel_accessory : .rtire2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .rdisc2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+
+vehicle_wheel_accessory : .rhub2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .rnuts2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+
+vehicle_wheel_accessory : .rcover2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+
+vehicle_paint_job_accessory : .paint {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/paint_job/color0.sii"
+ base_color: (0, 0.1763, 0.0217)
+ flip_color: (0.0001, 0.0092, 0)
+ flake_color: (0.5225, 1, 0.5721)
+}
+
+vehicle_addon_accessory : .mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mirror/paint.sii"
+}
+
+vehicle_addon_accessory : .bumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/bumper/plastic.sii"
+}
+
+vehicle_addon_accessory : .exhaust {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/exhaust/s48_double.sii"
+}
+
+vehicle_addon_accessory : .mudflaps {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mudflaps/standard_mack.sii"
+}
+
+vehicle_addon_accessory : .mudguard {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/mudguard/paint.sii"
+}
+
+vehicle_addon_accessory : .doorhndl {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/doorhndl/plastic.sii"
+}
+
+vehicle_addon_accessory : .swheel {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/steering_w/standard.sii"
+}
+
+vehicle_addon_accessory : .trlr_cables {
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/trlr_cables/stock.sii"
+}
+
+vehicle_addon_accessory : .grill {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/grill/plastic.sii"
+}
+
+vehicle_addon_accessory : .sideskirt {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sideskirt/mid_117_paint_chrom.sii"
+}
+
+vehicle_addon_accessory : .cabdefl {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/cabdefl/s48_roof_cap_black.sii"
+}
+
+vehicle_addon_accessory : .s_defl {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/s_deflector/s48_black.sii"
+}
+
+vehicle_addon_accessory : .filters {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/filters/plastic.sii"
+}
+
+vehicle_addon_accessory : .hood {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/hood/gold_dog.sii"
+}
+
+vehicle_addon_accessory : .f_light_chs {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/f_light_chs/plastic.sii"
+}
+
+vehicle_addon_accessory : .sunshield {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/sunshield/paint.sii"
+}
+
+vehicle_addon_accessory : .hndrail {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/hndrail/plastic.sii"
+}
+
+vehicle_addon_accessory : .slp_hndl {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/slp_hndl/plastic.sii"
+}
+
+vehicle_addon_accessory : .slp_vent {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/slp_vent/paint.sii"
+}
+
+vehicle_addon_accessory : .rear_cab {
+ wear: 0
+ data_path: "/def/vehicle/truck/mack.anthem/accessory/rear_cab/s48_black.sii"
+}
+}

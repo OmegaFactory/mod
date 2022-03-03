@@ -1,0 +1,16 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "brand_mack"		
+	val[]: "Mack"
+
+	key[]: "series_mack_anthem"
+	val[]: "Anthem"
+
+	key[]: "truck_browser_brand_mack_anthem"
+	val[]: "Mack Anthem"
+
+}
+}

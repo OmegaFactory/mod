@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : chrome.mack.anthem.f_light_chs
+{
+	name: "@@chrom@@"
+	price: 2000
+	unlock: 9
+	icon: "mack_anthem/f_light_chrm"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/f_light_chs/f_light_chs_0_1_1.pmd"
+}
+}

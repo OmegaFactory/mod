@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : plastic.intnational.lonestar.mirror
+{
+	name: "@@standard@@"
+	price: 370
+	unlock: 0
+	icon: "international_lonestar/mirror_pl"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/mirror/mirror_pl.pmd"
+	interior_model: "/vehicle/truck/intnational_lonestar/accessory/mirror/mirror_pl_int.pmd"
+}
+}

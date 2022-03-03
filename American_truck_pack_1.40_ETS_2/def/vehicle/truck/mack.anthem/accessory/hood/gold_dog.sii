@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : gold_dog.mack.anthem.hood
+{
+	name: "Bulldog with Pedigree"
+	price: 300
+	unlock: 5
+	icon: "mack_anthem/hood_gld"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/hood/hood_0_1_1.pmd"
+	interior_model: "/vehicle/truck/mack_anthem/accessory/hood/hood_0_1_1.pmd"
+}
+}

@@ -1,0 +1,13 @@
+	name: "Silver"
+	price: 3900
+	unlock: 0
+	base_color: (0.666597, 0.710937, 0.748423)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (1.000000, 0.991102, 0.991102)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.020289, 0.027321, 0.031896)
+	flip_strength: 0.930000
+	flipflake: true
+	stock: true

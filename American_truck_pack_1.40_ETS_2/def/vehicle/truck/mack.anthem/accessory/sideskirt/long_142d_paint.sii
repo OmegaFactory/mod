@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : lng142d_p.mack.anthem.sideskirt
+{
+	name: "@@paint@@, @@d_shape@@"
+	price: 5230
+	unlock: 23
+	icon: "mack_anthem/sdskrt_cvrd_plstc_dtnk"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_1_6_1.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/sideskirt/sideskirt_1_6_1.pmc"
+
+	suitable_for[]: "6x4l_142.mack.anthem.chassis"
+	suitable_for[]: "6x2l_142.mack.anthem.chassis"
+}
+}

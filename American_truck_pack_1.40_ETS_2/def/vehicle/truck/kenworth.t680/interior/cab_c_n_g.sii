@@ -1,0 +1,40 @@
+SiiNunit
+{
+accessory_interior_data	: cabcng.kenworth.t680.interior
+{
+	name: "Vantage Gray Interior"
+	price: 15180
+	unlock: 0
+	icon: "kenworth_t680/int_vg"
+	model: "/vehicle/truck/kenworth_t680/interior/model.pmd"
+	animated_model: "/vehicle/truck/kenworth_t680/interior/anim.pmd"
+	collision: "/vehicle/truck/kenworth_t680/interior/model.pmc"
+	look: gray
+	variant: cab_c_n
+
+	suitable_for[]: "exclusive.kenworth.t680.cabin"
+
+	ext_model: "/vehicle/truck/upgrade/ext_interior/kenworth_t680/stock.pmd"
+	ext_variant: cab_c
+	ext_look: int_n_g
+
+	defaults[]: "/def/vehicle/truck/kenworth.t680/accessory/steering_w/default.sii"
+
+@include "animations.sui"
+
+@include "sound.sui"
+
+@include "computers.sui"
+
+
+	glass_panes[]: .kenwortht680.r.pane.front
+	glass_panes[]: .kenwortht680.r.pane.close
+	glass_panes[]: .kenwortht680.r.pane.far
+	glass_panes[]: .kenwortht680.r.pane.back_c
+
+@include "seat.sui"
+}
+
+@include "glass.sui"
+@include "glass_c.sui"
+}

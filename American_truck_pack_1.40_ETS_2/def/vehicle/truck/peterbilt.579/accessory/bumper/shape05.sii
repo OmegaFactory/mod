@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape05.peterbilt.579.bumper
+{
+	name: "Chromed Large Flares"
+	price: 3210
+	unlock: 17
+	icon: "peterbilt_579/bumper_05"
+	exterior_model: "/vehicle/truck/upgrade/bumper/peterbilt_579/bumper05.pmd"
+}
+}

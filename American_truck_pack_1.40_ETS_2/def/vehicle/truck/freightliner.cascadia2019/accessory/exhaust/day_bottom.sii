@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : day_bottom.freightliner.cascadia2019.exhaust
+{
+	name: "@@bottom@@"
+	price: 3760
+	unlock: 0
+	icon: "truck/freightliner_cascadia2019/accessory/exhaust/dc_stock"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/exhaust/dc_stock.pmd"
+
+	suitable_for[]: "day.freightliner.cascadia2019.cabin"
+}
+}

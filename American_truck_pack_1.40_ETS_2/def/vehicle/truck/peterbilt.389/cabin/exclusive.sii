@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_cabin_data : exclusive.peterbilt.389.cabin
+{
+	name: "Ultra Cab Sleeper"
+	price: 34800
+	unlock: 20
+	icon: "peterbilt_389/cabin_c"
+
+	model: "/vehicle/truck/peterbilt_389/truck.pmd"
+	collision: "/vehicle/truck/peterbilt_389/truck.pmc"
+	variant: var_c
+	look: default
+
+	windows_model: "/vehicle/truck/peterbilt_389/win_open.pmd"
+	left_window_anim: "/vehicle/truck/peterbilt_389/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/peterbilt_389/win_open_r.pma"
+
+	wiper_model: "/vehicle/truck/peterbilt_389/wipers.pmd"
+	wiper_anim: "/vehicle/truck/peterbilt_389/wipers.pma"
+	suspension: false
+
+	defaults[]: "/def/vehicle/truck/peterbilt.389/chassis/long_6x2.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.389/interior/hi_std.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.389/accessory/mirror/shape02.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.389/paint_job/color1.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.389/accessory/doorhndl/shape01c.sii"
+	defaults[]: "/def/vehicle/truck/peterbilt.389/accessory/grill/shape01.sii"
+
+	conflict_with[]: "short.peterbilt.389.chassis"
+	conflict_with[]: "short_6x2.peterbilt.389.chassis"
+	conflict_with[]: "short_6x2_m.peterbilt.389.chassis"
+	conflict_with[]: "short_8x4.peterbilt.389.chassis"
+	conflict_with[]: "short2.peterbilt.389.chassis"
+	conflict_with[]: "short2_6x2.peterbilt.389.chassis"
+	conflict_with[]: "short2_6x2_m.peterbilt.389.chassis"
+	conflict_with[]: "short2_8x6.peterbilt.389.chassis"
+
+@include "sound.sui"
+}
+}

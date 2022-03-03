@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : logo.intnational.lonestar.mudflaps
+{
+	name: "International"
+	price: 200
+	unlock: 9
+	icon: "international_lonestar/mudflap_b"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/mudflaps/mudflap_b.pmd"
+}
+}

@@ -1,0 +1,13 @@
+	name: "Red"
+	price: 3900
+	unlock: 0
+	base_color: (1.000000, 0.040032, 0.027210)
+	flake_clearcoat_rolloff: 5.500000
+	flake_color: (1.000000, 0.261225, 0.177895)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.448006, 0.017392, 0.017392)
+	flip_strength: 0.930000
+	flipflake: true
+	stock: true

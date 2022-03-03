@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_engine_data : mp7_395.mack.anthem.engine
+{
+	name: "Mack MP7 395C"
+	price: 39410
+	unlock: 2
+	info[]: "395 @@hp@@ (295@@kw@@)"
+	info[]: "1@@dg@@560 @@lb_ft@@ (2115@@nm@@)"
+	info[]: "1@@dg@@050 @@rpm@@"
+
+	icon: "engine_mack_mp7"
+
+	torque: 2115
+	volume: 10.8	# 659 cu in
+
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.5)
+	torque_curve[]: (1000, 0.98)
+	torque_curve[]: (1100, 1)
+	torque_curve[]: (1300, 1)
+	torque_curve[]: (1950, 0.64)
+	torque_curve[]: (2400, 0)
+
+	rpm_idle: 650
+	rpm_limit: 2000
+	rpm_limit_neutral: 1400
+	rpm_range_low_gear: (800, 1500)
+	rpm_range_high_gear: (1000, 1400)
+	rpm_range_power: (1300, 1800)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound.sui"
+
+// Mack MP7 395 MaxiCruise
+// https://www.macktrucks.com/powertrain-and-suspensions/engines/mp7/
+
+}
+}

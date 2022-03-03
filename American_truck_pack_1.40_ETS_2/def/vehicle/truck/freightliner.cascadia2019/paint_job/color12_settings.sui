@@ -1,0 +1,5 @@
+	name: "Maroon"
+	price: 2900
+	unlock: 0
+	base_color: (0.204893, 0.004298, 0.016108)
+	stock: true

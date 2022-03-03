@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : stock.westernstar.49x.exhaust
+{
+	name: "Standard Exhaust"
+	price: 10540
+	unlock: 10
+	icon: "truck/westernstar_49x/accessory/exhaust/stock_1"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/exhaust/stock_1.pmd"
+	coll: "/vehicle/truck/westernstar_49x/accessory/exhaust/stock_1.pmc"
+
+	suitable_for[]: "day.westernstar.49x.cabin"
+	suitable_for[]: "daysb.westernstar.49x.cabin"
+}
+}

@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_cabin_data : exclusive.kenworth.w900.cabin
+{
+	name: "AeroCab Sleeper"
+	price: 34800
+	unlock: 0
+	icon: "kenworth_w900/cab_excl"
+
+	model: "/vehicle/truck/kenworth_w900/truck.pmd"
+	collision: "/vehicle/truck/kenworth_w900/truck.pmc"
+	variant: cab_c
+	look: default
+	wiper_model: "/vehicle/truck/kenworth_w900/wipers.pmd"
+	wiper_anim: "/vehicle/truck/kenworth_w900/wipers.pma"
+	suspension: false
+
+	windows_model: "/vehicle/truck/kenworth_w900/win_open.pmd"
+	left_window_anim: "/vehicle/truck/kenworth_w900/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/kenworth_w900/win_open_r.pma"
+
+	defaults[]: "/def/vehicle/truck/kenworth.w900/chassis/long1_6x2.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/interior/standard.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/accessory/exhaust/shape01.sii"
+	defaults[]: "/def/vehicle/truck/kenworth.w900/paint_job/color3.sii"
+
+	conflict_with[]: "short1.kenworth.w900.chassis"
+	conflict_with[]: "short1_6x2.kenworth.w900.chassis"
+	conflict_with[]: "short1_6x2_m.kenworth.w900.chassis"
+	conflict_with[]: "short1_8x4.kenworth.w900.chassis"
+	conflict_with[]: "short2.kenworth.w900.chassis"
+	conflict_with[]: "short2_6x2.kenworth.w900.chassis"
+	conflict_with[]: "short2_6x2_m.kenworth.w900.chassis"
+	conflict_with[]: "short2_8x6.kenworth.w900.chassis"
+
+@include "sound.sui"
+}
+}

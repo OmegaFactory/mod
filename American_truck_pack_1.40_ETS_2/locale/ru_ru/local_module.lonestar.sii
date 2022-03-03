@@ -1,0 +1,16 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "brand_intnational"		
+	val[]: "Intnational"
+
+	key[]: "series_international_lonestar"
+	val[]: "loneStar"
+
+	key[]: "truck_browser_brand_intnational_lonestar"
+	val[]: "Intnational loneStar"	
+
+}
+}

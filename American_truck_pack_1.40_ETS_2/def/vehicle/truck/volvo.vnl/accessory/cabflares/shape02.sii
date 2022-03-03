@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape02.volvo.vnl.cabflares
+{
+	name: "Cabin Lights With Chrome Stripe"
+	price: 140
+	unlock: 2
+	icon: "volvo_vnl/cabflares02"
+	exterior_model: "/vehicle/truck/upgrade/cabflares/volvo_vnl/cabflares02.pmd"
+
+
+}
+}

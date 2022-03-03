@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_paint_job_data : paint03_b.kenworth.t680.paint_job
+{
+	name: "Heavy Cali Bear"
+	price: 29000
+	unlock: 19
+	icon: "kenworth_t680/paint_calibear"
+	airbrush: true
+	base_color: (0.839, 0.831, 0.792)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/kenworth_t680/paintjob_03_b.tobj"
+	stock: false
+	alternate_uvset: true
+
+	suitable_for[]: "standard.kenworth.t680.cabin"
+}
+}

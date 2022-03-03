@@ -1,0 +1,5 @@
+	name: "Yellow"
+	price: 2900
+	unlock: 0
+	base_color: (0.520996, 0.752942, 0.012983)
+	stock: true

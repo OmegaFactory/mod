@@ -1,0 +1,39 @@
+SiiNunit
+{
+accessory_cabin_data : exclusive.volvo.vnl.cabin
+{
+	name: "780"
+	price: 34800
+	unlock: 20
+	icon: "volvo_vnl/cab03"
+
+	model: "/vehicle/truck/volvo_vnl/truck.pmd"
+	collision: "/vehicle/truck/volvo_vnl/truck.pmc"
+	variant: cab_c
+	look: default
+
+	windows_model: "/vehicle/truck/volvo_vnl/win_open.pmd"
+	left_window_anim: "/vehicle/truck/volvo_vnl/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/volvo_vnl/win_open_r.pma"
+
+	wiper_model: "/vehicle/truck/volvo_vnl/wipers.pmd"
+	wiper_anim: "/vehicle/truck/volvo_vnl/wipers.pma"
+	suspension: false
+
+	defaults[]: "/def/vehicle/truck/volvo.vnl/chassis/long.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/interior/cab_cs.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/mirror/shape02.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/grill/shape02.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/paint_job/color2.sii"
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/s_deflector/shape06.sii"
+
+	conflict_with[]: "short.volvo.vnl.chassis"
+	conflict_with[]: "short_4x2.volvo.vnl.chassis"
+	conflict_with[]: "short_8x4.volvo.vnl.chassis"
+	conflict_with[]: "short2.volvo.vnl.chassis"
+	conflict_with[]: "short2_4x2.volvo.vnl.chassis"
+	conflict_with[]: "short2_8x4.volvo.vnl.chassis"
+
+@include "sound.sui"
+}
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : standard.intnational.lonestar.horns
+{
+	name: "Horn Adapter"
+	price: 50
+	unlock: 0
+	icon: "horns"
+
+	exterior_model: "/vehicle/truck/intnational_lonestar/accessory/horns/horns.pmd"
+
+	suitable_for[]: "day.intnational.lonestar.cabin"
+}
+}

@@ -1,0 +1,5 @@
+	name: "Purple"
+	price: 2900
+	unlock: 0
+	base_color: (0.331054, 0.240652, 0.807353)
+	stock: true

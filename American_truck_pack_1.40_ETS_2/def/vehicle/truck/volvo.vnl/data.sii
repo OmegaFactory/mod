@@ -1,0 +1,51 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.volvo.vnl	
+{
+	info[]: "@@brand_volvo@@"
+	info[]: "@@series_volvo_vnl@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.volvo.vnl
+	interior_camera_oculus: camera.interior.volvo.vnl.oculus
+	bumper_camera: camera.bumper.basic
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|short.sii"
+	fallback[]: "cabin|standard.sii"
+	fallback[]: "engine|d11_355.sii"
+	fallback[]: "transmission|10_speed.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_04.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_04.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "interior|cab_bs.sii"
+	fallback[]: "paint_job|color2.sii"
+	fallback[]: "accessory|steering_w/default.sii"
+	
+
+
+	require[]: bumper
+	require[]: deflector
+	require[]: sideskirt
+	require[]: mirror
+	require[]: exhaust
+	require[]: mudflaps
+	require[]: grill
+	require[]: doorhndl
+	require[]: f_light_chs
+	require[]: steering_w
+    require[]: s_mirror	
+}
+}

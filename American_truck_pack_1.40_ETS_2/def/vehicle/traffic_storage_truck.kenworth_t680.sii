@@ -1,0 +1,7 @@
+SiiNunit
+{
+
+@include "ai/kenworth_t680_a_traffic.sui"
+@include "ai/kenworth_t680_b_traffic.sui"
+@include "ai/kenworth_t680_c_traffic.sui"
+}

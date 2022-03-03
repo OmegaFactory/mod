@@ -1,0 +1,16 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "brand_peterbilt"		
+	val[]: "Peterbilt"
+
+	key[]: "series_peterbilt_579"
+	val[]: "579"
+
+	key[]: "truck_browser_brand_peterbilt_579"
+	val[]: "Peterbilt 579"
+
+}
+}

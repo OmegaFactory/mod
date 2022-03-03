@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : fog_std_pt.freightliner.cascadia2019.bumper
+{
+	name: "@@paint@@, @@fog_lights@@"
+	price: 1850
+	unlock: 4
+	icon: "truck/freightliner_cascadia2019/accessory/bumper/fog_paint"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/bumper/fog_paint.pmd"
+}
+}

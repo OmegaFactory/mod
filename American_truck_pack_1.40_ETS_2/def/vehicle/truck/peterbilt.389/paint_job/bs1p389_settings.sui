@@ -1,0 +1,13 @@
+	name: "Operation Big Sur"
+	price: 21250
+	unlock: 0
+	airbrush: true
+	alternate_uvset: true
+	base_color: (0.119548, 0.001214, 0.001214)
+	base_color_locked: false
+	flake_color: (0.250158, 0.208637, 0.219526)
+	flake_color_locked: false
+	flip_color: (0.013705, 0.015212, 0.036889)
+	flip_color_locked: false
+	flipflake: true
+	icon: "peterbilt_389/pnt_bsmemo"

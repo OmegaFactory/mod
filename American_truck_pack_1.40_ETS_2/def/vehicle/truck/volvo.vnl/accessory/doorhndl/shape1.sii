@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01.volvo.vnl.doorhndl
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "volvo_vnl/doorhandle01"
+	exterior_model: "/vehicle/truck/upgrade/doorhandle/volvo_vnl/doorhandle01.pmd"
+}
+}

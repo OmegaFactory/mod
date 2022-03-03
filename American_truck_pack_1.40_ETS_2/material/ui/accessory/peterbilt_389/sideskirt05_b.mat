@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sideskirt05_b.tobj"
+	texture_name : "texture"
+}

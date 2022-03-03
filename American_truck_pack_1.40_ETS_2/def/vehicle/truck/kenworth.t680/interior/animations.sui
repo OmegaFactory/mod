@@ -1,0 +1,64 @@
+	wheel_anim: "/vehicle/truck/kenworth_t680/interior/s_wheel.pma"
+	wheel_updown_anim: "/vehicle/truck/kenworth_t680/interior/st_col_rot.pma"
+	wheel_frontback_anim: "/vehicle/truck/kenworth_t680/interior/st_col_ext.pma"
+	wheel_updown_anim_default: 0.3
+	wheel_frontback_anim_default: 0.5
+
+	left_window_stick_anim: "/vehicle/truck/kenworth_t680/interior/win_btn_l.pma"
+	right_window_stick_anim: "/vehicle/truck/kenworth_t680/interior/win_btn_r.pma"
+	left_window_anim: "/vehicle/truck/kenworth_t680/interior/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/kenworth_t680/interior/win_open_r.pma"
+
+	wiper_anim: "/vehicle/truck/kenworth_t680/interior/wipers.pma"
+	wiper_duration_and_delay[]: (2.0, 2.0)
+	wiper_duration_and_delay[]: (2.0, 0.0)
+	wiper_duration_and_delay[]: (1.0, 0.0)
+	blinker_delay: 0.4
+	blinker_anim: "/vehicle/truck/kenworth_t680/interior/st_turn.pma"
+	lights_anim: "/vehicle/truck/kenworth_t680/interior/st_lights.pma"
+	high_beam_anim: "/vehicle/truck/kenworth_t680/interior/st_farlight.pma"
+	light_horn_stick_anim: "/vehicle/truck/kenworth_t680/interior/st_lghthrn.pma"
+	wiper_stick_anim: "/vehicle/truck/kenworth_t680/interior/st_wipers.pma"
+	parking_stick_anim: "/vehicle/truck/kenworth_t680/interior/st_parking.pma"
+
+	differential_lock_stick_anim: "/vehicle/truck/kenworth_t680/interior/st_diff.pma"
+	indicator_differential_lock: "/vehicle/truck/kenworth_t680/interior/in_diff.pma"
+
+	trailer_air_stick_anim: "/vehicle/truck/kenworth_t680/interior/st_trailer.pma"
+	trailer_brake_stick_anim: "/vehicle/truck/kenworth_t680/interior/st_tr_brake.pma"
+
+	oil_pressure_anim: "/vehicle/truck/kenworth_t680/interior/d_oil_psi.pma"
+	oil_pressure_anim_min: 0
+	oil_pressure_anim_max: 6.9	# 6.9bar = 100psi
+	water_temp_anim: "/vehicle/truck/kenworth_t680/interior/d_wtr_tmp.pma"
+	water_temp_anim_min: 37
+	water_temp_anim_max: 121
+	battery_anim: "/vehicle/truck/kenworth_t680/interior/d_bat_v.pma"
+	battery_anim_min: 9
+	battery_anim_max: 18
+	tachometer_anim: "/vehicle/truck/kenworth_t680/interior/d_rpm.pma"
+	tachometer_anim_min: 0
+	tachometer_anim_max: 3000
+	speedometer_anim: "/vehicle/truck/kenworth_t680/interior/d_speed.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 128
+	air_pressure_anim: "/vehicle/truck/kenworth_t680/interior/d_air_psi.pma"
+	air_pressure_anim_min: 0
+	air_pressure_anim_max: 10 		# 10bar = 145psi
+	brake_pressure_anim: "/vehicle/truck/kenworth_t680/interior/d_br_psi.pma"
+	brake_pressure_anim_min: 0
+	brake_pressure_anim_max: 6.9		# 6.9bar = 100psi
+	fuel_anim: "/vehicle/truck/kenworth_t680/interior/d_fuel.pma"
+	ad_blue_anim: "/vehicle/truck/kenworth_t680/interior/d_adblue.pma"
+
+	button_low_fuel: "/vehicle/truck/kenworth_t680/interior/in_fuel.pma"
+	button_left_blinker: "/vehicle/truck/kenworth_t680/interior/in_left.pma"
+	button_right_blinker: "/vehicle/truck/kenworth_t680/interior/in_right.pma"
+	button_high_beam_lights: "/vehicle/truck/kenworth_t680/interior/in_farlight.pma"
+	button_parking_brake: "/vehicle/truck/kenworth_t680/interior/in_parking.pma"
+	indicator_low_air_pressure: "/vehicle/truck/kenworth_t680/interior/in_air_psi.pma"
+	indicator_generic: "/vehicle/truck/kenworth_t680/interior/in_generic.pma"
+	indicator_warning: "/vehicle/truck/kenworth_t680/interior/in_warning.pma"
+	indicator_stop: "/vehicle/truck/kenworth_t680/interior/in_stop.pma"
+	indicator_weigh_green: "/vehicle/truck/kenworth_t680/interior/in_wp_green.pma"
+	indicator_weigh_red: "/vehicle/truck/kenworth_t680/interior/in_wp_red.pma"

@@ -1,0 +1,10 @@
+	name: "Tentacle"
+	price: 29000
+	unlock: 21
+	base_color: (0.004026, 0.004026, 0.004026)
+	base_color_locked: false
+	icon: "mack_anthem/paint_fst"
+	mask_g_color: (0.021219, 0.018504, 0.017642)
+	mask_g_locked: false
+	mask_r_color: (0.158973, 0.693872, 0.035606)
+	mask_r_locked: false

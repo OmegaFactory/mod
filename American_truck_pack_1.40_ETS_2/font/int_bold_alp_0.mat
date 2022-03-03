@@ -1,0 +1,4 @@
+material : "ui.white_font" {
+	texture : "/font/int_bold_alp_0.tobj"
+	texture_name : "texture"
+}

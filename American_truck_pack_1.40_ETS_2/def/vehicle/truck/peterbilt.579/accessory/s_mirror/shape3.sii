@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape3.peterbilt.579.s_mirror
+{
+	name: "@@standard@@"
+	price: 185
+	unlock: 5
+	icon: "peterbilt_579/side_mirror"
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/mirror_01_side.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/mirror_01_side_int.pmd"
+}
+}

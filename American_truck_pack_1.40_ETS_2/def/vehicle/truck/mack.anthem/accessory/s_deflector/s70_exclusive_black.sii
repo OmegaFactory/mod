@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : s70_exc_bl.mack.anthem.s_deflector
+{
+	name: "Exclusive Side Fairings"
+	price: 1890
+	unlock: 13
+	icon: "mack_anthem/s_defl_s70_blckextndr"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/s_deflector/s_deflector_1_1_4.pmd"
+	coll: "/vehicle/truck/mack_anthem/accessory/s_deflector/s_deflector_1_1_4.pmc"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : std_pt.freightliner.cascadia2019.bumper
+{
+	name: "@@paint@@"
+	price: 1750
+	unlock: 4
+	icon: "truck/freightliner_cascadia2019/accessory/bumper/base_paint"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/bumper/base_paint.pmd"
+}
+}

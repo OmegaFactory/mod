@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : plastic.mack.anthem.slp_hndl
+{
+	name: "@@standard@@"
+	price: 150
+	unlock: 0
+	icon: "mack_anthem/hndl_plstc"
+
+	exterior_model: "/vehicle/truck/mack_anthem/accessory/slp_hndl/slp_hndl_12_1_2.pmd"
+
+	suitable_for[]: "s70.mack.anthem.cabin"
+	suitable_for[]: "s48.mack.anthem.cabin"
+}
+}

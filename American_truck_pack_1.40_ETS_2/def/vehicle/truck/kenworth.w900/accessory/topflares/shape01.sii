@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape01.kenworth.w900.topflares
+{
+	name: "Light Adapter"
+	price: 50
+	unlock: 0
+	icon: "lights"
+	exterior_model: "/vehicle/truck/upgrade/topflares/kenworth_w900/topflares01.pmd"
+	suitable_for[]: "standard.kenworth.w900.cabin"
+}
+}

@@ -1,0 +1,42 @@
+2 engines for all trucks with 1000hp 5550nm @1400-2000rpm (auto) 1400-2300rpm (manual)
+with cummins sound
+8 speed allison transmission
+
+2 variants of the engine tuned slightly different for auto or manual gears
+
+manual variant can rev to 2500rpm with very little power loss
+but dosent work to well in auto as it bounces off rev limiter for a bit in 1st gear
+
+standard trucks:
+
+volvo.fh16
+volvo.fh16_2012
+scania.r
+scania.streamline
+scania.r_2016
+scania.s_2016
+daf.2021
+daf.xf
+daf.xf_euro6
+iveci'hiway
+iveco.stralis
+man.tgx
+man.tgx_euro6
+mercedes.actros
+mercedes.actros2014
+renault.magnum
+renault.premium
+renault.t
+
+mod trucks:
+
+scania.g
+scania.r4
+scania.rs
+scania.t
+scania.t4
+freightliner.argosy
+ford.fmax
+
+scania.touring  (coach) 430hp   2000nm
+iveco.evadys     (bus)  430hp   2000nm

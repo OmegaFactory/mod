@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cabdefl01.tobj"
+	texture_name : "texture"
+}

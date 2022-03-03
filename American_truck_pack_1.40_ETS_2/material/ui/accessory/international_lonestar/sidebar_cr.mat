@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sidebar_cr.tobj"
+	texture_name : "texture"
+}

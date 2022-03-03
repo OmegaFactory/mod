@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dc_small_e.tobj"
+	texture_name : "texture"
+}

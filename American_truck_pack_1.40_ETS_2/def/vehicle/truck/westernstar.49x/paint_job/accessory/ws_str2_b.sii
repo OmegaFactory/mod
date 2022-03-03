@@ -1,0 +1,14 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/westernstar_49x/ws_str2/shared_000000ff.tobj"
+	acc_list[]: "bumper.paint"
+	acc_list[]: "bumper.paint2_sb"
+	acc_list[]: "bumper.paint_sb"
+	acc_list[]: "bumper.pnt2_log_sb"
+	acc_list[]: "bumper.pnt_log"
+	acc_list[]: "bumper.pnt_log_sb"
+	acc_list[]: "f_grill.paint"
+}
+}

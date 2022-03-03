@@ -1,0 +1,246 @@
+SiiNunit
+{
+
+vehicle: .company.truck
+{
+
+ fuel_relative: &3f000000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+
+ accessories[]: .volvo_3.data
+ accessories[]: .volvo_3.chassis
+ accessories[]: .volvo_3.cabin
+ accessories[]: .volvo_3.interior
+ accessories[]: .volvo_3.engine
+ accessories[]: .volvo_3.transm
+ accessories[]: .volvo_3.headl
+ accessories[]: .volvo_3.f_light_chs
+ accessories[]: .volvo_3.ftire
+ accessories[]: .volvo_3.fdisc
+ accessories[]: .volvo_3.fhub
+ accessories[]: .volvo_3.fnuts
+ accessories[]: .volvo_3.fcover
+ accessories[]: .volvo_3.rtire1
+ accessories[]: .volvo_3.rdisc1
+ accessories[]: .volvo_3.rhub1
+ accessories[]: .volvo_3.rnuts1
+ accessories[]: .volvo_3.rcover1
+ accessories[]: .volvo_3.rtire2
+ accessories[]: .volvo_3.rdisc2
+ accessories[]: .volvo_3.rhub2
+ accessories[]: .volvo_3.rnuts2
+ accessories[]: .volvo_3.rcover2
+ accessories[]: .volvo_3.paint
+ accessories[]: .volvo_3.mirror
+ accessories[]: .volvo_3.bumper
+ accessories[]: .volvo_3.sideskirt
+ accessories[]: .volvo_3.sideskrt_bar
+ accessories[]: .volvo_3.exhaust
+ accessories[]: .volvo_3.s_deflector
+ accessories[]: .volvo_3.deflector
+ accessories[]: .volvo_3.grill
+ accessories[]: .volvo_3.mudflaps
+ accessories[]: .volvo_3.cabflares
+ accessories[]: .volvo_3.doorhndl
+ accessories[]: .volvo_3.swheel
+ accessories[]: .volvo_3.trlr_cables
+
+ odometer: 0
+ odometer_float_part: &3c2ea71b
+}
+
+vehicle_accessory : .volvo_3.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/data.sii"
+}
+
+vehicle_accessory : .volvo_3.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/chassis/long.sii"
+}
+
+vehicle_accessory : .volvo_3.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/cabin/exclusive.sii"
+}
+
+vehicle_accessory : .volvo_3.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/interior/cab_cs.sii"
+}
+
+vehicle_accessory : .volvo_3.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/engine/d16_550.sii"
+}
+
+vehicle_accessory : .volvo_3.transm {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/transmission/18_speed_retarder.sii"
+}
+
+vehicle_accessory : .volvo_3.headl {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/head_light/standard.sii"
+}
+
+
+vehicle_addon_accessory : .volvo_3.f_light_chs {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/f_light_chs/stock.sii"
+}
+
+
+
+vehicle_wheel_accessory : .volvo_3.ftire {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/f_tire/1.sii"
+}
+vehicle_wheel_accessory : .volvo_3.fdisc {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/f_disc/front_disc_04.sii"
+}
+vehicle_wheel_accessory : .volvo_3.fhub {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+vehicle_wheel_accessory : .volvo_3.fnuts {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/f_nuts/front_nuts_02_steel.sii"
+}
+vehicle_wheel_accessory : .volvo_3.fcover {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/f_cover/front_hub_cover_04.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rtire1 {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rdisc1 {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rhub1 {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rnuts1 {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rcover1 {
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rtire2 {
+	offset: 2
+	wear: 0
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rdisc2 {
+	offset: 2
+	wear: 0
+	data_path: "/def/vehicle/r_disc/rear_disc_04.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rhub2 {
+	offset: 2
+	wear: 0
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rnuts2 {
+	offset: 2
+	wear: 0
+	data_path: "/def/vehicle/r_nuts/rear_nuts_02_steel.sii"
+}
+vehicle_wheel_accessory : .volvo_3.rcover2 {
+	offset: 2
+	wear: 0
+	data_path: "/def/vehicle/r_cover/rear_hub_cover_01.sii"
+}
+
+
+vehicle_paint_job_accessory : .volvo_3.paint {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/paint_job/color11.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/mirror/shape03.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.bumper {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/bumper/shape01.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.sideskirt {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/sideskirt/shape03.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.sideskrt_bar {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/sideskrt_bar/shape07.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.exhaust {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/exhaust/shape01.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.s_deflector {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/s_deflector/shape07.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.deflector {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/deflector/shape01.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.grill {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/grill/shape02.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.mudflaps {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/mudflaps/shape01.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.cabflares {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/cabflares/shape01.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.doorhndl {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/doorhndl/shape2.sii"
+}
+vehicle_addon_accessory : .volvo_3.swheel {
+ wear: 0
+ data_path: "/def/vehicle/truck/volvo.vnl/accessory/steering_w/default.sii"
+}
+
+vehicle_addon_accessory : .volvo_3.trlr_cables {
+	data_path: "/def/vehicle/truck/volvo.vnl/accessory/trlr_cables/stock.sii"
+}
+
+}

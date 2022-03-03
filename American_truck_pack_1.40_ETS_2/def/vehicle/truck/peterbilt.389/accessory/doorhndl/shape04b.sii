@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape04b.peterbilt.389.doorhndl
+{
+	name: "@@chrom2@@"
+	price: 630
+	unlock: 13
+	icon: "peterbilt_389/doorhandle04"
+	exterior_model: "/vehicle/truck/upgrade/doorhandle/peterbilt_389/doorhandle04_b.pmd"
+
+	suitable_for[]: "standard.peterbilt.389.cabin"
+}
+}

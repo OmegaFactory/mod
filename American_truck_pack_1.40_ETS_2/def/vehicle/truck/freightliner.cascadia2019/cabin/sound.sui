@@ -1,0 +1,6 @@
+
+	sounds: 4
+	sounds[]: "horn|/def/vehicle/truck/freightliner.cascadia2019/cabin/sound_horn.soundref"
+	sounds[]: "air_horn|/sound/truck/air_horn/air_horn_12.soundref"
+	sounds[]: "aero_noise|/sound/truck/default/noise_aero.soundref"
+	sounds[]: "rain_noise|/sound/truck/default/noise_rain.soundref"

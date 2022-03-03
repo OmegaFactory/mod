@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : exclusive.peterbilt.579.steering_w
+{
+	name: "Peterbilt Platinum"
+	price: 360
+	unlock: 10
+	icon: "peterbilt_579/steering_w_excl"
+	interior_model: "/vehicle/truck/upgrade/steering_w/peterbilt_579/exclusive.pmd"
+
+}
+}

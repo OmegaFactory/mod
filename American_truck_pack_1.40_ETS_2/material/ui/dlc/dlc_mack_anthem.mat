@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dlc_mack_anthem.tobj"
+	texture_name : "texture"
+}

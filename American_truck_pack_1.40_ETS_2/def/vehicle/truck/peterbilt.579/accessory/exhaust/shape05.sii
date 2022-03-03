@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_addon_data : shape05.peterbilt.579.exhaust
+{
+	name: "SCR Eco"
+	price: 3760
+	unlock: 0
+	icon: "peterbilt_579/exhaust_03"
+
+	exterior_model: "/vehicle/truck/upgrade/exhaust/peterbilt_579/exhaust05.pmd"
+
+	suitable_for[]: "short.peterbilt.579.chassis"
+	suitable_for[]: "short_6x2.peterbilt.579.chassis"
+	suitable_for[]: "short_6x2_m.peterbilt.579.chassis"
+	suitable_for[]: "short_4x2.peterbilt.579.chassis"
+	suitable_for[]: "short2.peterbilt.579.chassis"
+	suitable_for[]: "short2_6x2.peterbilt.579.chassis"
+	suitable_for[]: "short2_6x2_m.peterbilt.579.chassis"
+	suitable_for[]: "short2_4x2.peterbilt.579.chassis"
+}
+}

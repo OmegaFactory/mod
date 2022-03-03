@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape12.volvo.vnl.sideskrt_bar
+{
+	name: "Chromed Flares"
+	price: 2000
+	unlock: 11
+	icon: "volvo_vnl/s_bar06"
+	exterior_model: "/vehicle/truck/upgrade/sideskrt_bar/volvo_vnl/stripe06_long.pmd"
+	suitable_for[]: "shape04.volvo.vnl.sideskirt"
+
+
+}
+}

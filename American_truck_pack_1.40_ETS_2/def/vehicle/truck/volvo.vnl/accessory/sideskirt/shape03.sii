@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_addon_data : shape03.volvo.vnl.sideskirt
+{
+	name: "@@standard@@"
+	price: 5180
+	unlock: 4
+	icon: "volvo_vnl/sideskirt03"
+
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/volvo_vnl/sideskirt01_long.pmd"
+
+	suitable_for[]: "long.volvo.vnl.chassis"
+	suitable_for[]: "long_6x2.volvo.vnl.chassis"
+	suitable_for[]: "long_6x2_m.volvo.vnl.chassis"
+	suitable_for[]: "long_8x4.volvo.vnl.chassis"
+	suitable_for[]: "long2.volvo.vnl.chassis"
+	suitable_for[]: "long2_6x2.volvo.vnl.chassis"
+	suitable_for[]: "long2_6x2_m.volvo.vnl.chassis"
+	suitable_for[]: "long2_8x4.volvo.vnl.chassis"
+
+	defaults[]: "/def/vehicle/truck/volvo.vnl/accessory/sideskrt_bar/shape07.sii"
+}
+}

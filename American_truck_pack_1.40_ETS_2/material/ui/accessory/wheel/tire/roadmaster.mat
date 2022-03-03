@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "roadmaster.tobj"
+	texture_name : "texture"
+}

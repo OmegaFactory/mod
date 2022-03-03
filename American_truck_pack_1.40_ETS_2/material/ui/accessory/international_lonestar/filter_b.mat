@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "filter_b.tobj"
+	texture_name : "texture"
+}

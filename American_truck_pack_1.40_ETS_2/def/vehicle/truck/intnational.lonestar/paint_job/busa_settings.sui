@@ -1,0 +1,17 @@
+	name: "American Star"
+	price: 22000
+	unlock: 15
+	airbrush: true
+	base_color: (0.019278, 0.040554, 0.254144)
+	base_color_locked: false
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.142938, 0.285991, 0.658352)
+	flake_color_locked: false
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.019887, 0.042222, 0.095313)
+	flip_color_locked: false
+	flip_strength: 0.930000
+	flipflake: true
+	icon: "international_lonestar/pnt_busa"

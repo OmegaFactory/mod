@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01.volvo.vnl.grill
+{
+	name: "@@chrom@@"
+	price: 3400
+	unlock: 8
+	icon: "volvo_vnl/grill01"
+	exterior_model: "/vehicle/truck/upgrade/grill/volvo_vnl/grill01.pmd"
+}
+}

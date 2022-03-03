@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape07c.peterbilt.389.sideskirt
+{
+	name: "Chrome Combo I Sideskirts"
+	price: 5180
+	unlock: 11
+	icon: "peterbilt_389/sideskirt07_c"
+	exterior_model: "/vehicle/truck/upgrade/sideskirt/peterbilt_389/sideskirt07_c.pmd"
+
+	suitable_for[]: "exclusive.peterbilt.389.cabin"
+}
+}

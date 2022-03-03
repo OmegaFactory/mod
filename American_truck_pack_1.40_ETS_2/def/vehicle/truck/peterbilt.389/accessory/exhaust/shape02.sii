@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape02.peterbilt.389.exhaust
+{
+	name: "Standard Exhaust"
+	price: 6840
+	unlock: 0
+	icon: "peterbilt_389/exhaust02"
+	exterior_model: "/vehicle/truck/upgrade/exhaust/peterbilt_389/exhaust02.pmd"
+}
+}

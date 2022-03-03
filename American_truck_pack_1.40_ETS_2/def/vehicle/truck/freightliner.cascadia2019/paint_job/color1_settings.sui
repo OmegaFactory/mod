@@ -1,0 +1,13 @@
+	name: "Cypress"
+	price: 3900
+	unlock: 0
+	base_color: (0.174647, 0.332452, 0.603828)
+	flake_clearcoat_rolloff: 5.000000
+	flake_color: (0.155926, 0.412543, 0.737911)
+	flake_density: 0.600000
+	flake_shininess: 30.000000
+	flake_uvscale: 20.000000
+	flip_color: (0.003677, 0.015209, 0.026241)
+	flip_strength: 0.930000
+	flipflake: true
+	stock: true

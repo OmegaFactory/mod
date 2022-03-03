@@ -1,0 +1,5 @@
+	name: "White"
+	price: 2800
+	unlock: 0
+	base_color: (0.814847, 0.814847, 0.814847)
+	stock: true

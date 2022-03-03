@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "r_285_75_roadm.tobj"
+	texture_name : "texture"
+}

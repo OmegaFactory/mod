@@ -1,0 +1,8 @@
+SiiNunit
+{
+@include "units/bumper_kenworth_w900.sui"
+@include "units/interior_kenworth_w900.sui"
+@include "units/window_kenworth_w900.sui"
+}
+
+

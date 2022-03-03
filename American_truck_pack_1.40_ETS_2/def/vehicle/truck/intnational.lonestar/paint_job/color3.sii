@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color3.intnational.lonestar.paint_job
+{
+	name: "Blue"
+	price: 2800
+	unlock: 0
+ 	base_color: (0.015209, 0.070360, 0.283149)
+	base_color_locked: true
+	stock: true
+}
+}

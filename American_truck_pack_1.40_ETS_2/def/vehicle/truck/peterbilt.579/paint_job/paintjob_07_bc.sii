@@ -1,0 +1,34 @@
+SiiNunit
+{
+accessory_paint_job_data : paint07_bc.peterbilt.579.paint_job
+{
+	name: "Torn Metal"
+	price: 27000
+	unlock: 17
+	icon: "peterbilt_579/paint_flag"
+	base_color: (0.4, 0.4, 0.4)
+	airbrush: true
+	flipflake: true
+
+	flip_color: (0.15, 0.15, 0.15)
+	flake_color: (1, 1, 1)
+
+	flip_strength: 1.3
+	flake_uvscale: 48.0
+	flake_density: 0.6
+	flake_shininess: 20.0
+	flake_clearcoat_rolloff: 4.5
+	flake_noise: "/material/custom/flake_noise.tobj"
+
+	base_color_locked: false
+	flip_color_locked: false
+	flake_color_locked: false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/peterbilt_579/paintjob_07_bc.tobj"
+	stock: false
+
+
+
+	suitable_for[]: "standard.peterbilt.579.cabin"
+	suitable_for[]: "exclusive.peterbilt.579.cabin"
+}
+}

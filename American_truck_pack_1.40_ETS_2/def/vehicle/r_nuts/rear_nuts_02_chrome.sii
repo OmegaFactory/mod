@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_rim_data : 02_chrome.rnuts
+{
+	name: "Cap Chrome"
+	price: 110
+	unlock: 6
+	model: "/vehicle/truck/upgrade/wheel/nuts/rear_nuts_02_chrome.pmd"
+	icon: "nuts/nuts_02_chrome"
+}
+}

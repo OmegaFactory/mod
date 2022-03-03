@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : s48.freightliner.cascadia2019.horns
+{
+	name: "Horn Adapter"
+	price: 50
+	unlock: 0
+	icon: "horns"
+
+	exterior_model: "/vehicle/truck/freightliner_cascadia2019/accessory/horns/sl48_horns.pmd"
+
+	suitable_for[]: "s48.freightliner.cascadia2019.cabin"
+
+	conflict_with[]: "s48_aero.freightliner.cascadia2019.cabdefl"
+}
+}

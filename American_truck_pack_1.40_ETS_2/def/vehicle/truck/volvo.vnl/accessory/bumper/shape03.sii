@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape03.volvo.vnl.bumper
+{
+	name: "Classic III"
+	price: 3040
+	unlock: 15
+	icon: "volvo_vnl/bumper03"
+	exterior_model: "/vehicle/truck/upgrade/bumper/volvo_vnl/bumper12.pmd"
+}
+}

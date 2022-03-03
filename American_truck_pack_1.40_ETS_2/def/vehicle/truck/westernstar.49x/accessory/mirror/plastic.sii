@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : plastic.westernstar.49x.mirror
+{
+	name: "@@standard@@"
+	price: 290
+	unlock: 0
+	icon: "truck/westernstar_49x/accessory/mirror/plstc_chrmc"
+
+	exterior_model: "/vehicle/truck/westernstar_49x/accessory/mirror/plstc_chrmc.pmd"
+	interior_model: "/vehicle/truck/westernstar_49x/accessory/mirror/fullplstc_int.pmd"
+}
+}
