@@ -8,7 +8,7 @@ mod_package : mod_sislsmp {
     package_version: ""
 
     # Display name can be any string with any length.
-    display_name: "No Speed limits"
+    display_name: "No Speed limits omega"
 
     # Author can be any string with any length.
     author: "27C"

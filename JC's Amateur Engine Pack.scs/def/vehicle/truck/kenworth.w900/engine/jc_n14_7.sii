@@ -1,15 +1,15 @@
 SiiNunit
 {
-accessory_engine_data : jcn14_6.kenworth.w900.engine
+accessory_engine_data : jcn14_7.kenworth.w900.engine
 {
-	name: "Cummins N14 1355 OmegaFactory"
+	name: "Cummins N14 800 OmegaFactory"
 	price: 100
 	unlock: 0
-	info[]: "1355 @@hp@@ (996@@kw@@)"
-	info[]: "(6000@@Nm@@)"
+	info[]: "800 @@hp@@ (588@@kw@@)"
+	info[]: "(3500@@Nm@@)"
 	info[]: "1@@dg@@700 @@rpm@@"
 	icon: "jc_n14"
-	torque: 6000
+	torque: 3500
 
 	torque_curve[]: (300, 0)
 	torque_curve[]: (440, 0.65)
